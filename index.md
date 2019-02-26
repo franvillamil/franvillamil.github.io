@@ -11,6 +11,6 @@ In my dissertation,
 
 
 
-[RESEARCH](./research.html)
-[DATA](./data.html)
-[CV](./files/cv.pdf)
+* [RESEARCH](./research.html)
+* [DATA](./data.html)
+* [CV](./files/cv.pdf)
