@@ -3,7 +3,8 @@ layout: default
 ---
 
 
-#### [Research](./research.html) - [Data & Code](./data.html) - [CV](./files/cv.pdf)
+#### [About](./index.html) / [Research](./research.html) / [Data & Code](./data.html) / [CV](./files/cv.pdf)
+
 
 I'm a PhD candidate in the International Conflict Research group at ETH Zurich. I hold an MA in Comparative and International Studies (2016) from ETH Zurich and a BA in Sociology (2014) from the University of Salamanca.
 
