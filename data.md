@@ -1,9 +1,19 @@
+---
+layout: default
+---
+
+-------------------
+
+#### [About](./index.html) / [Research](./research.html) / [Data & Code](./data.html) / [CV](./files/cv.pdf)
+
+-------------------
+
 ## Data and resources
 
-##### Software
+#### Software
 
 - R package `muniSpain`
 
-##### Data
+#### Data
 
 - coming soon
