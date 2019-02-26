@@ -12,7 +12,7 @@ layout: default
 
 #### Dissertation/book project
 
-In my dissertation,
+In my dissertation, ---
 
 #### Working papers
 
@@ -31,7 +31,3 @@ With Lars-Erik Cederman, Simon Hug, and Livia Schubiger. Under review.
 **Teachers as Fifth-Columnists: The Case of Fracoist Spain.**
 
 With Laia Balcells.
-
-> Internal purges are a common phenomenon by which states attempt to elimi- nate political dissidents within their own ranks. However, partly because of their secretive nature and the absence of reliable data, we know little about the logic and dynamics of these purges. Who are the targets of these purges? When are they targeted? Previous literature on internal purges has mostly focused on physical repression of ongoing, behavioral dissent, or on intra-elite fighting and so-called coup-proofing. But, several questions about the internal repression of lower-rank members of the state remain open. In particular, why do state authorities persecute these individuals when they do not suppose a clear threat to their existence? Are macro-level political cleavages relevant to explain these purges?
->
-> In this article, we attempt to answer these questions focusing on the purges of public school teachers during the first years of Francisco Franco’s regime in Spain. Already during the late stages of the Spanish Civil War (1936-1939), in the areas under their military control, Francoist authorities removed all public school teachers from service and forced them to go through a ‘purges commission’ should they wanted to work as teachers again. Using a secondary historical source that, to our knowledge, has not yet been exploited quantitatively, we explore whether teachers were more likely to be purged following the two main cleavages in 1930s Spain: the left-right divide and the center-periphery division. Our results suggest that while the war was still unfolding, purging was targeting mostly teachers from leftist (i.e. Republican) areas, which arguably corresponds to the military threat that was still present. Purges were an instrument to a potential security threat behind the frontlines. After the Francoists won the war, when the military threat was significantly lower, the purges targeted mostly teachers from national minority groups (e.g., Catalans, Basques). The purges were then not a response to a potential security threat, but a way to promote an assimilationist nation-building policy. Overall, our findings speak to the literature on state repression, suggesting that broader purges of low-rank state employees can constitute both an attempt to repress internal dissent and a nation-building tool.
