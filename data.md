@@ -12,7 +12,7 @@ layout: default
 
 #### Software
 
-- R package `muniSpain`
+- The R package [`muniSpain`](https://github.com/franvillamil/munispain) , ... 
 
 #### Data
 
