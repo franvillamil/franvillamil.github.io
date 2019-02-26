@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Research](./research.html) - [Data & Code](./data.html) - [CV](./files/cv.pdf)
+#### [About](./index.html) - [Research](./research.html) - [Data & Code](./data.html) - [CV](./files/cv.pdf)
 
 ## Research
 
