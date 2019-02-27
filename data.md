@@ -22,8 +22,8 @@ In particular, the strategy to deal with territorial changes in municipalities i
 
 #### Scraping census data from INE
 
-[R code](https://github.com/franvillamil/scrap-INE-census) to scrap census data from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/).
+[R code](https://github.com/franvillamil/scrap-INE-census) to scrap census data from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/)'s website. 
 
-#### Data
+### Data
 
 - coming soon
