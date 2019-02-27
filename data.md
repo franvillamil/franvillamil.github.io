@@ -20,6 +20,8 @@ The package also allows converting municipality names (including old and multi-l
 
 In particular, the strategy to deal with territorial changes in municipalities is that of ensuring that local-level datasets at any point in time during the period of interest can be aggregated together. This means that if municipalities A and B were at some point merged into a larger municipality Z, they will be merged for the whole period. Similarly, if D gained independence from C, the two municipalities will also be merged for the whole period.
 
+Installation and code on the [Github repository](https://github.com/franvillamil/munispain).
+
 #### Scraping census data from INE
 
 [R code](https://github.com/franvillamil/scrap-INE-census) to scrap census data from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/)'s website. 
