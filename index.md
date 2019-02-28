@@ -2,12 +2,6 @@
 layout: default
 ---
 
--------------------
-
-#### [About](./index.html) / [Research](./research.html) / [Data & Code](./data.html) / [CV](./files/cv.pdf)
-
--------------------
-
 I'm a PhD candidate in the International Conflict Research group at ETH Zurich. I hold an MA in Comparative and International Studies (2016) from ETH Zurich and a BA in Sociology (2014) from the University of Salamanca.
 
 My current research focuses on the consequences of political violence, with an emphasis on how social dynamics shape preference formation in conflict contexts. More broadly, I'm interested in the way the social context conditions individuals' political behavior, particularly in relation to political violence, ethnic politics and nationalism.
