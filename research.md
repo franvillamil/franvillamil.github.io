@@ -32,8 +32,8 @@ With Laia Balcells.
 
 #### The life and death of the *bar de barrio*?
 
-[Code to get the data and results (in Github](https://github.com/franvillamil/tripadvisor_reviews)
-
 [First results (PDF)](https://github.com/franvillamil/tripadvisor_reviews/raw/master/writing/report.pdf)
 
-> Small project on the effects of AirBnB on the clientele of local bars and restaurants. In particular, focusing on the city of Madrid, the project analyzes whether the number of AirBnB listings in each neighbourhood, and its increase over time, is related to the number of international visitors to local bars and restaurants.
+[R code to get the data and results](https://github.com/franvillamil/tripadvisor_reviews)
+
+> Small side project on the effects of AirBnB on the clientele of local bars and restaurants. In particular, focusing on the city of Madrid, the project analyzes whether the number of AirBnB listings in each neighbourhood, and its increase over time, is related to the number of international visitors to local bars and restaurants, proxied by the number of reviews in Spanish vs reviews in English on TripAdvisor.
