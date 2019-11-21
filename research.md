@@ -27,3 +27,13 @@ With Lars-Erik Cederman, Simon Hug, and Livia Schubiger. Under review.
 #### Teachers as Fifth-Columnists: The Case of Fracoist Spain.
 
 With Laia Balcells.
+
+### Reports / others
+
+#### The life and death of the *bar de barrio*?
+
+[Code to get the data and results (in Github](https://github.com/franvillamil/tripadvisor_reviews)
+
+[First results (PDF)](./files/airbnb.pdf)
+
+> Small project on the effects of AirBnB on the clientele of local bars and restaurants. In particular, focusing on the city of Madrid, the project analyzes whether the number of AirBnB listings in each neighbourhood, and its increase over time, is related to the number of international visitors to local bars and restaurants.
