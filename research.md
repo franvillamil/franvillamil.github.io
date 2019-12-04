@@ -26,6 +26,8 @@ In my dissertation, I explore the long-term legacies of civil wars for political
 
 ### Working papers
 
+#### Wartime collective targeting and postwar ethnic mobilization.
+
 #### Teachers as Fifth-Columnists: The Case of Fracoist Spain.
 
 With Laia Balcells.
