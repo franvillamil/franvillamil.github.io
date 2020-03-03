@@ -20,7 +20,7 @@ layout: default
 
 ### Dissertation / book project
 
-* [**Mobilizing memories: The long-term consequences of wartime violence against civilians.**](./dissertation.html)
+* **Mobilizing memories: The long-term consequences of wartime violence against civilians.** [(more info)](./dissertation.html)
 
     * Defense February 2020, ETH Zurich.
     * Supervisor: Lars-Erik Cederman.
