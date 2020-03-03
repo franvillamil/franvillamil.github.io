@@ -22,4 +22,4 @@ More information and installation on the [Github repository](https://github.com/
 
 ### Data
 
-- coming soon
+*(data files and R code coming soon)*
