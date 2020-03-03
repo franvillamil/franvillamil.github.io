@@ -26,9 +26,4 @@ layout: default
 
 ### Reports / others
 
-* **The life and death of the *bar de barrio*?**
-
-  * [First results (PDF)](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf)
-  * [Project R code](https://github.com/franvillamil/tripadvisor_reviews)
-
-> Small side project on the effects of AirBnB on the clientele of local bars and restaurants. In particular, focusing on the city of Madrid, the project analyzes whether the number of AirBnB listings in each neighbourhood, and its increase over time, is related to the number of international visitors to local bars and restaurants, proxied by the number of reviews in Spanish vs reviews in English on TripAdvisor.
+* **The life and death of the *bar de barrio*?** [First results](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf) / [Project R code](https://github.com/franvillamil/tripadvisor_reviews)
