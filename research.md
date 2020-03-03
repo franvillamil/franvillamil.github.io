@@ -22,7 +22,7 @@ layout: default
 ### Working papers
 
 * Wartime collective targeting and postwar ethnic mobilization.
-* Teachers as Fifth-Columnists: The Case of Fracoist Spain. (With Laia Balcells.)
+* Teachers as Fifth-Columnists: The Case of Francoist Spain. (with Laia Balcells)
 
 ### Reports / others
 
