@@ -26,4 +26,4 @@ layout: default
 
 ### Reports / others
 
-* **The life and death of the *bar de barrio*?** ([First results](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf) / [Project R code](https://github.com/franvillamil/tripadvisor_reviews))
+* The life and death of the *bar de barrio*? ([First results](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf) / [Project R code](https://github.com/franvillamil/tripadvisor_reviews))
