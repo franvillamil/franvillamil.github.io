@@ -15,7 +15,7 @@ layout: default
 
 ### Dissertation / book project
 
-* **Mobilizing memories: The long-term consequences of wartime violence against civilians.**
+**Mobilizing memories: The long-term consequences of wartime violence against civilians.**
 
 *February 2020, ETH Zurich.* [(More info)](./dissertation.html)
     
