@@ -10,7 +10,7 @@ layout: default
 
 * Cederman, Lars-Erik, Simon Hug, Livia Schubiger and Francisco Villamil (2020) **Civilian victimization and ethnic civil war.** *Journal of Conflict Resolution*, published online January 2020.
 
-  * [Journal article](https://journals.sagepub.com/doi/full/10.1177/0022002719898873)
+  * [Article](https://journals.sagepub.com/doi/full/10.1177/0022002719898873)
   * [Replication files](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
 
 ### Dissertation / book project
