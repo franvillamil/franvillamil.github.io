@@ -18,7 +18,7 @@ layout: default
     
 ### Working papers
 
-* Blend or resist? The consequences of wartime violence against civilians for local political polarization.
+* Blend or resist? The consequences of wartime violence against civilians for local political polarization. (with Laia Balcells)
 * Wartime collective targeting and postwar ethnic mobilization.
 * Teachers as Fifth-Columnists: The Case of Francoist Spain. (with Laia Balcells)
 
