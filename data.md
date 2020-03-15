@@ -20,3 +20,6 @@ More information and installation on the [Github repository](https://github.com/
 ### Data
 
 [**Data resources for Spain**](./data_spain.md)
+
+Here I offer details, R scripts and raw data for the data I have used in my research.
+It includes, among others, disaggregated data on civilian victimization during the Spanish Civil War, presence of trade unions in the 1930s or prewar electoral results.
