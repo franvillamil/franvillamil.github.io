@@ -14,7 +14,7 @@ layout: default
 
 #### Mobilizing memories: The long-term consequences of wartime violence against civilians.
 
-*February 2020, ETH Zurich.* [(More info)](./subpages/dissertation.html)
+*February 2020, ETH Zurich.* [(More info)](./dissertation.html)
     
 ### Working papers
 
