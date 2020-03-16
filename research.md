@@ -25,5 +25,5 @@ layout: default
 
 ### Reports / others
 
-* Political strongholds and the severity of organized violence during the 2008 Kenyan crisis (BA Thesis, 2014) [[PDF](https://github.com/franvillamil/ov-kenya/raw/master/villamil-organized-violence-kenya.pdf) / [Replication](https://github.com/franvillamil/ov-kenya)]
+* Political strongholds and the severity of organized violence during the 2008 Kenyan crisis (TFG/BA Thesis, 2014) [[PDF](https://github.com/franvillamil/ov-kenya/raw/master/villamil-organized-violence-kenya.pdf) / [Replication](https://github.com/franvillamil/ov-kenya)]
 * The life and death of the *bar de barrio*? [[First results](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf) / [Project R code](https://github.com/franvillamil/tripadvisor_reviews)]
