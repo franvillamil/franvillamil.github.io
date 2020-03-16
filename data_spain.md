@@ -12,7 +12,7 @@ Most R scripts here, developed to clean and aggregate the raw data, use the [mun
 
 ### Civilian victimization
 
-**Note:** If using any of this datasets, please cite the original source in each case.
+**Note:** If using any of this datasets, please cite the original source in each case. Unless I have explicit permission, I only post the tools to obtain the data from third-party sources.
 
 #### Galicia
 
@@ -28,7 +28,7 @@ Data on civilian victimization in Asturias, which includes a comprehensive list 
 
 The Basque government offers a list of all disappeared persons durante the conflict and its aftermath, specifying the form of death and the origin of each victim. [This R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_euskadi_scrap.R) scraps this website and downloads the list in CSV format, assigning standard INE codes to each municipality.
 
-*Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. A CSV file with the data scraped in late 2017 can be found [here](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/vict_euskadi.csv).
+*Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. Contact me for more information.
 
 #### Catalonia and Aragon
 
