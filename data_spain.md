@@ -40,6 +40,10 @@ I have written R code to scrap, clean, and aggregate the data. [This script](htt
 
 #### Badajoz
 
+A list of victims of civilian victimization in the province of Badajoz was compiled by Javier Martín Bastos, and it can be found in his doctoral dissertation 'Pérdidas de vidas humanas a consecuencia de las prácticas represivas franquistas en la provincia de Badajoz (1936-1950)' (2013, University of Extremadura), which is [available online](http://dehesa.unex.es/handle/10662/931). In addition, Candela Chaves Rodríguez has analyzed Francoist military justice in the same province as part of the doctoral dissertation (2014, University of Extremadura), and produced a list of all those who were sentenced during the war and postwar, which also includes non-fatal forms of repression. Chaves' dissertation is also [available online](http://dehesa.unex.es/handle/10662/1258).
+
+In order to easily get the data on the number of people killed in each municipality, I have written this [R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_badajoz.R), which downloads Martín Bastos' dissertation as a PDF and extracts the relevant data.
+
 ### Prewar elections
 
 ### Trade unions
