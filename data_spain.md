@@ -14,6 +14,8 @@ A list of all victims of Francoist repression in Galicia was compiled as part of
 
 #### Asturias
 
+Data on civilian victimization in Asturias, which includes a comprehensive list of all those who died as a result of Francoist or Republican repression, was compiled as part of the project *Víctimas de la Guerra Civil y la Represión Franquista en Asturias,* led by Carmen García, Professor of History at the University of Oviedo. The full database is available at the *Archivo Histórico de Asturias*, in Oviedo.
+
 #### Basque Country
 
 The Basque government offers a list of all disappeared persons durante the conflict and its aftermath, specifying the form of death and the origin of each victim. [This R script](./R/scrap_victims_euskadi.R) scraps this website and downloads the list in CSV format, assigning standard INE codes to each municipality.
