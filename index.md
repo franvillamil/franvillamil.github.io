@@ -9,4 +9,4 @@ My current research focuses on the consequences of political violence, with an e
 
 In my dissertation, I explore the long-term legacies of civil wars for political preferences. Contrary to what has been assumed in previous research, I show that wartime violence only has an enduring impact on preferences and behavior when the local social context surrounding the victims facilitates the creation and transmission of collective memories, and their subsequent translation into political behavior. I test this argument using newly-assembled datasets for Spain and Guatemala. To complement the evidence from these two cases, I analyze a global sample of ethnic groups that have experienced a civil conflict since 1989.
 
-In the [Data & Code](./data.md) section I share different resources I have developed for own [research](./research.md), to facilitate future empirical research, particularly for historical analyses of [Spain](./data_spain.md).
+In the [Data & Code](./data.md) section I share different resources I have developed for [my own work](./research.md), to facilitate future empirical research, particularly for historical analyses of [Spain](./data_spain.md).
