@@ -1,10 +1,16 @@
 ## Data resources for Spain
 
+Currently including:
+
+* [Civilian victimization during the civil war](#civilian-victimization)
+* [Electoral results in 1936 (and resources for 1933)](#prewar-elections)
+* [Trade union presence during the 1930s](#trade-unions)
+
 *(In progress.)*
 
 **Note:** most R scripts here, developed to clean and aggregate the raw data, use the [muniSpain R package](https://github.com/franvillamil/muniSpain).
 
-### Civilian victimization during the civil war
+### Civilian victimization
 
 #### Galicia
 
@@ -23,6 +29,10 @@ The Basque government offers a list of all disappeared persons durante the confl
 *Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. A CSV file with the data scraped in late 2017 can be found [here](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/vict_euskadi.csv).
 
 #### Catalonia and Aragon
+
+### Prewar elections
+
+### Trade unions
 
 Data on civilian victimization in Catalonia and Aragon, including direct violence by both rightist and leftist forces and victims of air shelling, can be found in the replication datasets of several articles written by Prof. Laia Balcells, available at [her website](https://laiabalcells.com/).
 
