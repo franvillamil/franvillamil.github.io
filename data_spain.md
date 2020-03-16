@@ -30,7 +30,7 @@ The Basque government offers a list of all disappeared persons durante the confl
 
 #### Catalonia and Aragon
 
-Data on civilian victimization in Catalonia and Aragon, including direct violence by both rightist and leftist forces and victims of air shelling, can be found in the replication datasets of several articles written by Prof. Laia Balcells, available at [her website](https://laiabalcells.com/).
+Data on civilian victimization in Catalonia and Aragon, including direct violence by both rightist and leftist forces and victims of air shelling, can be found in the replication datasets of several articles written by Prof. Laia Balcells (Georgetown University), available at [her website](https://laiabalcells.com/).
 
 #### Albacete
 
