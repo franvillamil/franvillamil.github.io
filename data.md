@@ -15,7 +15,7 @@ More information and installation on the [Github repository](https://github.com/
 
 #### Scraping census data from INE
 
-[R code](https://github.com/franvillamil/scrap-INE-census) to scrap census data from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/)'s website. 
+[R code](https://github.com/franvillamil/scrap-INE-census) to scrap census data from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/)'s website.
 
 ### Data
 
