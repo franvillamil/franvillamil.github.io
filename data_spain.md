@@ -10,7 +10,7 @@
 
 A list of all victims of Francoist repression in Galicia was compiled as part of the [*Nomes e Voces*](http://www.nomesevoces.net/) project, developed by several historical researchers at University of Santiago de Compostela, University of Vigo, and University of La Coruña, led by Lourenzo Fernández Prieto (USC). The raw data (CSV) can be download here: [http://vitimas.nomesevoces.net/](http://vitimas.nomesevoces.net/).
 
-[This R script](./R/victims_galicia.R) downloads the raw data and produces a municipality-level count of fatal victims of repression between 1936 and 1942, adapting municipalities to territorial changes between 1930 and 2011 censuses. (URL valid as of March 2020.)
+[This R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_galicia.R) downloads the raw data and produces a municipality-level count of fatal victims of repression between 1936 and 1942, adapting municipalities to territorial changes between 1930 and 2011 censuses. (URL valid as of March 2020.)
 
 #### Asturias
 
@@ -20,7 +20,7 @@ Data on civilian victimization in Asturias, which includes a comprehensive list 
 
 The Basque government offers a list of all disappeared persons durante the conflict and its aftermath, specifying the form of death and the origin of each victim. [This R script](./R/scrap_victims_euskadi.R) scraps this website and downloads the list in CSV format, assigning standard INE codes to each municipality.
 
-*Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. A CSV file with the data scraped in late 2017 can be found [here](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/vict_euskadi.csv).
+*Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. A CSV file with the data scraped in late 2017 can be found [here](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/vict_euskadi.csv).
 
 #### Catalonia and Aragon
 
