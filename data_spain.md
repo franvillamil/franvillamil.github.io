@@ -36,7 +36,7 @@ Data on civilian victimization in Catalonia and Aragon, including direct violenc
 
 Victims from all over Castilla-La Mancha region can be found in the [website](http://victimasdeladictadura.es/) of an inter-university project (*Represión de guerra y postguerra en Castilla-La Mancha*) led by Prof. Manuel Ortiz Heras, at the University of Castilla-La Mancha. Even though the dataset includes victims from all provinces, the list is particularly comprehensive for the province of Albacete.
 
-I have developed R code to scrap, clean, and aggregate the data. [This script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete_scrap.R) scraps the website and downloads individual-level data on all victims, while [this script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete_clean.R) cleans and merges these data.
+I have written R code to scrap, clean, and aggregate the data. [This script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete_scrap.R) scraps the website and downloads individual-level data on all victims, while [this script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete_clean.R) cleans and merges these data. Finally, [this script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete.R) subsets the data to those who suffer fatal, direct repression or executions and adds the municipality codes.
 
 #### Badajoz
 
