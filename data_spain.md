@@ -22,22 +22,26 @@ A list of all victims of Francoist repression in Galicia was compiled as part of
 
 #### Asturias
 
-Data on civilian victimization in Asturias, which includes a comprehensive list of all those who died as a result of Francoist or Republican repression, was compiled as part of the project *Víctimas de la Guerra Civil y la Represión Franquista en Asturias,* led by Carmen García, Professor of History at the University of Oviedo. The full database is available at the *Archivo Histórico de Asturias*, in Oviedo.
+Data on civilian victimization in Asturias, which includes a comprehensive list of all those who died as a result of Francoist or Republican repression, was compiled as part of the project *Víctimas de la Guerra Civil y la Represión Franquista en Asturias,* led by Prof. Carmen García, at the University of Oviedo. The full database is available at the *Archivo Histórico de Asturias*, in Oviedo.
 
 #### Basque Country
 
-The Basque government offers a list of all disappeared persons durante the conflict and its aftermath, specifying the form of death and the origin of each victim. [This R script](./R/scrap_victims_euskadi.R) scraps this website and downloads the list in CSV format, assigning standard INE codes to each municipality.
+The Basque government offers a list of all disappeared persons durante the conflict and its aftermath, specifying the form of death and the origin of each victim. [This R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_euskadi_scrap.R) scraps this website and downloads the list in CSV format, assigning standard INE codes to each municipality.
 
 *Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. A CSV file with the data scraped in late 2017 can be found [here](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/vict_euskadi.csv).
 
 #### Catalonia and Aragon
 
-### Prewar elections
-
-### Trade unions
-
 Data on civilian victimization in Catalonia and Aragon, including direct violence by both rightist and leftist forces and victims of air shelling, can be found in the replication datasets of several articles written by Prof. Laia Balcells, available at [her website](https://laiabalcells.com/).
 
 #### Albacete
 
+Victims from all over Castilla-La Mancha region can be found in the [website](http://victimasdeladictadura.es/) of an inter-university project (*Represión de guerra y postguerra en Castilla-La Mancha*) led by Prof. Manuel Ortiz Heras, at the University of Castilla-La Mancha. Even though the dataset includes victims from all provinces, the list is particularly comprehensive for the province of Albacete.
+
+I have developed R code to scrap, clean, and aggregate the data. [This script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete_scrap.R) scraps the website and downloads individual-level data on all victims, while [this script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_albacete_clean.R) cleans and merges these data.
+
 #### Badajoz
+
+### Prewar elections
+
+### Trade unions
