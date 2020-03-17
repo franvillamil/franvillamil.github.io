@@ -1,0 +1,585 @@
+"municipio","provincia","fecha","socios","muni_code"
+"pasaia","guipuzkoa",1931,1608,20064
+"gurrea de gallego","huesca",1931,160,22119
+"riotorto","lugo",1906,553,27054
+"valtierra","navarra",1931,120,31249
+NA,"ourense",1915,56,NA
+"vila-seca","tarragona",1924,347,43171
+"baguena","teruel",1931,130,44033
+"baguena","teruel",1931,65,44033
+"ateca","zaragoza",1931,195,50038
+"vitoria-gasteiz","alava",1900,75,1059
+"vitoria-gasteiz","alava",1930,23,1059
+"barcelona","barcelona",1895,279,8019
+"barcelona","barcelona",1930,45,8019
+"barcelona","barcelona",1898,350,8019
+"mataro","barcelona",1921,50,8121
+"donostia - san sebastian","gipuzkoa",1902,151,20069
+"tolosa","gipuzkoa",1925,10,20071
+"lleida","lleida",1926,64,25120
+"lugo","lugo",1928,35,27028
+"cortes","navarra",1929,87,31078
+"pamplona / iruna","navarra",1929,48,31201
+"pamplona / iruna","navarra",1910,56,31201
+"pamplona / iruna","navarra",1926,46,31201
+"pamplona / iruna","navarra",1926,21,31201
+"tudela","navarra",1926,43,31232
+"ourense","ourense",1905,34,32054
+"aviles","asturias",1911,24,33004
+"oviedo","asturias",1924,118,33044
+"oviedo","asturias",1919,45,33044
+"oviedo","asturias",1919,48,33044
+"reus","tarragona",1921,29,43123
+"reus","tarragona",1921,59,43123
+"bilbao","bizkaia",1931,252,48020
+"bilbao","bizkaia",1931,75,48020
+"bilbao","bizkaia",1920,700,48020
+"bilbao","bizkaia",1929,50,48020
+"bilbao","bizkaia",1920,224,48020
+"bilbao","bizkaia",1928,50,48020
+"portugalete","bizkaia",1920,170,48078
+"muskiz","bizkaia",1920,75,48071
+"luceni","zaragoza",1929,151,50147
+"zaragoza","zaragoza",1924,30,50297
+"zaragoza","zaragoza",1924,301,50297
+"zaragoza","zaragoza",1930,73,50297
+"zaragoza","zaragoza",1929,355,50297
+"zaragoza","zaragoza",1924,107,50297
+"lugo","lugo",1930,604,27028
+"puente nuevo","lugo",1930,90,27500
+"mieres","asturias",1920,16,33037
+"aller","asturias",1920,55,33002
+"aller","asturias",1918,163,33002
+"mieres","asturias",1918,190,33037
+"lena","asturias",1918,31,33033
+"aller","asturias",1925,15,33002
+"mieres","asturias",1920,109,33037
+"aller","asturias",1918,411,33002
+"aller","asturias",1924,15,33002
+"lena","asturias",1924,38,33033
+"langreo","asturias",1920,58,33031
+"langreo","asturias",1920,420,33031
+"san martin del rey aurelio","asturias",1920,26,33060
+"mieres","asturias",1912,50,33037
+"mieres","asturias",1920,32,33037
+"mieres","asturias",1912,36,33037
+"aller","asturias",1918,56,33002
+"lena","asturias",1918,10,33033
+"barakaldo","bizkaia",1917,695,48013
+"bilbao","bizkaia",1920,127,48020
+"bilbao","bizkaia",1916,643,48020
+"abanto y ciervana - abanto zierbena","bizkaia",1917,687,48002
+"valle de trapaga - trapagaran","bizkaia",1917,1256,48080
+"abanto y ciervana - abanto zierbena","bizkaia",1917,51,48002
+NA,"bizkaia",1917,346,NA
+"ortuella","bizkaia",1927,29,48083
+"ortuella","bizkaia",1908,732,48083
+"portugalete","bizkaia",1917,165,48078
+"sopuerta","bizkaia",1917,85,48086
+"bera","navarra",1930,169,31250
+"barakaldo","bizkaia",1914,2110,48013
+"bilbao","bizkaia",1914,4100,48020
+"bilbao","bizkaia",1917,218,48020
+"erandio","bizkaia",1914,667,48516
+"abanto y ciervana - abanto zierbena","bizkaia",1920,180,48002
+"getxo","bizkaia",1920,70,48044
+"getxo","bizkaia",1913,618,48044
+"abanto y ciervana - abanto zierbena","bizkaia",1920,50,48002
+"leioa","bizkaia",1914,314,48054
+"portugalete","bizkaia",1914,568,48078
+"valle de trapaga - trapagaran","bizkaia",1920,151,48080
+"ortuella","bizkaia",1914,125,48083
+"gernika-lumo","bizkaia",1931,225,48046
+"ugao - miraballes","bizkaia",1920,215,48065
+"basauri","bizkaia",1930,1300,48015
+"sestao","bizkaia",1920,2150,48084
+"amorevieta","bizkaia",1929,137,48503
+"barakaldo","bizkaia",1930,145,48013
+"bilbao","bizkaia",1920,83,48020
+"ortuella","bizkaia",1921,160,48083
+"vitoria-gasteiz","alava",1910,220,1059
+"vitoria-gasteiz","alava",1911,184,1059
+"aretxabaleta","gipuzkoa",1929,254,20013
+"aretxabaleta","gipuzkoa",1929,131,20013
+"eibar","gipuzkoa",1912,302,20030
+"eibar","gipuzkoa",1901,770,20030
+"eibar","gipuzkoa",1927,393,20030
+"elgoibar","gipuzkoa",1927,158,20032
+"elgoibar","gipuzkoa",1919,210,20032
+"irun","gipuzkoa",1919,72,20045
+"legazpi","gipuzkoa",1919,272,20051
+"arrasate / mondragon","gipuzkoa",1919,430,20055
+"arrasate / mondragon","gipuzkoa",1921,536,20055
+"pasaia","gipuzkoa",1930,176,20064
+"plentzia","gipuzkoa",1912,204,48077
+"plentzia","gipuzkoa",1927,145,48077
+"errenteria","gipuzkoa",1930,62,20067
+"errenteria","gipuzkoa",1919,400,20067
+"donostia - san sebastian","gipuzkoa",1920,71,20069
+"donostia - san sebastian","gipuzkoa",1919,210,20069
+"donostia - san sebastian","gipuzkoa",1900,152,20069
+"tolosa","gipuzkoa",1928,50,20071
+"tolosa","gipuzkoa",1913,143,20071
+"bergara","gipuzkoa",1913,135,20074
+"ordizia","gipuzkoa",1931,413,20076
+"pamplona / iruna","navarra",1901,130,31201
+"pamplona / iruna","navarra",1926,85,31201
+"pamplona / iruna","navarra",1911,46,31201
+"pamplona / iruna","navarra",1923,78,31201
+"aviles","asturias",1923,856,33004
+"oviedo","asturias",1929,98,33044
+"tortosa","tarragona",1902,50,43155
+"barakaldo","bizkaia",1920,45,48013
+"barakaldo","bizkaia",1927,119,48013
+"bilbao","bizkaia",1913,565,48020
+"bilbao","bizkaia",1913,173,48020
+"bilbao","bizkaia",1920,174,48020
+"bilbao","bizkaia",1913,47,48020
+"bilbao","bizkaia",1913,145,48020
+"bilbao","bizkaia",1913,51,48020
+"bilbao","bizkaia",1913,119,48020
+"bilbao","bizkaia",1927,71,48020
+"gernika-lumo","bizkaia",1916,37,48046
+"basauri","bizkaia",1914,168,48015
+"zaragoza","zaragoza",1924,647,50297
+"zaragoza","zaragoza",1926,48,50297
+"barcelona","barcelona",1928,150,8019
+"barcelona","barcelona",1927,439,8019
+"girona","girona",1919,41,17079
+"alegia","gipuzkoa",1920,56,20005
+"tolosa","gipuzkoa",1929,70,20071
+"irun","gipuzkoa",1930,415,20045
+"hernani","gipuzkoa",NA,58,20040
+"legorreta","gipuzkoa",1930,75,20052
+"errenteria","gipuzkoa",1924,233,20067
+"errenteria","gipuzkoa",1922,137,20067
+"donostia - san sebastian","gipuzkoa",1923,194,20069
+"donostia - san sebastian","gipuzkoa",1928,20,20069
+"tolosa","gipuzkoa",1913,1023,20071
+"tolosa","gipuzkoa",1929,436,20071
+"lugo","lugo",1927,23,27028
+"villava / atarrabia","navarra",1920,66,31258
+"villava / atarrabia","navarra",1925,22,31258
+"pamplona / iruna","navarra",1929,66,31201
+"pamplona / iruna","navarra",1929,70,31201
+"pamplona / iruna","navarra",1920,250,31201
+"pamplona / iruna","navarra",1923,8,31201
+"pamplona / iruna","navarra",1927,25,31201
+"pamplona / iruna","navarra",1927,36,31201
+"llanera","asturias",1927,223,33035
+"oviedo","asturias",1927,40,33044
+"oviedo","asturias",1918,126,33044
+"oviedo","asturias",1930,189,33044
+"aranguren","bizkaia",1922,237,31023
+"arrigorriaga","bizkaia",1922,118,48011
+"aranguren","bizkaia",1921,184,31023
+"aranguren","bizkaia",1919,154,31023
+"arrigorriaga","bizkaia",1930,313,48011
+"bilbao","bizkaia",1930,65,48020
+"bilbao","bizkaia",1929,215,48020
+"bilbao","bizkaia",1921,158,48020
+"galdakao","bizkaia",1928,508,48036
+"barakaldo","bizkaia",1928,37,48013
+"barakaldo","bizkaia",1927,109,48013
+"zaragoza","zaragoza",1922,130,50297
+"vitoria-gasteiz","alava",1910,23,1059
+"vitoria-gasteiz","alava",1910,54,1059
+"vitoria-gasteiz","alava",1921,45,1059
+"vitoria-gasteiz","alava",1930,17,1059
+"barcelona","barcelona",1913,41,8019
+"barcelona","barcelona",1925,50,8019
+"manresa","barcelona",1927,110,8113
+"donostia - san sebastian","gipuzkoa",1931,123,20069
+"donostia - san sebastian","gipuzkoa",1931,246,20069
+"lugo","lugo",1900,72,27028
+"pamplona / iruna","navarra",1901,130,31201
+"pamplona / iruna","navarra",1926,56,31201
+"pamplona / iruna","navarra",1902,150,31201
+"pamplona / iruna","navarra",1901,75,31201
+"pamplona / iruna","navarra",1926,29,31201
+"pamplona / iruna","navarra",1926,117,31201
+"pamplona / iruna","navarra",1929,42,31201
+"pamplona / iruna","navarra",1926,9,31201
+"pamplona / iruna","navarra",1902,58,31201
+"pamplona / iruna","navarra",1923,31,31201
+"pamplona / iruna","navarra",1923,44,31201
+"tudela","navarra",1926,143,31232
+"cenlle","ourense",1931,60,32025
+"ourense","ourense",1914,745,32054
+"aviles","asturias",1919,200,33004
+"siero","asturias",1919,120,33066
+"mieres","asturias",1917,163,33037
+"langreo","asturias",1916,120,33031
+"oviedo","asturias",1913,86,33044
+"oviedo","asturias",1893,924,33044
+"oviedo","asturias",1900,121,33044
+"langreo","asturias",1929,30,33031
+"oviedo","asturias",1919,340,33044
+"oviedo","asturias",1931,92,33044
+"reus","tarragona",1900,51,43123
+"barakaldo","bizkaia",1924,358,48013
+"bilbao","bizkaia",1913,153,48020
+"bilbao","bizkaia",1928,219,48020
+"bilbao","bizkaia",1913,193,48020
+"bilbao","bizkaia",1919,424,48020
+"bilbao","bizkaia",1918,198,48020
+"bilbao","bizkaia",1924,105,48020
+"bilbao","bizkaia",1926,296,48020
+"bilbao","bizkaia",1930,119,48020
+"bilbao","bizkaia",1891,75,48020
+"bilbao","bizkaia",1925,51,48020
+"getxo","bizkaia",1924,167,48044
+"lemoiz","bizkaia",1929,56,48056
+"portugalete","bizkaia",1919,91,48078
+"valle de trapaga - trapagaran","bizkaia",1931,91,48080
+"santurtzi","bizkaia",1931,38,48082
+"sestao","bizkaia",1914,226,48084
+"balmaseda","bizkaia",1930,159,48090
+"zaragoza","zaragoza",1926,453,50297
+"vitoria-gasteiz","alava",1909,94,1059
+"vitoria-gasteiz","alava",1924,79,1059
+"vitoria-gasteiz","alava",1910,32,1059
+"barcelona","barcelona",1929,88,8019
+"mataro","barcelona",1892,70,8121
+"irun","gipuzkoa",1917,33,20045
+"donostia - san sebastian","gipuzkoa",1919,18,20069
+"zarautz","gipuzkoa",1930,100,20079
+"lugo","lugo",1911,81,27028
+"lugo","lugo",1919,56,27028
+"viveiro","lugo",1929,1130,27066
+"pamplona / iruna","navarra",1924,57,31201
+"pamplona / iruna","navarra",1926,93,31201
+"pamplona / iruna","navarra",1923,67,31201
+"ourense","ourense",1908,50,32054
+"oviedo","asturias",1911,289,33044
+"reus","tarragona",1922,126,43123
+"reus","tarragona",1900,95,43123
+"tarragona","tarragona",1888,102,43148
+"tortosa","tarragona",1900,33,43155
+"bilbao","bizkaia",1930,171,48020
+"bilbao","bizkaia",1913,159,48020
+"bilbao","bizkaia",1918,621,48020
+"zaragoza","zaragoza",1929,80,50297
+"barcelona","barcelona",1878,99,8019
+"puigcerda","girona",1928,180,17141
+"ripoll","girona",1929,24,17147
+NA,"gipuzkoa",1930,81,NA
+"errenteria","gipuzkoa",1930,128,20067
+"bergara","gipuzkoa",1913,163,20074
+"pamplona / iruna","navarra",1923,97,31201
+"zaragoza","zaragoza",1927,43,50297
+"barcelona","barcelona",1913,131,8019
+"barcelona","barcelona",1913,89,8019
+"azkoitia","gipuzkoa",1919,195,20017
+"donostia - san sebastian","gipuzkoa",1920,54,20069
+"donostia - san sebastian","gipuzkoa",1920,551,20069
+"donostia - san sebastian","gipuzkoa",1920,131,20069
+"tolosa","gipuzkoa",1913,201,20071
+"pamplona / iruna","navarra",1925,100,31201
+"pamplona / iruna","navarra",1926,76,31201
+"pamplona / iruna","navarra",1923,94,31201
+"pamplona / iruna","navarra",1923,160,31201
+"pamplona / iruna","navarra",1923,73,31201
+"pamplona / iruna","navarra",1926,36,31201
+"ourense","ourense",1900,40,32054
+"gijon","asturias",1913,155,33024
+"oviedo","asturias",1931,61,33044
+"brea de aragon","zaragoza",1930,232,50057
+"vitoria-gasteiz","alava",1904,38,1059
+"barcelona","barcelona",1927,454,8019
+"barcelona","barcelona",1928,342,8019
+"barcelona","barcelona",1920,282,8019
+"barcelona","barcelona",1913,210,8019
+"donostia - san sebastian","gipuzkoa",1901,233,20069
+"tolosa","gipuzkoa",1901,45,20071
+"tolosa","gipuzkoa",1913,30,20071
+"lleida","lleida",1926,23,25120
+"lugo","lugo",1900,42,27028
+"pamplona / iruna","navarra",1911,30,31201
+"pamplona / iruna","navarra",1901,70,31201
+"pamplona / iruna","navarra",1901,20,31201
+"ourense","ourense",1902,64,32054
+"aviles","asturias",1908,20,33004
+"oviedo","asturias",1908,127,33044
+"reus","tarragona",1911,43,43123
+"tarragona","tarragona",1882,43,43148
+"tortosa","tarragona",1911,47,43155
+"bilbao","bizkaia",1929,44,48020
+"bilbao","bizkaia",1923,508,48020
+"bilbao","bizkaia",1927,45,48020
+"zaragoza","zaragoza",1892,200,50297
+"martorell","barcelona",1926,692,8114
+"salt","girona",1920,113,17155
+"donostia - san sebastian","gipuzkoa",1929,312,20069
+"irun","gipuzkoa",1927,712,20045
+"irun","gipuzkoa",1913,77,20045
+"lleida","lleida",1920,200,25120
+"altsasu/alsasua","navarra",1930,103,31010
+"castejon","navarra",1925,122,31070
+"pamplona / iruna","navarra",1929,65,31201
+"pamplona / iruna","navarra",1930,114,31201
+"aviles","asturias",1928,100,33004
+"mieres","asturias",1913,104,33037
+"gijon","asturias",1913,280,33024
+"gijon","asturias",1929,226,33024
+"oviedo","asturias",1928,308,33044
+"oviedo","asturias",1929,470,33044
+"lena","asturias",1929,332,33033
+"tarragona","tarragona",1929,70,43148
+"tarragona","tarragona",1927,124,43148
+"teruel","teruel",1931,290,44216
+"bilbao","bizkaia",1930,300,48020
+"bilbao","bizkaia",1931,37,48020
+"bilbao","bizkaia",1913,209,48020
+"durango","bizkaia",1931,314,48027
+"getxo","bizkaia",1931,190,48044
+"ortuella","bizkaia",1913,120,48083
+"balmaseda","bizkaia",1930,173,48090
+"zaragoza","zaragoza",1920,1005,50297
+"donostia - san sebastian","gipuzkoa",1931,124,20069
+"pamplona / iruna","navarra",1929,203,31201
+"aviles","asturias",1929,40,33004
+"oviedo","asturias",1929,105,33044
+"bilbao","bizkaia",1930,484,48020
+"bilbao","bizkaia",1929,1140,48020
+"bilbao","bizkaia",1923,120,48020
+"bilbao","bizkaia",1928,553,48020
+"bilbao","bizkaia",1929,400,48020
+"zaragoza","zaragoza",1929,202,50297
+"zaragoza","zaragoza",1931,101,50297
+"zaragoza","zaragoza",1929,83,50297
+"zaragoza","zaragoza",1928,259,50297
+"zaragoza","zaragoza",1923,55,50297
+"barcelona","barcelona",1912,4216,8019
+"barcelona","barcelona",1925,250,8019
+"bilbao","bizkaia",1927,360,48020
+"bilbao","bizkaia",1930,411,48020
+"bilbao","bizkaia",1891,715,48020
+"bilbao","bizkaia",1928,80,48020
+"bilbao","bizkaia",1931,375,48020
+"bilbao","bizkaia",1919,117,48020
+"erandio","bizkaia",1928,112,48516
+"barcelona","barcelona",1926,370,8019
+"pamplona / iruna","navarra",1919,83,31201
+"oviedo","asturias",1930,94,33044
+"oviedo","asturias",1914,242,33044
+"bilbao","bizkaia",1920,174,48020
+"zaragoza","zaragoza",1919,46,50297
+"zaragoza","zaragoza",1931,90,50297
+"vitoria-gasteiz","alava",1929,56,1059
+"barcelona","barcelona",1930,138,8019
+"barcelona","barcelona",1919,1825,8019
+"barcelona","barcelona",1915,6090,8019
+"barcelona","barcelona",1895,279,8019
+"barcelona","barcelona",1909,490,8019
+"figols","barcelona",1909,3,8080
+"manresa","barcelona",1909,128,8113
+"girona","girona",1916,42,17079
+"irun","gipuzkoa",1916,68,20045
+"donostia - san sebastian","gipuzkoa",1920,160,20069
+"huesca","huesca",1905,126,22125
+"lugo","lugo",1914,292,27028
+"pamplona / iruna","navarra",1926,45,31201
+"pamplona / iruna","navarra",1914,55,31201
+"pamplona / iruna","navarra",1926,31,31201
+"ourense","ourense",1912,157,32054
+"verin","ourense",1930,30,32085
+"aviles","asturias",1917,30,33004
+"gijon","asturias",1904,354,33024
+"mieres","asturias",1904,68,33037
+"oviedo","asturias",1931,421,33044
+"reus","tarragona",1931,177,43123
+"bilbao","bizkaia",1910,506,48020
+"bilbao","bizkaia",1914,119,48020
+"portugalete","bizkaia",1914,135,48078
+"zaragoza","zaragoza",1931,505,50297
+"barcelona","barcelona",1923,2700,8019
+"barcelona","barcelona",1931,20,8019
+"donostia - san sebastian","gipuzkoa",1902,157,20069
+"donostia - san sebastian","gipuzkoa",1931,27,20069
+"lleida","lleida",1928,37,25120
+"lugo","lugo",1928,32,27028
+"pamplona / iruna","navarra",1927,11,31201
+"pamplona / iruna","navarra",1912,95,31201
+"oviedo","asturias",1926,26,33044
+"reus","tarragona",1921,103,43123
+"bilbao","bizkaia",1929,37,48020
+"bilbao","bizkaia",1924,67,48020
+"calatayud","zaragoza",1931,48,50067
+"zaragoza","zaragoza",1931,34,50297
+"zaragoza","zaragoza",1931,123,50297
+"barcelona","barcelona",1926,291,8019
+"lleida","lleida",1926,41,25120
+"oviedo","asturias",1917,73,33044
+"reus","tarragona",1922,31,43123
+"bilbao","bizkaia",1900,135,48020
+"zaragoza","zaragoza",1900,116,50297
+"vitoria-gasteiz","alava",1931,95,1059
+"vitoria-gasteiz","alava",1909,14,1059
+"barcelona","barcelona",1931,2716,8019
+"barcelona","barcelona",1931,708,8019
+"berga","barcelona",1931,4,8022
+"gironella","barcelona",1931,4,8092
+"manresa","barcelona",1931,164,8113
+"girona","girona",1931,75,17079
+"donostia - san sebastian","gipuzkoa",1918,62,20069
+"donostia - san sebastian","gipuzkoa",1923,140,20069
+"lugo","lugo",1922,24,27028
+"pamplona / iruna","navarra",1923,49,31201
+"pamplona / iruna","navarra",1923,35,31201
+"pamplona / iruna","navarra",1926,117,31201
+"pamplona / iruna","navarra",1926,38,31201
+"pamplona / iruna","navarra",1931,49,31201
+"ourense","ourense",1922,34,32054
+"gijon","asturias",1904,99,33024
+"gijon","asturias",1915,348,33024
+"mieres","asturias",1915,13,33037
+"oviedo","asturias",1931,81,33044
+"oviedo","asturias",1929,502,33044
+"oviedo","asturias",1931,17,33044
+"reus","tarragona",1929,105,43123
+"bilbao","bizkaia",1907,583,48020
+"bilbao","bizkaia",1920,724,48020
+"zaragoza","zaragoza",1928,603,50297
+"barcelona","barcelona",1905,2203,8019
+"barcelona","barcelona",1929,163,8019
+"barcelona","barcelona",1925,230,8019
+"barcelona","barcelona",1919,77,8019
+"donostia - san sebastian","gipuzkoa",1916,162,20069
+"donostia - san sebastian","gipuzkoa",1931,70,20069
+"oviedo","asturias",1923,39,33044
+"bilbao","bizkaia",1919,51,48020
+"bilbao","bizkaia",1929,182,48020
+"bilbao","bizkaia",1901,199,48020
+"bilbao","bizkaia",1929,82,48020
+"zaragoza","zaragoza",1929,162,50297
+"zaragoza","zaragoza",1925,164,50297
+"asparrena","alava",1931,155,1009
+"asparrena","alava",1931,112,1009
+"vitoria-gasteiz","alava",1909,109,1059
+"barcelona","barcelona",1919,219,8019
+"barcelona","barcelona",1919,4159,8019
+"barcelona","barcelona",1920,207,8019
+"girona","girona",1931,16,17079
+"andoain","gipuzkoa",1920,109,20009
+"antzuola","gipuzkoa",1913,64,20011
+"azkoitia","gipuzkoa",1919,69,20017
+"azkoitia","gipuzkoa",1919,290,20017
+"azpeitia","gipuzkoa",1924,51,20018
+"irun","gipuzkoa",1916,48,20045
+"itsasondo","gipuzkoa",1931,60,20047
+"arrasate / mondragon","gipuzkoa",1923,403,20055
+"onati","gipuzkoa",1930,175,20059
+"oiartzun","gipuzkoa",1931,60,20063
+"errenteria","gipuzkoa",1915,57,20067
+"errenteria","gipuzkoa",1919,40,20067
+"donostia - san sebastian","gipuzkoa",1919,42,20069
+"tolosa","gipuzkoa",1930,85,20071
+"tolosa","gipuzkoa",1913,40,20071
+"lleida","lleida",NA,106,25120
+"lleida","lleida",1927,99,25120
+"chantada","lugo",1900,93,27016
+"vilalba","lugo",1930,120,27065
+"castejon","navarra",1920,50,31070
+"pamplona / iruna","navarra",1926,92,31201
+"pamplona / iruna","navarra",1923,107,31201
+"pamplona / iruna","navarra",1924,13,31201
+"pamplona / iruna","navarra",1900,184,31201
+"tafalla","navarra",1931,232,31227
+"celanova","ourense",1931,93,32024
+"ourense","ourense",1931,39,32054
+"ribadavia","ourense",NA,61,32069
+"siero","asturias",1901,61,33066
+"gijon","asturias",1930,71,33024
+"gijon","asturias",1913,292,33024
+"valdes","asturias",1919,550,33034
+"oviedo","asturias",1910,450,33044
+"oviedo","asturias",1904,139,33044
+"oviedo","asturias",1929,475,33044
+"oviedo","asturias",1927,139,33044
+"oviedo","asturias",1914,1269,33044
+"almansa","albacete",1915,350,2009
+"almansa","albacete",1930,195,2009
+"bogarra","albacete",1931,344,2017
+"tarazona de la mancha","albacete",1920,345,2073
+"villarrobledo","albacete",1930,560,2081
+"viveros","albacete",1930,300,2085
+"alconchel","badajoz",1930,800,6007
+"azuaga","badajoz",1918,917,6014
+"berlanga","badajoz",1930,911,6019
+"cheles","badajoz",1930,267,6042
+"esparragalejo","badajoz",1931,200,6046
+"esparragosa de lares","badajoz",1931,434,6048
+"esparragosa de la serena","badajoz",1931,158,6047
+"fuente del maestre","badajoz",1931,147,6054
+"fuente del maestre","badajoz",1931,1514,6054
+"roca de la sierra, la","badajoz",1928,48,6115
+"navalvillar de pela","badajoz",1931,140,6091
+"oliva de la frontera","badajoz",1919,1800,6093
+"olivenza","badajoz",1919,1104,6095
+"orellana la vieja","badajoz",1931,160,6097
+"penalsordo","badajoz",1931,187,6100
+"puebla de obando","badajoz",1905,411,6107
+"san vicente de alcantara","badajoz",1931,91,6123
+"talarrubias","badajoz",1918,830,6127
+"villanueva del fresno","badajoz",1931,345,6154
+"villanueva de la serena","badajoz",1931,3084,6153
+"zafra","badajoz",1931,504,6158
+"zahinos","badajoz",1931,25,6159
+"zahinos","badajoz",1909,444,6159
+"zarza-capilla","badajoz",1931,307,6161
+"albacete","albacete",NA,68,2003
+"albacete","albacete",1929,82,2003
+"albacete","albacete",1929,171,2003
+"badajoz","badajoz",1901,85,6015
+"badajoz","badajoz",1919,75,6015
+"badajoz","badajoz",1918,55,6015
+"olivenza","badajoz",1919,40,6095
+"albacete","albacete",1930,34,2003
+"villafranca de los barros","badajoz",1921,38,6149
+"albacete","albacete",1931,107,2003
+"albacete","albacete",1930,785,2003
+"almansa","albacete",1903,212,2009
+"hellin","albacete",1914,250,2037
+"villarrobledo","albacete",1928,184,2081
+"azuaga","badajoz",1902,68,6014
+"badajoz","badajoz",1914,700,6015
+"jerez de los caballeros","badajoz",1918,95,6070
+"montijo","badajoz",1917,70,6088
+"san vicente de alcantara","badajoz",1915,53,6123
+"badajoz","badajoz",1913,275,6015
+"jerez de los caballeros","badajoz",1918,31,6070
+"merida","badajoz",1919,23,6083
+"montijo","badajoz",1917,15,6088
+"san vicente de alcantara","badajoz",1919,25,6123
+"almansa","albacete",1928,1553,2009
+"badajoz","badajoz",1930,230,6015
+"san vicente de alcantara","badajoz",1916,60,6123
+"albacete","albacete",1926,58,2003
+"badajoz","badajoz",1913,60,6015
+"almansa","albacete",1926,420,2009
+"merida","badajoz",1913,969,6083
+"albacete","albacete",1929,150,2003
+"badajoz","badajoz",1929,650,6015
+"albacete","albacete",1930,97,2003
+"albacete","albacete",1929,185,2003
+"hellin","albacete",1930,44,2037
+"villarrobledo","albacete",1031,26,2081
+"merida","badajoz",1917,55,6083
+"badajoz","badajoz",1927,135,6015
+"albacete","albacete",1909,14,2003
+"hellin","albacete",1909,90,2037
+"badajoz","badajoz",1931,137,6015
+"merida","badajoz",1917,24,6083
+"badajoz","badajoz",1928,22,6015
+"jorquera","albacete",1931,220,2041
+"salobre","albacete",1931,111,2070
+"aceuchal","badajoz",1902,200,6002
+"alange","badajoz",1902,190,6004
+"corte de peleas","badajoz",1919,120,6040
+"maguilla","badajoz",1919,483,6076
+"reina","badajoz",1915,130,6110
+"ribera del fresno","badajoz",1925,738,6113
+"talavera la real","badajoz",1931,920,6128
+"valencia de las torres","badajoz",1931,474,6139
+"valverde de llerena","badajoz",1931,261,6144
