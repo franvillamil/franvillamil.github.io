@@ -61,9 +61,13 @@ Cuco Giner (1970, ['Contribución a un estudio cuantitativo de la C.N.T.'](https
 
 Getting data on electoral results during the 1930s in Spain is a bit of a mess. Results were counted and published separately for each province, and available sources change for each of them. In some cases, Official Provincial Gazettes (*Boletín Oficial Provincial*, BOP) published the detailed results (which might be available as scanned PDFs online or only at the local archives in paper form), but not in others: going through the all Provincial Gazettes of Pontevedra and A Coruña between February and July 1936, I did not find any data.
 
-Here I different resources to obtain these data: references to sources, scanned BOPs and details about how I digitized some of them (including some that have not been digitized yet), R scripts, etc. My own [replication data](./research.md) and also [Laia Balcells'](https://laiabalcells.com/) includes municipality-level electoral results for 1936 for some provinces.
+Here I put together different resources to obtain these data: references to sources, scanned BOPs and details about how I digitized some of them (including some that have not been digitized yet), R scripts, etc. My own [replication data](./research.md) and also [Laia Balcells'](https://laiabalcells.com/) includes municipality-level electoral results for 1936 for some provinces.
 
 #### Galicia
+
+To the best of my knowledge, local-level electoral results are only available for Lugo and Ourense provinces. The BOP in Pontevedra and A Coruña does not show any results, neither for 1936 nor for 1933. The vote count for each candidate is shown for each census section within municipalities.
+
+I have taken pictures of 1933 and 1936 results for Lugo and Ourense (available upon request, as they are large files). In order to digitize some them, my solution was to use Python-based [OCRopus](https://github.com/tmbarchive/ocropy), but given the quality of the documents and pictures, new models to recognize the letters had to be trained and it needed both preprocessing and post-OCR manual corrections. Given the time it takes to do this, I have only had time to digitize the results for Lugo in 1936 [available here](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/lugo1936.csv) (I coded the individual candidates as left/center-left/right following historical research, but it is open to debate in some small cases).
 
 #### Asturias
 
