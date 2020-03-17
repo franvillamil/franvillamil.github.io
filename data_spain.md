@@ -92,3 +92,5 @@ See [the replication data](https://laiabalcells.com/) from Laia Balcells.
 Results for 1936 elections in the province of Albacete were published by Manuel Requena Gallego, in 'Las elecciones del Frente Popular en Albacete' (1982), [available online](https://dialnet.unirioja.es/servlet/articulo?codigo=1320408).
 
 #### Others
+
+In addition to the datasets mentioned above, I manage to collect the BOPs necessary to produce electoral datasets for a few more provinces or elections, even though I did not have the time to digitize them. They are large files so they are not available here, but are available by email: Sevilla and Badajoz in 1936, and Asturias in 1933 (not all municipalities).
