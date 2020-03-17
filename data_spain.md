@@ -28,7 +28,7 @@ The Basque government offers a list of all disappeared persons durante the confl
 
 *Note* that the list might still be updated with new names, although its coverage is good. Moreover, as of March 2020, the website is down. The R script will be updated as soon as the website is active again. Contact me for more information.
 
-#### Catalonia and Aragon
+#### Catalunya and Aragon
 
 Data on civilian victimization in Catalonia and Aragon, including direct violence by both rightist and leftist forces and victims of air shelling, can be found in the replication datasets of several articles written by Prof. Laia Balcells (Georgetown University), available at [her website](https://laiabalcells.com/).
 
@@ -59,4 +59,20 @@ Cuco Giner (1970, ['Contribución a un estudio cuantitativo de la C.N.T.'](https
 
 ### Prewar elections
 
+Getting data on electoral results during the 1930s in Spain is a bit of a mess. Results were counted and published separately for each province, and available sources change for each of them. In some cases, Official Provincial Gazettes (*Boletín Oficial Provincial*, BOP) published the detailed results (which might be available as scanned PDFs online or only at the local archives in paper form), but not in others: going through the all Provincial Gazettes of Pontevedra and A Coruña between February and July 1936, I did not find any data.
 
+Here I different resources to obtain these data: references to sources, scanned BOPs and details about how I digitized some of them (including some that have not been digitized yet), R scripts, etc. My own [replication data](./research.md) and also [Laia Balcells'](https://laiabalcells.com/) includes municipality-level electoral results for 1936 for some provinces.
+
+#### Galicia
+
+#### Asturias
+
+#### Basque Country
+
+#### Catalunya
+
+#### Aragón
+
+#### Albacete
+
+#### Others
