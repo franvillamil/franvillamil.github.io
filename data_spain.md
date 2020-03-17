@@ -71,6 +71,8 @@ I have taken pictures of 1933 and 1936 results for Lugo and Ourense (available u
 
 #### Asturias
 
+Results for Asturias were published in a book by SADEI, *Atlas electoral de Asturias, 1936-1996* (1996, Oviedo: SADEI). [Here](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/asturias1936.csv) is a CSV file including the results by municipality.
+
 #### Basque Country
 
 #### Catalunya
