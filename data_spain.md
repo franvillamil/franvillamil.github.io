@@ -75,6 +75,10 @@ Results for Asturias were published in a book by SADEI, *Atlas electoral de Astu
 
 #### Basque Country
 
+The Basque Country has the best available data on electoral results during the Second Republic. The regional government has digitized all the results for 1931, 1933, and 1936 elections from the Provincial Gazettes and made them [available online](https://www.euskadi.eus/web01-a2haukon/es/contenidos/informacion/w_em_republica/es_def/index.shtml).
+
+This [R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/elec36_euskadi.R) downloads the files for 1936 elections from the website of the Basque Government, cleans it, and produces a local-level dataset.
+
 #### Catalunya
 
 #### Aragón
