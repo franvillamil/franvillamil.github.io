@@ -85,7 +85,7 @@ Detailed results for 1936 elections (and 1933, with the exception of the Barcelo
 
 #### Aragón
 
-See [the replication data](https://laiabalcells.com/) from Laia Balcells.
+See the [replication data](https://laiabalcells.com/) from Prof. Laia Balcells.
 
 #### Albacete
 
