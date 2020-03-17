@@ -44,6 +44,19 @@ A list of victims of civilian victimization in the province of Badajoz was compi
 
 In order to easily get the data on the number of people killed in each municipality, I have written this [R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/victims_badajoz.R), which downloads Martín Bastos' dissertation as a PDF and extracts the relevant data.
 
+### Trade unions
+
+#### UGT
+
+The *Union General de los Trabajadores* (UGT) published a general census of all its local organizations, including the number of affiliates, as part of its official gazette in November 1931 (*Boletín no. 36 de la Unión General de Trabajadores*). These gazettes are available in the [historical archives](http://portal.ugt.org/fflc/biblioteca/archivo.htm) of the Fundación Largo Caballero, in Alcalá de Henares (Madrid).
+
+I have digitized these data ([download as CSV](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/ugt_1931.csv)) for a few selected regions: Galicia, Asturias, Basque Country, Navarra, Aragón, Catalonia, Albacete, and Badajoz. It shows the number of affiliates in each local trade union in each municipality, along with the year it was founded. The file does not show the name of the local union (i.e. the industry it represented), included in the original UGT gazettes.
+
+#### CNT
+
+Data on the presence of local unions affiliated to the anarchist *Confederación Nacional del Trabajo* (CNT) can be found in two published articles.
+Cuco Giner (1970, ['Contribución a un estudio cuantitativo de la C.N.T.'](https://dialnet.unirioja.es/servlet/articulo?codigo=3785901)) includes data on local affiliates in 1931, while Juan Pablo Calero (2009, ['Vísperas de la revolución. El congreso de la CNT (1936)'](https://dialnet.unirioja.es/servlet/articulo?codigo=3785901).) offers a list of affiliates in 1936. Both articles are available online.
+
 ### Prewar elections
 
-### Trade unions
+
