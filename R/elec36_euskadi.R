@@ -1,0 +1,5 @@
+options(stringsAsFactors = FALSE)
+Sys.setlocale("LC_CTYPE", "C")
+library(muniSpain)
+library(car)
+library(plyr)
