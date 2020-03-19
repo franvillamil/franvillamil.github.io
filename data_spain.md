@@ -48,7 +48,7 @@ In order to easily get the data on the number of people killed in each municipal
 
 #### UGT
 
-The *Union General de los Trabajadores* (UGT) published a general census of all its local organizations, including the number of affiliates, as part of its official gazette in November 1931 (*Boletín no. 36 de la Unión General de Trabajadores*). These gazettes are available in the [historical archives](http://portal.ugt.org/fflc/biblioteca/archivo.htm) of the Fundación Largo Caballero, in Alcalá de Henares (Madrid).
+The *Union General de los Trabajadores* (UGT) published a general census of all its local organizations, including the number of affiliates, as part of its official gazette in November 1931 (*Boletín no. 36 de la Unión General de Trabajadores*). These gazettes are available in the [historical archives](http://portal.ugt.org/fflc/biblioteca/archivo.htm) of the Fundación Largo Caballero, in Alcalá de Henares (Madrid). A scanned PDF can be found [here](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/censo_electoral_social_UGT_1931_MA.pdf).
 
 I have digitized these data ([download as CSV](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/ugt_1931.csv)) for a few selected regions: Galicia, Asturias, Basque Country, Navarra, Aragón, Catalonia, Albacete, and Badajoz. It shows the number of affiliates in each local trade union in each municipality, along with the year it was founded. The file does not show the name of the local union (i.e. the industry it represented), included in the original UGT gazettes.
 
