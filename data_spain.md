@@ -3,8 +3,8 @@
 *(In progress.)*
 
 * [Civilian victimization during the civil war](#civilian-victimization)
-* [Electoral results in 1936 (and resources for 1933)](#prewar-elections)
 * [Trade union presence during the 1930s](#trade-unions)
+* [Electoral results in 1936 (and resources for 1933)](#prewar-elections)
 
 Most R scripts here, developed to clean and aggregate the raw data, use the [muniSpain R package](https://github.com/franvillamil/muniSpain).
 
