@@ -18,11 +18,11 @@ layout: default
     
 ### Working papers
 
+* Teachers as Fifth-Columnists: The Case of Francoist Spain (with Laia Balcells). Under review.
 * Violence, co-optation, and postwar voting in Guatemala.
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
-* Teachers as Fifth-Columnists: The Case of Francoist Spain. (with Laia Balcells)
-* Blend or resist? The consequences of wartime violence against civilians for local political polarization. (with Laia Balcells)
+* Blend or resist? The consequences of wartime violence against civilians for local political polarization (with Laia Balcells).
 
 ### Reports / others
 
