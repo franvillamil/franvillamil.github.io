@@ -1,10 +1,9 @@
 ### Mobilizing memories: The long-term consequences of violence against civilians
 
-[[ETH Repository]](https://www.research-collection.ethz.ch/handle/20.500.11850/408847)
-
 * *Defended February 2020, ETH Zurich*
 * *Supervisor: Lars-Erik Cederman (ETH Zurich)*
 * *Committee: Laia Balcells (Georgetown University), Ignacio Sánchez-Cuenca (Universidad Carlos III Madrid)*
+* [ETH Repository](https://www.research-collection.ethz.ch/handle/20.500.11850/408847)
 
 #### Abstract:
 
