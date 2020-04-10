@@ -4,6 +4,8 @@
 * *Supervisor: Lars-Erik Cederman (ETH Zurich)*
 * *Committee: Laia Balcells (Georgetown University), Ignacio Sánchez-Cuenca (Universidad Carlos III Madrid)*
 
+[[ETH Repository]](https://www.research-collection.ethz.ch/handle/20.500.11850/408847)
+
 #### Abstract:
 
 > This dissertation examines the long-term consequences of wartime violence against civilians on political preferences.
