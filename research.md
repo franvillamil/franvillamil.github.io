@@ -22,7 +22,6 @@ layout: default
 * Violence, co-optation, and postwar voting in Guatemala.
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
-* Blend or resist? The consequences of wartime violence against civilians for local political polarization (with Laia Balcells).
 
 ### Others
 
