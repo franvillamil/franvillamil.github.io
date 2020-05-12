@@ -18,7 +18,7 @@ layout: default
     
 ### Working papers
 
-* Teachers as Fifth-Columnists: The Case of Francoist Spain (with Laia Balcells). Review and resubmit.
+* Teachers as Fifth-Columnists: The Case of Francoist Spain (with Laia Balcells). Review and resubmit at *Nationalism and Ethnic Politics*.
 * Violence, co-optation, and postwar voting in Guatemala.
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
