@@ -6,7 +6,7 @@ layout: default
 
 ### Publications
 
-* Balcells, Laia and Francisco Villamil (2020) The double logic of internal purges: New evidence from Francoist Spain. *Nationalism and Ethnic Politics*, 26(3) (forthcoming). [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) [[Appendix]](appendix_Balcells_Villamil_2020_NEPS) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
+* Balcells, Laia and Francisco Villamil (2020) The double logic of internal purges: New evidence from Francoist Spain. *Nationalism and Ethnic Politics*, 26(3) (forthcoming). [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) [[Appendix]](appendix_Balcells_Villamil_2020_NEPS) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
 
 * Villamil, Francisco (2020) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, published online June 2020. [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
 
@@ -27,5 +27,5 @@ layout: default
 
 ### Others
 
-* Political strongholds and the severity of organized violence during the 2008 Kenyan crisis (TFG/BA Thesis, 2014) [[PDF](https://github.com/franvillamil/ov-kenya/raw/master/villamil-organized-violence-kenya.pdf) / [Replication](https://github.com/franvillamil/ov-kenya)]
+* Political strongholds and the severity of organized violence during the 2008 Kenyan crisis (TFG/BA Thesis, 2014) [[PDF](https://github.com/franvillamil/ov-kenya/blob/master/villamil-organized-violence-kenya.pdf) / [Replication](https://github.com/franvillamil/ov-kenya)]
 * The life and death of the *bar de barrio*? [[First results](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf) / [Project R code](https://github.com/franvillamil/tripadvisor_reviews)]
