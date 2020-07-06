@@ -6,6 +6,8 @@ layout: default
 
 ### Publications
 
+* Balcells, Laia and Francisco Villamil (2020) The double logic of internal purges: New evidence from Francoist Spain. *Nationalism and Ethnic Politics*, 26(3) (forthcoming). [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) | [[Online appendix]](appendix_Balcells_Villamil_2020_NEPS) | [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
+
 * Villamil, Francisco (2020) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, published online June 2020. [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
 
 * Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) [Civilian victimization and ethnic civil war.](https://journals.sagepub.com/doi/full/10.1177/0022002719898873) *Journal of Conflict Resolution*, published online January 2020. [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
@@ -18,7 +20,6 @@ layout: default
     
 ### Working papers
 
-* Teachers as Fifth-Columnists: The Case of Francoist Spain (with Laia Balcells). Revise and resubmit at *Nationalism and Ethnic Politics*.
 * Violence, co-optation, and postwar voting in Guatemala.
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
