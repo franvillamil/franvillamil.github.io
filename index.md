@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I defended [my dissertation](./dissertation.md) at ETH Zurich in February 2020, as part of the [ICR group](https://icr.ethz.ch/).
+Starting September 2020, I will be a postdoctoral researcher at the [Carlos III - Juan March Institute](https://ic3jm.es/). I defended [my dissertation](./dissertation.md) at ETH Zurich in February 2020, as part of the [ICR group](https://icr.ethz.ch/).
 Previously, I obtained an MA in Comparative and International Studies (2016) from ETH Zurich and a BA in Sociology (2014) from the University of Salamanca.
 
 My current research focuses on the consequences of political violence, with an emphasis on how social dynamics shape preference formation as a response to shocks. More broadly, I'm interested in the way the social context conditions individuals' political behavior and preferences. I use quantitative methods extensively, and rely on a variety of data sources and data collection strategies, including digitization of historical archives, web scraping, and geospatial data.
