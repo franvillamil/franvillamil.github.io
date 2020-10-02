@@ -20,7 +20,7 @@ layout: default
     
 ### Working papers
 
-* Violence, co-optation, and postwar voting in Guatemala.
+* Violence, co-optation, and postwar voting in Guatemala. *Under Review.*
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
 * Blend or resist: Wartime violence and local political polarization (with Laia Balcells).
