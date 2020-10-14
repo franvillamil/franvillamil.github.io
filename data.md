@@ -8,7 +8,7 @@ layout: default
 
 #### R package: Territorial changes in Spanish municipalities
 
-![Changes in Bizkaia, 1930-2011](https://raw.githubusercontent.com/franvillamil/franvillamil.github.io/master/files/muniSpain_bilbao.png)
+![Changes in Bizkaia, 1930-2011](https://raw.githubusercontent.com/franvillamil/franvillamil.github.io/master/files/muniSpain_bilbao.png =250x)
 
 The R package [`muniSpain`](https://github.com/franvillamil/munispain) is designed to deal with territorial changes in Spanish municipalities when working with historical local-level data from different periods.
 It relies on the municipality codes from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/) and the list of municipality changes compiled and corrected by Francisco J. Goerlich and Francisco Ruiz (see [Goerlich and Ruiz 2018](https://doi.org/10.1515/jos-2018-0005) and the package readme file for more information).
