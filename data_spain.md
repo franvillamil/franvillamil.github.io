@@ -1,6 +1,6 @@
 ## Data resources for Spain
 
-*(In progress.)*
+<img src="https://raw.githubusercontent.com/franvillamil/franvillamil.github.io/master/files/map_top.png" width="930" height="350" />
 
 * [Civilian victimization during the civil war](#civilian-victimization)
 * [Trade union presence during the 1930s](#trade-unions)
