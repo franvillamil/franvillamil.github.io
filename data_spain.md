@@ -83,10 +83,6 @@ This [R script](https://github.com/franvillamil/franvillamil.github.io/blob/mast
 
 Detailed results for 1936 elections (and 1933, with the exception of the Barcelona province) are available in the book by Mercè Vilanova, *Atlas electoral de Catalunya durant la Segona República: orientació del vot, participació i abstenció* (1986, Barcelona: Fundació Jaume Bofill).
 
-#### Aragón
-
-See the [replication data](https://laiabalcells.com/) from Prof. Laia Balcells.
-
 #### Albacete
 
 Results for 1936 elections in the province of Albacete were published by Manuel Requena Gallego, in 'Las elecciones del Frente Popular en Albacete' (1982), [available online](https://dialnet.unirioja.es/servlet/articulo?codigo=1320408).
