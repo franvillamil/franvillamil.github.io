@@ -81,7 +81,7 @@ This [R script](https://github.com/franvillamil/franvillamil.github.io/blob/mast
 
 #### Catalunya
 
-Detailed results for 1936 elections (and 1933, with the exception of the Barcelona province) are available in the book by Mercè Vilanova, *Atlas electoral de Catalunya durant la Segona República: orientació del vot, participació i abstenció* (1986, Barcelona: Fundació Jaume Bofill). See also Laia Balcell's [replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJA2PV).
+Detailed results for 1936 elections (and 1933, with the exception of the Barcelona province) are available in the book by Mercè Vilanova, *Atlas electoral de Catalunya durant la Segona República: orientació del vot, participació i abstenció* (1986, Barcelona: Fundació Jaume Bofill).
 
 #### Albacete
 
