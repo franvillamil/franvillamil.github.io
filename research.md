@@ -18,14 +18,13 @@ layout: default
 
 *February 2020, ETH Zurich.* [(More info)](./dissertation.html)
     
-### Working papers
+### Working papers / research in progress
 
-* Violence, co-optation, and postwar voting in Guatemala. *Under Review.*
+* Violence, co-optation, and postwar voting in Guatemala. *Under review.*
+* Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *Under review.*
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
-* Blend or resist: Wartime violence and local political polarization (with Laia Balcells).
+* Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
+* Understanding the triggers of political polarization (with Laia Balcells and Juan F. Tellez).
+* Todo por la patria: Location of military facilities and support for the far-right in Spain (with Stuart Turnbull-Dugarte and José Rama).
 
-### Others
-
-* Political strongholds and the severity of organized violence during the 2008 Kenyan crisis (TFG/BA Thesis, 2014) [[PDF](https://github.com/franvillamil/ov-kenya/blob/master/villamil-organized-violence-kenya.pdf) / [Replication](https://github.com/franvillamil/ov-kenya)]
-* The life and death of the *bar de barrio*? [[First results](https://github.com/franvillamil/tripadvisor_reviews/blob/master/writing/report.pdf) / [Project R code](https://github.com/franvillamil/tripadvisor_reviews)]
