@@ -1,6 +1,6 @@
 ### Setting up R on a Google Cloud VM instance
 
-Steps to set up a Google Cloud instance to run R, including dependencies needed to install packages for spatial statistics. (*Note: it is much easier to run R on AWS instance, see [Louis Aslett's website](https://www.louisaslett.com/RStudio_AMI/)).
+Steps to set up a Google Cloud instance to run R, including dependencies needed to install packages for spatial statistics (*Note*: it is much easier to run R on AWS instance, see [Louis Aslett's website](https://www.louisaslett.com/RStudio_AMI/)).
 
 Instance details:
 
