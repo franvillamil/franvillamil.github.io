@@ -72,6 +72,12 @@ One last thing. I often use `pdfcrop` to get rid of white margins in graphs (esp
 sudo apt-get install texlive-extra-utils
 ```
 
+P.S. To get a rough estimate of memory available:
+
+```shell
+cat /proc/meminfo | grep "MemAvailable"
+```
+
 
 **Sources**
 
