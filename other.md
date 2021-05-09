@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Other writing
+## Other
 
 ### Op-eds
 
