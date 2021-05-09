@@ -5,8 +5,7 @@ Steps to set up a Google Cloud instance to run R, including dependencies needed 
 Instance details:
 
 ```shell
-...@instance1:~$ lsb_release -a
-No LSB modules are available.
+...@instance1:~$ lsb_release -cdir
 Distributor ID:	Ubuntu
 Description:	Ubuntu 16.04.7 LTS
 Release:	16.04
