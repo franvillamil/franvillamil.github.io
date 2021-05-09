@@ -11,3 +11,7 @@ layout: default
 
 #### [La privatización de la memoria histórica](https://www.elsaltodiario.com/laplaza/privatizacion-memoria-historica)
 *El Salto*. October 19, 2019.
+
+## Posts / software reminders
+
+#### [Setting up R on a Google Cloud VM instance](./posts/R_google_cloud.md)
