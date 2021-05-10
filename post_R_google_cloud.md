@@ -72,12 +72,30 @@ One last thing. I often use `pdfcrop` to get rid of white margins in graphs (esp
 sudo apt-get install texlive-extra-utils
 ```
 
-P.S. To get a rough estimate of memory available:
+---------------
+
+**Additional**
+
+In case the process is too long, use [`tmux`](https://github.com/tmux/tmux/wiki) (or some alternative, [see this](https://unix.stackexchange.com/questions/479/keep-processes-running-after-ssh-session-disconnects)) to keep `make` running and be able to access the screen again after disconnecting `ssh`.
 
 ```shell
-cat /proc/meminfo | grep "MemAvailable"
+tmux
+make
 ```
 
+And in the next session:
+
+```shell
+tmux attach
+```
+
+To get a rough estimate of memory available:
+
+```shell
+cat /proc/meminfo | grep "Mem"
+```
+
+---------------
 
 **Sources**
 
