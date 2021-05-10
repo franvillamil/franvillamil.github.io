@@ -103,7 +103,7 @@ And in the next session:
 tmux attach
 ```
 
-Use `cmd-B d` to detach or get back to console.
+Use `ctrl-b d` to detach or get back to console.
 
 To get a rough estimate of memory available:
 
