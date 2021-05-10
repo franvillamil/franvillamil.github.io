@@ -76,6 +76,20 @@ sudo apt-get install texlive-extra-utils
 
 **Additional**
 
+To create the SSH key for a new computer:
+
+```shell
+ssh-keygen -t rsa -f ~/.ssh/[keyfilename] -C [full username]
+```
+
+Restrict access:
+
+```shell
+chmod 400 ~/.ssh/[keyfilename]
+```
+
+And copy public key (`.pub`) into Metadata. You should now be able to connect via `ssh -i ~/[path to private key] [short username]@[external IP]`.
+
 In case the process is too long, use [`tmux`](https://github.com/tmux/tmux/wiki) (or some alternative, [see this](https://unix.stackexchange.com/questions/479/keep-processes-running-after-ssh-session-disconnects)) to keep `make` running and be able to access the screen again after disconnecting `ssh`.
 
 ```shell
@@ -88,6 +102,8 @@ And in the next session:
 ```shell
 tmux attach
 ```
+
+Use `cmd-B d` to detach or get back to console.
 
 To get a rough estimate of memory available:
 
