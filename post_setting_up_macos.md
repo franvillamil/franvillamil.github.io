@@ -39,6 +39,7 @@ https://superuser.com/questions/1271179/sourcing-an-alias-file-in-oh-my-zsh-cust
 alias lnbib="ln -s /Users/franvillamil/Documents/bib/REF.bib REF.bib"
 alias joinallpdf="'/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py' -o new.pdf *.pdf"
 alias gitfs="git fetch; git status"
+alias zshconfig="atom ~/.zshrc"
 ```
 
 - Install R (and required packages?)
