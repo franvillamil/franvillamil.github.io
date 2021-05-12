@@ -111,6 +111,8 @@ To get a rough estimate of memory available:
 cat /proc/meminfo | grep "Mem"
 ```
 
+In case Rscript fails to execute, see [this](http://www.cureffi.org/2014/01/15/running-r-batch-mode-linux/).
+
 ---------------
 
 **Sources**
