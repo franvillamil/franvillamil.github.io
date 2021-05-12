@@ -49,8 +49,11 @@ alias zshconfig="atom ~/.zshrc"
 brew install --cask mactex-no-gui
 eval "$(/usr/libexec/path_helper)"
 
+
+
 - Install others
 
+brew install --cask skim
 brew install --cask libreoffice
 brew install --cask brave-browser
 brew install --cask dropbox
