@@ -20,7 +20,7 @@ layout: default
     
 ### Working papers / research in progress
 
-* Violence, co-optation, and postwar voting in Guatemala. *R&R, Conflict Management and Peace Science.*
+* Violence, co-optation, and postwar voting in Guatemala. *R&R.*
 * Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *Under review.*
 * Measurement validity and historical data in conflict research.
 * Wartime collective targeting and postwar ethnic mobilization.
