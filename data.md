@@ -20,6 +20,10 @@ More information and installation on the [Github repository](https://github.com/
 
 [R code](https://github.com/franvillamil/scrap-INE-census) to scrap census data from the [*Instituto Nacional de Estadística* (INE)](http://ine.es/)'s website.
 
+#### Determining territorial origins of Spanish family names
+
+[R code](https://gist.github.com/franvillamil/d0e81d059f8bfd1b87fe76ede9b47f34) to get the territorial origins of Spanish surnames from the [INE database](https://www.ine.es/widgets/nombApell/index.shtml), used to determined whether a family names is territorially concentrated in any region in Spain (see e.g. this [article](https://www.tandfonline.com/doi/abs/10.1080/13537113.2020.1795451?journalCode=fnep20) for an application). The scraping relies on [RSelenium](https://github.com/ropensci/RSelenium).
+
 ### Data
 
 #### Spain
