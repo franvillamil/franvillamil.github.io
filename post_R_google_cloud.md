@@ -88,7 +88,17 @@ Restrict access:
 chmod 400 ~/.ssh/[keyfilename]
 ```
 
-And copy public key (`.pub`) into Metadata. You should now be able to connect via `ssh -i ~/[path to private key] [short username]@[external IP]`.
+And copy public key (`.pub`) into Metadata. You should now be able to connect via
+
+```shell
+ssh -i ~/[path to private key] [short username]@[external IP]
+```
+
+And using `scp` into the VM in the same way:
+
+```shell
+scp -i ~/[path to private key] [localpath] [short username]@[external IP]:[remotepath]
+```
 
 In case the process is too long, use [`tmux`](https://github.com/tmux/tmux/wiki) (or some alternative, [see this](https://unix.stackexchange.com/questions/479/keep-processes-running-after-ssh-session-disconnects)) to keep `make` running and be able to access the screen again after disconnecting `ssh`.
 
