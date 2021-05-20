@@ -121,6 +121,12 @@ To get a rough estimate of memory available:
 cat /proc/meminfo | grep "Mem"
 ```
 
+To run R and print out *and* save to file both stdout and stderr (*Not sure if this works in Ubuntu, perhaps need to add `/usr/bin/bash`?*):
+
+```shell
+Rscript --no-save --verbose file.R 2>&1 | tee file.Rout
+```
+
 In case Rscript fails to execute, see [this](http://www.cureffi.org/2014/01/15/running-r-batch-mode-linux/).
 
 ---------------
