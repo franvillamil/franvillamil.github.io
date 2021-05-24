@@ -27,6 +27,12 @@ export PATH=/usr/local/bin:$PATH
 git --version
 ```
 
+Adding to `.gitconfig`:
+
+```shell
+	slog = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold yellow)%d%C(reset) %C(white)%s%C(reset)' --all
+```
+
 - Install Atom and get its config from Github
 
 - Install iterm2, oh-my-zsh, configure theme (Powerlevel)
