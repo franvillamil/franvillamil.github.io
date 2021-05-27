@@ -25,3 +25,7 @@ git merge --no-ff newbranch # merge without ff
 git branch -d newbranch # delete branch
 git push origin master # push to remote
 ```
+
+When merging, remember:
+
+https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially
