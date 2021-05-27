@@ -44,7 +44,7 @@ https://superuser.com/questions/1271179/sourcing-an-alias-file-in-oh-my-zsh-cust
 ```shell
 alias gitfs="git fetch; git status"
 alias zshconfig="open ~/.zshrc -a 'Atom'"
-alias gitconfig="open .gitconfig -a 'Atom'"
+alias gitconfig="open ~/.gitconfig -a 'Atom'"
 alias dp="cd ~/Documents/projects"
 alias lnbib="ln -s /Users/franvillamil/Documents/bib/REF.bib REF.bib"
 alias cpbib="cp /Users/franvillamil/Documents/bib/REF.bib ."
