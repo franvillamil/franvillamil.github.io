@@ -33,6 +33,8 @@ Adding to `.gitconfig`:
 	slog = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold yellow)%d%C(reset) %C(white)%s%C(reset)' --all
 ```
 
+check : https://gist.github.com/taxilian/1338308
+
 - Install Atom and get its config from Github
 
 - Install iterm2, oh-my-zsh, configure theme (Powerlevel)
