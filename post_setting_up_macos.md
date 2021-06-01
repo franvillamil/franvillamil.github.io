@@ -54,6 +54,11 @@ alias dp="cd ~/Documents/projects"
 alias lnbib="ln -s /Users/franvillamil/Documents/bib/REF.bib REF.bib"
 alias cpbib="cp /Users/franvillamil/Documents/bib/REF.bib ."
 alias joinallpdf="'/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py' -o new.pdf *.pdf"
+alias gitlf="git rev-list --objects --all |
+  git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' |
+  sed -n 's/^blob //p' |
+  sort --numeric-sort --key=2 |
+  cut -c 1-12,41-"
 ```
 
 - Install R (and required packages?)
