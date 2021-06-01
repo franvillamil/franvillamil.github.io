@@ -6,7 +6,7 @@ layout: default
 
 ### Publications
 
-* Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, 58(3): 399-416. [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip) [[Appendix]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_2020_JPR.pdf)
+* Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, 58(3): 399-416. [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/preprint_Villamil_2020_JPR.pdf) [[Appendix]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_2020_JPR.pdf) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
 
 * Balcells, Laia and Francisco Villamil (2020) [The double logic of internal purges: New evidence from Francoist Spain.](https://doi.org/10.1080/13537113.2020.1795451) *Nationalism and Ethnic Politics*, 26(3): 260-278. [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) [[Appendix]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/appendix_Balcells_Villamil_2020_NEPS) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
 
