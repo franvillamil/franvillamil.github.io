@@ -22,9 +22,9 @@ layout: default
 
 * Violence, co-optation, and postwar voting in Guatemala. *R&R.*
 * Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *R&R.*
-* Measurement validity and historical data in conflict research.
+* Measurement validity in historical conflict data: Comparing datasets from Spain. *Under review.*
 * Wartime collective targeting and postwar ethnic mobilization.
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
 * Understanding the triggers of political polarization (with Laia Balcells and Juan F. Tellez).
-* Todo por la patria: Location of military facilities and support for the far-right in Spain (with Stuart Turnbull-Dugarte and José Rama).
+* Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
 
