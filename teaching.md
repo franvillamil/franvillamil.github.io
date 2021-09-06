@@ -8,12 +8,12 @@ layout: default
 
 #### War, peace, and political violence
 
-Undergraduate, Fall 2020. [[Syllabus]](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/syllabus_war_peace_polvio_fall2020.pdf)
+Undergraduate course. Fall 2020 [[Syllabus]](https://github.com/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), Fall 2021 [[Syllabus]](https://github.com/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf).
 
-#### Security, peace, and conflict resolution (seminar instructor)
+#### Multidisciplinary seminar on International Studies
 
-Undergraduate, Fall 2020.
+Undergraduate course. Fall 2020, Fall 2021.
 
-#### Multidisciplinary seminar on International Studies (seminar instructor)
+#### Security, peace, and conflict resolution
 
-Undergraduate, Fall 2020.
+Undergraduate course, seminar instructor. Fall 2020.
