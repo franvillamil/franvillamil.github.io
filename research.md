@@ -22,7 +22,7 @@ layout: default
 
 * Violence, co-optation, and postwar voting in Guatemala. *R&R.*
 * Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *R&R.*
-* Measurement validity in historical conflict data: Comparing datasets from Spain. *Under review.*
+* [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/villamil_measurement_fosas_wp.pdf)
 * Wartime collective targeting and postwar ethnic mobilization.
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
 * Understanding the triggers of political polarization (with Laia Balcells and Juan F. Tellez).
