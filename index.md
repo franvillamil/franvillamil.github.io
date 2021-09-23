@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a postdoctoral researcher at the [Carlos III - Juan March Institute](https://ic3jm.es/) in Madrid. Previously, I was part of the [ICR group](https://icr.ethz.ch/) at ETH Zurich, where I defended [my dissertation](./dissertation.md) in February 2020.
+I am postdoctoral researcher at the [Carlos III - Juan March Institute](https://ic3jm.es/) in Madrid. I obtained my PhD from ETH Zurich, where I was part of the [International Conflict Research](https://icr.ethz.ch/) group.
 
 My current research focuses on the consequences of political violence, with an emphasis on how social dynamics shape preference formation as a response to shocks. More broadly, I'm interested in the way the social context conditions individuals' political behavior and preferences. I use quantitative methods extensively, and rely on a variety of data sources and data collection strategies, including digitization of historical archives, web scraping, and geospatial data. Part of my research has been published at the *Journal of Peace Research*, the *Journal of Conflict Resolution*, and *Nationalism and Ethnic Politics*.
 
