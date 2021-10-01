@@ -18,13 +18,16 @@ layout: default
 
 *February 2020, ETH Zurich.* [(More info)](./dissertation.html)
     
-### Working papers / research in progress
+### Working papers
 
 * Violence, co-optation, and postwar voting in Guatemala. *R&R.*
 * Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *R&R.*
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://github.com/franvillamil/franvillamil.github.io/blob/master/files/villamil_measurement_fosas_wp.pdf)
+* Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
+
+### Work in progress
+
 * Wartime collective targeting and postwar ethnic mobilization.
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
 * Understanding the triggers of political polarization (with Laia Balcells and Juan F. Tellez).
-* Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
-
+* Authoritarian repression and local collective action in Spain (with Laia Balcells).
