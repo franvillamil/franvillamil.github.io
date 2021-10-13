@@ -20,8 +20,8 @@ layout: default
     
 ### Working papers
 
+* Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *Conditionally accepted at Research & Politics.*
 * Violence, co-optation, and postwar voting in Guatemala. *R&R.*
-* Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *R&R.*
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
 
