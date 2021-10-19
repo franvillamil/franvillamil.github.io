@@ -6,11 +6,13 @@ layout: default
 
 ### Publications
 
-* Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, 58(3): 399-416. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Villamil_2020_JPR.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_2020_JPR.pdf) [[Replication]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
+* Villamil, Francisco and Laia Balcells (forthcoming) Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). Forthcoming at *Research & Politics.* [[Replication (Github)]](https://github.com/franvillamil/streets_vox)
 
-* Balcells, Laia and Francisco Villamil (2020) [The double logic of internal purges: New evidence from Francoist Spain.](https://doi.org/10.1080/13537113.2020.1795451) *Nationalism and Ethnic Politics*, 26(3): 260-278. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Balcells_Villamil_2020_NEPS.pdf) [[Replication]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
+* Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, 58(3): 399-416. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Villamil_2020_JPR.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_2020_JPR.pdf) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
 
-* Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) [Civilian victimization and ethnic civil war.](https://journals.sagepub.com/doi/full/10.1177/0022002719898873) *Journal of Conflict Resolution*, 64(7-8): 1199-1225. [[Replication]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
+* Balcells, Laia and Francisco Villamil (2020) [The double logic of internal purges: New evidence from Francoist Spain.](https://doi.org/10.1080/13537113.2020.1795451) *Nationalism and Ethnic Politics*, 26(3): 260-278. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Balcells_Villamil_2020_NEPS.pdf) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
+
+* Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) [Civilian victimization and ethnic civil war.](https://journals.sagepub.com/doi/full/10.1177/0022002719898873) *Journal of Conflict Resolution*, 64(7-8): 1199-1225. [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
 
 ### Dissertation / book project
 
@@ -20,7 +22,6 @@ layout: default
     
 ### Working papers
 
-* Do TJ policies cause backlash? Evidence from street name changes in Spain (with Laia Balcells). *Conditionally accepted at Research & Politics.*
 * Violence, co-optation, and postwar voting in Guatemala. *R&R.*
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
