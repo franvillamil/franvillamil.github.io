@@ -72,6 +72,9 @@ eval "$(/usr/libexec/path_helper)"
 
 - Install others
 
+```
+brew install pandoc
+brew install pandoc-crossref
 brew install --cask skim
 brew install --cask libreoffice
 brew install --cask brave-browser
