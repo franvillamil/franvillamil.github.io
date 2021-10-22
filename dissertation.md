@@ -3,7 +3,8 @@
 * *Defended February 2020, ETH Zurich*
 * *Supervisor: Lars-Erik Cederman (ETH Zurich)*
 * *Committee: Laia Balcells (Georgetown University), Ignacio Sánchez-Cuenca (Universidad Carlos III Madrid)*
-* [ETH Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/408847)
+* Available at [ETH Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/408847)
+* 2021 Juan Linz Price to the Best Doctoral Dissertation in Political Science, [CEPC](http://www.cepc.gob.es/investigacion/premiosalainvestigacion/premiojuanjlinz)
 
 #### Abstract:
 
