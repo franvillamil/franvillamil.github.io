@@ -61,7 +61,7 @@ Cuco Giner (1970, ['Contribución a un estudio cuantitativo de la C.N.T.'](https
 
 Getting data on electoral results during the 1930s in Spain is a bit of a mess. Results were counted and published separately for each province, and available sources change for each of them. In some cases, Official Provincial Gazettes (*Boletín Oficial Provincial*, BOP) published the detailed results (which might be available as scanned PDFs online or only at the local archives in paper form), but not in others: going through the all Provincial Gazettes of Pontevedra and A Coruña between February and July 1936, I did not find any data.
 
-Here I put together different resources to obtain these data: references to sources, scanned BOPs and details about how I digitized some of them (including some that have not been digitized yet), R scripts, etc. My own [replication data](./research.md) and also [Laia Balcells'](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJA2PV) includes municipality-level electoral results for 1936 for some provinces.
+Here I put together different resources to obtain these data: references to sources, scanned BOPs and details about how I digitized some of them (including some that have not been digitized yet), R scripts, etc. [Laia Balcells'](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJA2PV) includes municipality-level electoral results for 1936 for Catalunya and Aragon, while my own [replication data](./research.md) extend these data to a few more provinces.
 
 #### Galicia
 
