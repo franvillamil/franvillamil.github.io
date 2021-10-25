@@ -79,9 +79,9 @@ The Basque Country has the best available data on electoral results during the S
 
 This [R script](https://github.com/franvillamil/franvillamil.github.io/blob/master/R/elec36_euskadi.R) downloads the files for 1936 elections from the website of the Basque Government, cleans it, and produces a local-level dataset.
 
-#### Catalunya
+#### Catalunya and Aragon
 
-Detailed results for 1936 elections (and 1933, with the exception of the Barcelona province) are available in the book by Mercè Vilanova, *Atlas electoral de Catalunya durant la Segona República: orientació del vot, participació i abstenció* (1986, Barcelona: Fundació Jaume Bofill).
+Electoral data for 1936 for Catalunya and Aragon can be found at Prof. Laia Balcells' [replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJA2PV). Detailed results for 1936 and 1933 elections for Catalunya (with the exception of the Barcelona province in 1933) are also available in the book by Mercè Vilanova, *Atlas electoral de Catalunya durant la Segona República: orientació del vot, participació i abstenció* (1986, Barcelona: Fundació Jaume Bofill).
 
 #### Albacete
 
