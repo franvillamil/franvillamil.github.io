@@ -6,6 +6,8 @@ layout: default
 
 ### Publications
 
+* Villamil, Francisco (forthcoming) Violence, co-optation, and postwar voting in Guatemala. Conditionally accepted at *Conflict Management and Peace Science.*
+
 * Villamil, Francisco and Laia Balcells (forthcoming) Do TJ policies cause backlash? Evidence from street name changes in Spain. Forthcoming at *Research & Politics.* [[Preprint]](https://nbviewer.org/github/franvillamil/streets_vox/raw/master/preprint.pdf) [[Replication (Github)]](https://github.com/franvillamil/streets_vox)
 
 * Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research*, 58(3): 399-416. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Villamil_2020_JPR.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_2020_JPR.pdf) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
@@ -22,7 +24,6 @@ layout: default
     
 ### Working papers
 
-* Violence, co-optation, and postwar voting in Guatemala. *R&R.*
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
 
