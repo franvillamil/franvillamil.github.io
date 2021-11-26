@@ -95,7 +95,9 @@ Restrict access:
 chmod 400 ~/.ssh/[keyfilename]
 ```
 
-And copy public key (`.pub`) into Metadata. You should now be able to connect via
+And remember to **copy the public key** (`.pub`) to SSH keys in the instance configuration (in Metadata). You can access your public key via e.g. `cat ~/.ssh/key.pub`.
+
+You should now be able to connect via:
 
 ```shell
 ssh -i ~/[path to private key] [short username]@[external IP]
