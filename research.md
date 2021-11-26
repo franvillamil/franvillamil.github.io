@@ -6,7 +6,7 @@ layout: default
 
 ### Publications
 
-* Villamil, Francisco (forthcoming) Violence, co-optation, and postwar voting in Guatemala. Forthcoming at *Conflict Management and Peace Science.* [[Preprint]]()https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Replication (Github)]](https://github.com/franvillamil/legacies_guatemala)
+* Villamil, Francisco (forthcoming) Violence, co-optation, and postwar voting in Guatemala. Forthcoming at *Conflict Management and Peace Science.* [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Replication (Github)]](https://github.com/franvillamil/legacies_guatemala)
 
 * Villamil, Francisco and Laia Balcells (forthcoming) Do TJ policies cause backlash? Evidence from street name changes in Spain. Forthcoming at *Research & Politics.* [[Preprint]](https://nbviewer.org/github/franvillamil/streets_vox/raw/master/preprint.pdf) [[Replication (Github)]](https://github.com/franvillamil/streets_vox)
 
