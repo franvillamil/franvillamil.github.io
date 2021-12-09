@@ -8,7 +8,7 @@ layout: default
 
 #### War, peace, and political violence
 
-Undergraduate course. Fall 2020 [[Syllabus]](https://github.com/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), Fall 2021 [[Syllabus]](https://github.com/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf).
+Undergraduate course. [[Fall 2020]](https://github.com/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), [[Fall 2021]](https://github.com/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf).
 
 #### Multidisciplinary seminar on International Studies
 
