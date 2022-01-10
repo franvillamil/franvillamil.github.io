@@ -4,16 +4,22 @@ layout: default
 
 ## Teaching
 
-### Universidad Carlos III de Madrid
+### Graduate
+
+#### International Relations
+
+MA in Social Sciences, Carlos III-Juan March Institute. [Spring 2022](https://github.com/franvillamil/syllabi/blob/master/2022_Fall/IR_spring2022.pdf).
+
+### Undergraduate
 
 #### War, peace, and political violence
 
-Undergraduate course. [Fall 2020](https://github.com/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), [Fall 2021](https://github.com/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf).
+Universidad Carlos III de Madrid. [Fall 2020](https://github.com/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), [Fall 2021](https://github.com/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf).
 
 #### Multidisciplinary seminar on International Studies
 
-Undergraduate course. Fall 2020, Fall 2021.
+Universidad Carlos III de Madrid. Fall 2020, Fall 2021.
 
 #### Security, peace, and conflict resolution
 
-Undergraduate course, seminar instructor. Fall 2020.
+Universidad Carlos III de Madrid, seminar instructor. Fall 2020.
