@@ -14,7 +14,7 @@ layout: default
 
 * Balcells, Laia and Francisco Villamil (2020) [The double logic of internal purges: New evidence from Francoist Spain.](https://doi.org/10.1080/13537113.2020.1795451) *Nationalism and Ethnic Politics*, 26(3): 260-278. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Balcells_Villamil_2020_NEPS.pdf) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
 
-* Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) [Civilian victimization and ethnic civil war.](https://journals.sagepub.com/doi/full/10.1177/0022002719898873) *Journal of Conflict Resolution*, 64(7-8): 1199-1225. [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
+* Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) [Civilian victimization and ethnic civil war.](https://journals.sagepub.com/doi/full/10.1177/0022002719898873) *Journal of Conflict Resolution*, 64(7-8): 1199-1225. [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/Cederman_et_al_2020_JCR.pdf) [[Replication files]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
 
 ### Dissertation / book project
 
