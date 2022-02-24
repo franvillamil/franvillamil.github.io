@@ -6,7 +6,7 @@ layout: default
 
 ### Publications
 
-* Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://journals.sagepub.com/doi/full/10.1177/07388942211066539) *Conflict Management and Peace Science,* first published February 2022. [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Replication (Github)]](https://github.com/franvillamil/legacies_guatemala)
+* Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://journals.sagepub.com/doi/full/10.1177/07388942211066539) *Conflict Management and Peace Science,* first published February 2022. [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) [[Replication (Github)]](https://github.com/franvillamil/legacies_guatemala)
 
 * Villamil, Francisco and Laia Balcells (2021) [Do TJ policies cause backlash? Evidence from street name changes in Spain.](https://journals.sagepub.com/doi/full/10.1177/20531680211058550) *Research & Politics,* 8(4). [[PDF]](https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550) [[Appendix]](https://journals.sagepub.com/doi/suppl/10.1177/20531680211058550/suppl_file/sj-pdf-1-rap-10.1177_20531680211058550.pdf) [[Replication (Github)]](https://github.com/franvillamil/streets_vox)
 
