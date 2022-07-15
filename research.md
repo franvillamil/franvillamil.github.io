@@ -31,5 +31,5 @@ layout: default
 
 * Wartime collective targeting and postwar ethnic mobilization.
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
-* Understanding the triggers of political polarization (with Laia Balcells and Juan F. Tellez).
+* Past conflict, issues, and polarization in Spain (with Laia Balcells and Juan F. Tellez).
 * Authoritarian repression and local collective action in Spain (with Laia Balcells).
