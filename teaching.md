@@ -8,7 +8,7 @@ layout: default
 
 #### International Relations
 
-MA in Social Sciences, Carlos III-Juan March Institute. [Spring 2022](https://github.com/franvillamil/syllabi/blob/master/2022_Fall/IR_spring2022.pdf).
+MA in Social Sciences, Carlos III-Juan March Institute. [Spring 2022](https://github.com/franvillamil/syllabi/blob/master/2022_Spring/IR_spring2022.pdf).
 
 ### Undergraduate
 
