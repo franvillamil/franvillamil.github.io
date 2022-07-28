@@ -14,7 +14,7 @@ MA in Social Sciences, Carlos III-Juan March Institute. [Spring 2022](https://gi
 
 #### War, peace, and political violence
 
-Universidad Carlos III de Madrid. [Fall 2020](https://github.com/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), [Fall 2021](https://github.com/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf).
+Universidad Carlos III de Madrid. [Fall 2020](https://nbviewer.org/github/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), [Fall 2021](https://nbviewer.org/github/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf), [Fall 2022](https://nbviewer.org/github/franvillamil/syllabi/blob/master/2022_Fall/war_peace_political_violence_fall2022.pdf).
 
 #### Multidisciplinary seminar on International Studies
 
