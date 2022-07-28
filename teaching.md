@@ -10,6 +10,10 @@ layout: default
 
 MA in Social Sciences, Carlos III-Juan March Institute. [Spring 2022](https://github.com/franvillamil/syllabi/blob/master/2022_Spring/IR_spring2022.pdf).
 
+#### Research Design
+
+MA in Computational Social Science, Universidad Carlos III de Madrid. Fall 2022.
+
 ### Undergraduate
 
 #### War, peace, and political violence
