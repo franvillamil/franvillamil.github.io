@@ -4,26 +4,18 @@ layout: default
 
 ## Teaching
 
-### Graduate
+#### Universidad Carlos III de Madrid
 
-#### International Relations
+**Graduate**
 
-MA in Social Sciences, Carlos III-Juan March Institute. [Spring 2022](https://github.com/franvillamil/syllabi/blob/master/2022_Spring/IR_spring2022.pdf).
+- **International Relations.** MA in Social Sciences, Carlos III-Juan March Institute. Spring term, 2022-. [[Syllabus]](https://raw.githack.com/franvillamil/syllabi/master/2022_Spring/IR_spring2022.pdf)
 
-#### Research Design
+- **Research Design.** MA in Computational Social Science. Fall term, 2022-. [[Syllabus]](https://raw.githack.com/franvillamil/syllabi/master/2022_Fall/research_design_fall2022.pdf)
 
-MA in Computational Social Science, Universidad Carlos III de Madrid. Fall 2022.
+**Undergraduate**
 
-### Undergraduate
+- **War, peace, and political violence.** Fall term, 2020-. [[Syllabus]](https://raw.githack.com/franvillamil/syllabi/master/2022_Fall/war_peace_political_violence_fall2022.pdf).
 
-#### War, peace, and political violence
+- **Multidisciplinary seminar on International Studies.** Fall term, 2020-2021.
 
-Universidad Carlos III de Madrid. [Fall 2020](https://nbviewer.org/github/franvillamil/syllabi/blob/master/2020_Fall/war_peace_political_violence_fall2020.pdf), [Fall 2021](https://nbviewer.org/github/franvillamil/syllabi/blob/master/2021_Fall/war_peace_political_violence_fall2021.pdf), [Fall 2022](https://raw.githack.com/franvillamil/syllabi/master/2022_Fall/war_peace_political_violence_fall2022.pdf).
-
-#### Multidisciplinary seminar on International Studies
-
-Universidad Carlos III de Madrid. Fall 2020, Fall 2021.
-
-#### Security, peace, and conflict resolution
-
-Universidad Carlos III de Madrid, seminar instructor. Fall 2020.
+- **Security, peace, and conflict resolution.** Fall term, 2020.
