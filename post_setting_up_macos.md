@@ -86,7 +86,7 @@ brew install --cask spectacle
 - Git stuff
 
 ```
-brew install --cask p4merge
+brew install --cask p4v
 ```
 
 The configuration for git should already be in `configfiles`, but just in case, it is:
