@@ -81,6 +81,29 @@ brew install --cask brave-browser
 brew install --cask dropbox
 brew install --cask quicksilver
 brew install --cask spectacle
+```
+
+- Git stuff
+
+```
+brew install --cask p4merge
+```
+
+The configuration for git should already be in `configfiles`, but just in case, it is:
+
+```
+[diff]
+    tool = p4mergetool
+    renames = copies
+    mnemonicprefix = true
+[difftool "p4mergetool"]
+    cmd = /Applications/p4merge.app/Contents/MacOS/p4merge "$LOCAL" "$REMOTE"
+    keepBackup = false
+    keepTemporaries = false
+    trustExitCode = false
+    prompt = false
+ ```
+
 
 
 - SQL stuff?
