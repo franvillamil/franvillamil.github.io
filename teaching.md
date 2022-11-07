@@ -8,14 +8,14 @@ layout: default
 
 **Graduate**
 
-- **International Relations.** MA in Social Sciences, Carlos III-Juan March Institute. Spring term, 2022-. [[Syllabus]](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_IR.pdf)
+- **[International Relations.](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_IR.pdf)** MA in Social Sciences, Carlos III-Juan March Institute. Spring term, 2022-.
 
-- **Research Design.** MA in Computational Social Science. Fall term, 2022-. [[Syllabus]](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_research_design.pdf)
+- **[Research Design.](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_research_design.pdf)** MA in Computational Social Science. Fall term, 2022-.
 
 **Undergraduate**
 
-- **War, peace, and political violence.** Fall term, 2020-. [[Syllabus]](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_war_peace_political_violence.pdf)
+- **[War, peace, and political violence.](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_war_peace_political_violence.pdf)** Fall term, 2020-.
 
-- **Multidisciplinary seminar on International Studies.** Fall term, 2020-2021.
+- Multidisciplinary seminar on International Studies. Fall term, 2020-2021.
 
-- **Security, peace, and conflict resolution.** Fall term, 2020.
+- Security, peace, and conflict resolution. Fall term, 2020.
