@@ -112,4 +112,16 @@ The configuration for git should already be in `configfiles`, but just in case, 
 
 
 
-R gcc stuff: https://github.com/Rdatatable/data.table/issues/4437#issuecomment-1090282803
+R gcc stuff:
+```brew install gcc```
+
+And then add this to `Makevars`, but first check version of `gcc` and directories etc (perhaps need to create it: ```cd && mkdir .R && touch .R/Makevars```):
+
+```
+CC = gcc-12
+CXX = g++-12
+FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew/lib/gcc/12 -lgfortran -lquadmath -lm
+```
+
+
+
