@@ -109,3 +109,7 @@ The configuration for git should already be in `configfiles`, but just in case, 
 - SQL stuff?
 
 - Apps by default? https://superuser.com/a/1092184/1308479
+
+
+
+R gcc stuff: https://github.com/Rdatatable/data.table/issues/4437#issuecomment-1090282803
