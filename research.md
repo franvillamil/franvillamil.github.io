@@ -31,7 +31,7 @@ layout: default
     
 ### Working papers
 
-* Measurement validity in historical conflict data: Comparing datasets from Spain. [[PDF]](https://osf.io/c6wgk/)
+* [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
 
 ### Work in progress
