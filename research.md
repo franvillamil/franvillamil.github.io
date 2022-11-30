@@ -27,7 +27,7 @@ layout: default
 
 #### Mobilizing memories: How violence leaves long-term legacies.
 
-Based on my PhD Dissertation, *ETH Zurich* (February 2020). [(More info)](./dissertation.html)
+Based on my [PhD Dissertation](./dissertation.html), *ETH Zurich* (February 2020).
     
 ### Working papers
 
