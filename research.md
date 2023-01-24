@@ -6,7 +6,7 @@ layout: default
 
 ### Peer-reviewed articles
 
-* Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://journals.sagepub.com/doi/full/10.1177/07388942211066539){:target="_blank" rel="noopener"} *Conflict Management and Peace Science* 39(6): 731-754.
+* Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://journals.sagepub.com/doi/full/10.1177/07388942211066539) *Conflict Management and Peace Science* 39(6): 731-754.
   [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) [[Replication]](https://github.com/franvillamil/legacies_guatemala)
 
 * Villamil, Francisco and Laia Balcells (2021) [Do TJ policies cause backlash? Evidence from street name changes in Spain.](https://journals.sagepub.com/doi/full/10.1177/20531680211058550) *Research & Politics* 8(4).
