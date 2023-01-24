@@ -33,11 +33,11 @@ Based on my [PhD Dissertation](./dissertation.html), *ETH Zurich* (February 2020
 ### Working papers
 
 * [The legacies of authoritarian repression on civil society](https://doi.org/10.35188/UNU-WIDER/2023/309-3) (with Laia Balcells).
-* Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
+* Wartime collective targeting and postwar ethnic mobilization.
 
 ### Work in progress
 
-* Wartime collective targeting and postwar ethnic mobilization.
+* Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
 * Past conflict, issues, and polarization in Spain (with Laia Balcells and Juan F. Tellez).
