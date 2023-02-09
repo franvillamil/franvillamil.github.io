@@ -6,6 +6,8 @@ layout: default
 
 ### Peer-reviewed articles
 
+* Villamil, Francisco (forthcoming) Civilian victimization and ethnic attitudes in Africa. *European Political Science Review*, forthcoming.
+
 * Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://journals.sagepub.com/doi/full/10.1177/07388942211066539) *Conflict Management and Peace Science* 39(6): 731-754.
   [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) [[Replication]](https://github.com/franvillamil/legacies_guatemala)
 
