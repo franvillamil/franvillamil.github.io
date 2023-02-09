@@ -37,7 +37,6 @@ Based on my [PhD Dissertation](./dissertation.html), *ETH Zurich* (February 2020
 * [The legacies of authoritarian repression on civil society](https://doi.org/10.35188/UNU-WIDER/2023/309-3) (with Laia Balcells).
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
-* Wartime collective targeting and postwar ethnic mobilization.
 
 ### Work in progress
 
