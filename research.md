@@ -6,7 +6,9 @@ layout: default
 
 ### Peer-reviewed articles
 
-* Villamil, Francisco (forthcoming) Civilian victimization and ethnic attitudes in Africa. *European Political Science Review*, forthcoming.
+* Balcells, Laia, Juan F Tellez, and Francisco Villamil (forthcoming) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. Conditionally accepted at *The Journal of Politics*.
+
+* Villamil, Francisco (forthcoming) Civilian victimization and ethnic attitudes in Africa. Forthcoming at *European Political Science Review*.
 
 * Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://journals.sagepub.com/doi/full/10.1177/07388942211066539) *Conflict Management and Peace Science* 39(6): 731-754.
   [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) [[Replication]](https://github.com/franvillamil/legacies_guatemala)
@@ -26,12 +28,6 @@ layout: default
 
 * Rama, José, Stuart J. Turnbull-Dugarte and Francisco Villamil (2022) Descomponiendo a la derecha radical europea: el perfil de sus votantes. In: *[En los márgenes de la democracia liberal: Populismo, nacionalismo y radicalismo ideológico en Europa](https://www.comares.com/libro/en-los-margenes-de-la-democracia-liberal_143816/)*, edited by Ángel Valencia and Belén Fernández-García. Granada: Comares, 239-258.
 
-### Book project
-
-#### Mobilizing memories: How violence leaves long-term legacies.
-
-Based on my [PhD Dissertation](./dissertation.html), *ETH Zurich* (February 2020).
-    
 ### Working papers
 
 * [The legacies of authoritarian repression on civil society](https://doi.org/10.35188/UNU-WIDER/2023/309-3) (with Laia Balcells).
@@ -42,3 +38,4 @@ Based on my [PhD Dissertation](./dissertation.html), *ETH Zurich* (February 2020
 
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
 * Past conflict, issues, and polarization in Spain (with Laia Balcells and Juan F. Tellez).
+* Mobilizing memories: How violence leaves long-term legacies. [Book project.]
