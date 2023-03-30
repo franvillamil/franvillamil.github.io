@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Research
+## Publications
 
 ### Peer-reviewed articles
 
