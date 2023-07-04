@@ -48,6 +48,8 @@ a:hover {
   color:#004263;
   text-decoration: none;
   font-weight:400;
+  text-shadow: -.25px -.25px 0 black,
+              .25px .25px black;
 }
 
 a small {
