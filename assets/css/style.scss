@@ -57,7 +57,8 @@ a small {
 }
 
 a:hover small {
-  color:#777;
+  // color:#777;
+  text-decoration: underline;
 }
 
 .wrapper {
@@ -152,7 +153,8 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  // color:#999;
+  text-decoration: underline;
 }
 
 header ul a:active {
