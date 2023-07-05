@@ -13,6 +13,7 @@ layout: default
 ### Undergraduate
 
 - [War, peace, and political violence](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_war_peace_political_violence.pdf). UC3M, Fall term, 2020-.
+  * [Slides](https://github.com/franvillamil/wp_polvio)
 
 - Multidisciplinary seminar on International Studies. UC3M, Fall term, 2020-2021.
 

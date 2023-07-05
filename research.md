@@ -33,9 +33,4 @@ layout: default
 * [The legacies of authoritarian repression on civil society](https://doi.org/10.35188/UNU-WIDER/2023/309-3) (with Laia Balcells).
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Rally 'round the barrack: Far-right support and the military (with Stuart Turnbull-Dugarte and José Rama).
-
-### Work in progress
-
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca).
-* Past conflict, issues, and polarization in Spain (with Laia Balcells and Juan F. Tellez).
-* Mobilizing memories: How violence leaves long-term legacies. [Book project.]
