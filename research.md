@@ -24,7 +24,7 @@ layout: default
 
 ### Book chapters
 
-* Villamil, Francisco (forthcoming, 2023) Civil Wars. In: *Encyclopedia of Political Sociology*, edited by Maria T. Grasso and Marco Giugni. Cheltenham: Edward Elgar.
+* Villamil, Francisco (2023) Civil Wars. In: *[Encyclopedia of Political Sociology](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-political-sociology-9781803921228.html)*, edited by Maria T. Grasso and Marco Giugni. Cheltenham: Edward Elgar.
 
 * Rama, José, Stuart J. Turnbull-Dugarte and Francisco Villamil (2022) Descomponiendo a la derecha radical europea: el perfil de sus votantes. In: *[En los márgenes de la democracia liberal: Populismo, nacionalismo y radicalismo ideológico en Europa](https://www.comares.com/libro/en-los-margenes-de-la-democracia-liberal_143816/)*, edited by Ángel Valencia and Belén Fernández-García. Granada: Comares, 239-258.
 
