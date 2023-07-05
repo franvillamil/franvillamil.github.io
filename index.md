@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{site.logo | relative_url}}" alt="Logo" style="width: 45%; height: 45%" />
+<img src="files/photo.JPG" style="width: 45%; height: 45%" />
 
 I am an assistant professor of political science in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at Carlos III University in Madrid and a research fellow at the [Carlos III - Juan March Institute](https://ic3jm.es/).
 
