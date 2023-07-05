@@ -4,7 +4,7 @@ layout: default
 
 <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 45%; height: 45%" />
 
-I am Assistant Professor in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at Carlos III University in Madrid and a research fellow at the [Carlos III - Juan March Institute](https://ic3jm.es/).
+I am an assistant professor of political science in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at Carlos III University in Madrid and a research fellow at the [Carlos III - Juan March Institute](https://ic3jm.es/).
 
 My research focuses on political violence. In particular, I am interested in the aftermath of violent conflicts. My book project investigates the long-term consequences of political violence and develops a new theory on how and under which circumstances violence leaves persistent legacies. Part of my [research](./research.html) has been published or conditionally accepted at *The Journal of Politics*, the *Journal of Peace Research*, and the *Journal of Conflict Resolution*, among others.
 
