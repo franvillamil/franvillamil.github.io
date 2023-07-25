@@ -6,7 +6,8 @@ layout: default
 
 ### Peer-reviewed articles
 
-* Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (ca) Rally 'round the barrack: Far-right support and the military. Conditionally accepted at *The Journal of Politics*. [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/preprint_VTR_JOP_2023.pdf) [[Appendix]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/appendix_VTR_JOP_2023.pdf)
+* Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (ca) Rally 'round the barrack: Far-right support and the military. Conditionally accepted at *The Journal of Politics*.
+  - [[Preprint]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/preprint_VTR_JOP_2023.pdf) [[Appendix]](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/appendix_VTR_JOP_2023.pdf)
 
 * Balcells, Laia, Juan F Tellez, and Francisco Villamil (forthcoming) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. Forthcoming at *The Journal of Politics*. [[Preprint]](https://www.laiabalcells.com/wp-content/uploads/Ukraine_and_Spanish_Nationalism.pdf) [[Appendix]](https://www.laiabalcells.com/wp-content/uploads/Online-appendix-Ukraine-Spanish-Nationalism.pdf)
 
