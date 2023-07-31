@@ -7,7 +7,7 @@ layout: default
 ### Peer-reviewed articles
 
 * Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (ca) Rally 'round the barrack: Far-right support and the military. Conditionally accepted at *The Journal of Politics*.
-  - [Preprint](https://osf.io/nsbt3/) / [Appendix](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/appendix_VTR_JOP_2023.pdf)
+  - [Preprint](https://osf.io/nsbt3/) / [Appendix](https://osf.io/je8w5/)
 
 * Balcells, Laia, Juan F Tellez, and Francisco Villamil (forthcoming) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. Forthcoming at *The Journal of Politics*.
   - [Preprint](https://www.laiabalcells.com/wp-content/uploads/Ukraine_and_Spanish_Nationalism.pdf) / [Appendix](https://www.laiabalcells.com/wp-content/uploads/Online-appendix-Ukraine-Spanish-Nationalism.pdf)
@@ -19,16 +19,16 @@ layout: default
   - [Preprint](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) / [Replication](https://github.com/franvillamil/legacies_guatemala)
 
 * Villamil, Francisco and Laia Balcells (2021) [Do TJ policies cause backlash? Evidence from street name changes in Spain.](https://journals.sagepub.com/doi/full/10.1177/20531680211058550) *Research & Politics* 8(4).
-  - [PDF](https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_Balcells_2021.pdf) / [Replication](https://github.com/franvillamil/streets_vox)
+  - [PDF](https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_Balcells_2021.pdf) / [Replication](https://github.com/franvillamil/streets_vox)
 
 * Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research* 58(3): 399-416.
-  - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Villamil_2020_JPR.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Villamil_2020_JPR.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Villamil_2020_JPR.zip)
+  - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_2020_JPR.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_2020_JPR.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Villamil_2020_JPR.zip)
 
 * Balcells, Laia and Francisco Villamil (2020) [The double logic of internal purges: New evidence from Francoist Spain.](https://doi.org/10.1080/13537113.2020.1795451) *Nationalism and Ethnic Politics* 26(3): 260-278.
-  * [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/preprint_Balcells_Villamil_2020_NEPS.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/appendix_Balcells_Villamil_2020_NEPS.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_Balcells_Villamil_2020_NEPS.zip)
+  * [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Balcells_Villamil_2020_NEPS.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Balcells_Villamil_2020_NEPS.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Balcells_Villamil_2020_NEPS.zip)
 
 * Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) [Civilian victimization and ethnic civil war.](https://journals.sagepub.com/doi/full/10.1177/0022002719898873) *Journal of Conflict Resolution* 64(7-8): 1199-1225.
-  * [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/Cederman_et_al_2020_JCR.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/replication_cederman_et_al_2020.zip)
+  * [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/Cederman_et_al_2020_JCR.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_cederman_et_al_2020.zip)
 
 ### Book chapters
 
