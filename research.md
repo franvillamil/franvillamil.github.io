@@ -8,9 +8,10 @@ layout: default
 
 * Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (ca) Rally 'round the barrack: Far-right support and the military. Conditionally accepted at *The Journal of Politics*.
   - [Preprint](https://osf.io/nsbt3/) / [Appendix](https://osf.io/je8w5/)
+  - Media: [infoLibre](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html)
 
 * Balcells, Laia, Juan F Tellez, and Francisco Villamil (forthcoming) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. Forthcoming at *The Journal of Politics*.
-  - [Preprint](https://www.laiabalcells.com/wp-content/uploads/Ukraine_and_Spanish_Nationalism.pdf) / [Appendix](https://www.laiabalcells.com/wp-content/uploads/Online-appendix-Ukraine-Spanish-Nationalism.pdf)
+  - [Preprint](https://www.laiabalcells.com/wp-content/uploads/Ukraine_and_Spanish_Nationalism.pdf) / [Appendix](https://www.laiabalcells.com/wp-content/uploads/Online-appendix-Ukraine-Spanish-Nationalism.pdf) / [Replication](https://doi.org/10.7910/DVN/COS3BS)
 
 * Villamil, Francisco (2023) [Civilian victimization and ethnic attitudes in Africa.](https://doi.org/10.1017/S1755773923000097) *European Political Science Review* 1-11.
   - [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/973528557583A9CB9A401109A6F15C20/S1755773923000097a.pdf/civilian-victimization-and-ethnic-attitudes-in-africa.pdf) / [Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1755773923000097/resource/name/S1755773923000097sup001.pdf) / [Replication](https://github.com/franvillamil/ethnicity_africa)
@@ -20,6 +21,7 @@ layout: default
 
 * Villamil, Francisco and Laia Balcells (2021) [Do TJ policies cause backlash? Evidence from street name changes in Spain.](https://journals.sagepub.com/doi/full/10.1177/20531680211058550) *Research & Politics* 8(4).
   - [PDF](https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_Balcells_2021.pdf) / [Replication](https://github.com/franvillamil/streets_vox)
+  - Media: [elDiario.es](https://www.eldiario.es/piedrasdepapel/justicia-transicional-memoria-historica_132_8453155.html)
 
 * Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research* 58(3): 399-416.
   - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_2020_JPR.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_2020_JPR.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Villamil_2020_JPR.zip)
