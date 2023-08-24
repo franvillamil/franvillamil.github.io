@@ -10,7 +10,7 @@ layout: default
   - [Preprint](https://osf.io/nsbt3/) / [Appendix](https://osf.io/je8w5/)
   - Media: [infoLibre](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html)
 
-* Balcells, Laia, Juan F Tellez, and Francisco Villamil (forthcoming) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. Forthcoming at *The Journal of Politics*.
+* Balcells, Laia, Juan F Tellez, and Francisco Villamil (forthcoming) [The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism.](https://www.journals.uchicago.edu/doi/10.1086/726939) Forthcoming at *The Journal of Politics*.
   - [Preprint](https://www.laiabalcells.com/wp-content/uploads/Ukraine_and_Spanish_Nationalism.pdf) / [Appendix](https://www.laiabalcells.com/wp-content/uploads/Online-appendix-Ukraine-Spanish-Nationalism.pdf) / [Replication](https://doi.org/10.7910/DVN/COS3BS)
 
 * Villamil, Francisco (2023) [Civilian victimization and ethnic attitudes in Africa.](https://doi.org/10.1017/S1755773923000097) *European Political Science Review* 1-11.
