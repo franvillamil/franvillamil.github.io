@@ -6,7 +6,7 @@ layout: default
 
 ### Peer-reviewed articles
 
-* Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (ca) Rally 'round the barrack: Far-right support and the military. Conditionally accepted at *The Journal of Politics*.
+* Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (ca) Rally 'round the barrack: Far-right support and the military. Forthcoming at *The Journal of Politics*.
   - [Preprint](https://osf.io/nsbt3/) / [Appendix](https://osf.io/je8w5/)
   - Media: [infoLibre](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html)
 
