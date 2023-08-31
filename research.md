@@ -41,5 +41,5 @@ layout: default
 ### Working papers
 
 * [The legacies of authoritarian repression on civil society](https://doi.org/10.35188/UNU-WIDER/2023/309-3) (with Laia Balcells). *R&R, Comparative Political Studies.*
-* [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
 * Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca). *Under review*.
+* [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
