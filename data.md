@@ -10,7 +10,6 @@ layout: default
 
 #### R package: Territorial changes in Spanish municipalities
 
-
 <img src="https://raw.githubusercontent.com/franvillamil/franvillamil.github.io/master/files/muni_bilbao.png" width="475" />
 
 The R package [muniSpain](https://github.com/franvillamil/munispain) is designed to deal with territorial changes in Spanish municipalities when working with historical local-level data from different periods.
@@ -32,3 +31,7 @@ More information and installation on the [Github repository](https://github.com/
 
 [Here](./data_spain.md) I offer details, R scripts and raw data on historical patterns of violence and political behavior in Spain.
 It includes, among others, disaggregated data on civilian victimization during the Spanish Civil War, presence of trade unions in the 1930s or prewar electoral results.
+
+### Other writing / software
+
+- [Setting up R on a Google Cloud VM instance](./post_R_google_cloud.md)
