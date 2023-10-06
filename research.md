@@ -21,6 +21,7 @@ layout: default
 
 * Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://doi.org/10.1177/07388942211066539) *Conflict Management and Peace Science* 39(6): 731-754.
   - [Preprint](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) / [Replication](https://github.com/franvillamil/legacies_guatemala)
+  - Media / outreach: [Civil War Paths Blog](https://www.civilwarpaths.org/2023/10/06/how-political-actors-influence-war-legacies/)
   - <details><summary>Abstract:</summary><p>Wartime civilian victimization produces a counter-reaction against the perpetrator. However, this effect hinges on the creation of collective memories of wartime events. In many countries, former fighting actors and political elites try to redirect memories of wartime events through denial, propaganda, and co-optation. Previous works have ignored these aspects. I argue that the effect of violence is conditional on the capacity of local communities to build collective memories and bypass those efforts. I test this argument using local-level data from Guatemala. Results show that the effects of state violence on postwar voting depend on prewar exposure to political mobilization.</p></details>
 
 * Villamil, Francisco and Laia Balcells (2021) [Do TJ policies cause backlash? Evidence from street name changes in Spain.](https://doi.org/10.1177/20531680211058550) *Research & Politics* 8(4).
