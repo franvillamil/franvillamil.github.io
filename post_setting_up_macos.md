@@ -38,9 +38,11 @@ Adding to `.gitconfig`:
 
 check : https://gist.github.com/taxilian/1338308
 
-- Install Atom and get its config from Github
-
 - Install iterm2, oh-my-zsh, configure theme (Powerlevel)
+
+- Install Atom/VSCodium and get its config from Github
+
+**NICE**: https://gist.github.com/the0neWhoKnocks/ba019a86e5d4a30e5076b5af05f1b04f
 
 - Create aliases:
 
@@ -68,6 +70,9 @@ alias gitlf="git rev-list --objects --all |
 brew install --cask mactex-no-gui
 eval "$(/usr/libexec/path_helper)"
 
+- VS Codium
+
+brew install --cask vscodium
 
 
 - Install others
@@ -76,12 +81,37 @@ eval "$(/usr/libexec/path_helper)"
 brew install pandoc
 brew install pandoc-crossref
 brew install --cask skim
-brew install --cask libreoffice
 brew install --cask brave-browser
 brew install --cask dropbox
 brew install --cask quicksilver
 brew install --cask spectacle
+brew install --cask modern-csv
+brew install --cask spotify
+brew install --cask autofirma
+brew install --cask adobe-acrobat-reader
+brew install --cask firefox
+brew install --cask gimp
+brew install --cask protonvpn
+brew install --cask selfcontrol
+brew install --cask skype
+brew install --cask zoom
+brew install --cask zotero
+brew install --cask calibre
 ```
+
+Maybe also `[duti](https://github.com/moretension/duti/)` and set up defaults for extensions:
+
+```
+brew install duti
+```
+
+And then (change Atom for VSCode):
+
+```
+duti -s com.github.atom .md all
+duti -s net.galliumdigital.Modern-CSV .cst all
+```
+
 
 - Git stuff
 
@@ -122,6 +152,3 @@ CC = gcc-12
 CXX = g++-12
 FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew/lib/gcc/12 -lgfortran -lquadmath -lm
 ```
-
-
-
