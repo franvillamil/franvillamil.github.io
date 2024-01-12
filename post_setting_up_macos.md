@@ -1,8 +1,17 @@
+See [this guide	](https://sourabhbajaj.com/mac-setup)
+
 Install XCode
 
 ```shell
-xcode-select —install
+xcode-select -—install
 ```
+
+Install iTerm2 and setup zsh etc
+
+```shell
+brew install --cask iterm2
+```
+
 
 Install Homebrew
 
