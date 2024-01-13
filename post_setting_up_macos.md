@@ -1,12 +1,17 @@
 ### Still TO DO:
 
 - Fix `.zshrc` mess in configfiles, and store aliases separately, [see this](https://superuser.com/questions/1271179/sourcing-an-alias-file-in-oh-my-zsh-custom-folder)
+- Install VS Codium
+- R gcc stuff, p4m, and apps by default
+- (Obviously: **transfer Files**)
+- Limit Catalog in Quicksilver (to only files and folders in ~?)
 
-### References
+## References
 
 - See [this guide](https://sourabhbajaj.com/mac-setup)
 
-### Basics
+----
+## Basics
 
 Install XCode:
 
@@ -20,7 +25,8 @@ Install Homebrew, and follow instructions in installation:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### Shell and iTerm2
+----
+## Shell and iTerm2
 
 Install iTerm2, and oh-my-zsh:
 
@@ -38,7 +44,15 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 ```
 
-### Git
+**NOTE:**
+
+- It's useful to give iTerm2 access to Full disk under Privacy settings, so as to avoid the `operation not permitted` when using `find`
+- In Settings > Profiles > Keys, change a couple things so you can move through words with <kbd>alt</kbd> and arrows:
+	- In <kbd>⌥</kbd><kbd>-></kbd>, change it to "Send Escape Sequence" and write "f" in Esc+
+	- In <kbd>⌥</kbd><kbd><-</kbd>, change it to "Send Escape Sequence" and write "b" in Esc+
+
+----
+## Git
 
 Install git via homebrew and check that version has changed been updated:
 
@@ -68,11 +82,15 @@ git config --global user.name "Fran Villamil"
 git config --global user.email francisco.villamil@uc3m.es
 ```
 
-Also install Github CLI (`gh`):
+#### Extras
+
+**Also install Github CLI (`gh`)**
 
 ```shell
 brew install gh
 ```
+
+**Get configurations from `configfiles`:**
 
 Clone [configfiles](https://github.com/franvillamil/configfiles) repository and create symlinks for terminal and git:
 
@@ -84,6 +102,28 @@ rm ~/.p10k.zsh && ln -s ~/configfiles/.p10k.zsh ~/.p10k.zsh
 rm ~/.gitconfig && ln -s configfiles/.gitconfig  ~/.gitconfig
 ```
 
+**Get p4merge (optional):**
+
+```
+brew install --cask p4v
+```
+
+The configuration for git should already be in `configfiles`, but just in case, it is:
+
+```
+[diff]
+    tool = p4mergetool
+    renames = copies
+    mnemonicprefix = true
+[difftool "p4mergetool"]
+    cmd = /Applications/p4merge.app/Contents/MacOS/p4merge "$LOCAL" "$REMOTE"
+    keepBackup = false
+    keepTemporaries = false
+    trustExitCode = false
+    prompt = false
+ ```
+
+----
 ## Other useful software
 
 ```
@@ -127,18 +167,30 @@ brew install --cask calibre
 	- Search in Finder: <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
 	- Spotlight: <kbd>⌃ ctrl</kbd> <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
 
+----
 ## R installation
 
 - **Important:** Do **NOT** install R through homebrew
 - Use standard R installation, through [r-project.org](https://www.r-project.org)
+- Change appearance colors
+- Get configuration from `configfiles`:
+
+```shell
+ln -s ~/configfiles/.Rprofile ~/.Rprofile
+ln -s ~/configfiles/.Renviron ~/.Renviron
+```
 
 #### Extra libraries to use in R
 
 - TODO
 
-## Code editor
+## Code editor (VS Codium)
 
 Install Atom/VSCodium and get its config from Github
+
+```shell
+brew install --cask vscodium
+```
 
 **NICE**: https://gist.github.com/the0neWhoKnocks/ba019a86e5d4a30e5076b5af05f1b04f
 
@@ -161,19 +213,17 @@ alias gitlf="git rev-list --objects --all |
   cut -c 1-12,41-"
 ```
 
-- Install R (and required packages?)
+----
+## Latex
 
-- Latex
-
-brew install --cask mactex-no-gui
+brew install --cask mactex
 eval "$(/usr/libexec/path_helper)"
 
-- VS Codium
-
-brew install --cask vscodium
+- Although I'm not sure it's the best idea to install it through homebrew, [see this](https://tex.stackexchange.com/a/656177)
 
 
-## Configurations
+----
+## Extra configurations
 
 Maybe also `[duti](https://github.com/moretension/duti/)` and set up defaults for extensions:
 
@@ -187,32 +237,6 @@ And then (change Atom for VSCode):
 duti -s com.github.atom .md all
 duti -s net.galliumdigital.Modern-CSV .cst all
 ```
-
-
-- Git stuff
-
-```
-brew install --cask p4v
-```
-
-The configuration for git should already be in `configfiles`, but just in case, it is:
-
-```
-[diff]
-    tool = p4mergetool
-    renames = copies
-    mnemonicprefix = true
-[difftool "p4mergetool"]
-    cmd = /Applications/p4merge.app/Contents/MacOS/p4merge "$LOCAL" "$REMOTE"
-    keepBackup = false
-    keepTemporaries = false
-    trustExitCode = false
-    prompt = false
- ```
-
-
-
-- SQL stuff?
 
 - Apps by default? https://superuser.com/a/1092184/1308479
 
