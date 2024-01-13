@@ -1,27 +1,34 @@
 See [this guide	](https://sourabhbajaj.com/mac-setup)
 
-Install XCode
+Install XCode:
 
 ```shell
 xcode-select -—install
 ```
 
-Install iTerm2 and setup zsh etc
-
-```shell
-brew install --cask iterm2
-```
-
-
-Install Homebrew
+Install Homebrew, and follow instructions in installation:
 
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Install iTerm2, and oh-my-zsh:
 
+```shell
+brew install --cask iterm2
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
-- Install git and check version before/after
+In older versions installing `zsh` might be necessary. Also, if you get an error like `/Users/../.zshrc:source:75: no such file or directory: /Users/../.oh-my-zsh/oh-my-zsh.sh`, uninstall and install oh-my-zsh again.
+
+Install Powerlevel10k theme, close iTerm2, open again and go through configuration wizard:
+
+```shell
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+```
+
+Install git via homebrew and check that version has changed been updated:
 
 ```shell
 git --version
@@ -29,7 +36,7 @@ brew install git
 git --version
 ```
 
-If it doesn't change, try:
+If version doesn't change, try:
 
 ```shell
 export PATH=/usr/local/bin:$PATH
