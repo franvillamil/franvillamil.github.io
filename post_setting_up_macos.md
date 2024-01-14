@@ -225,6 +225,8 @@ eval "$(/usr/libexec/path_helper)"
 ----
 ## Extra configurations
 
+#### File type defaults
+
 Maybe also `[duti](https://github.com/moretension/duti/)` and set up defaults for extensions:
 
 ```
@@ -235,11 +237,10 @@ And then (change Atom for VSCode):
 
 ```
 duti -s com.github.atom .md all
-duti -s net.galliumdigital.Modern-CSV .cst all
+duti -s net.galliumdigital.Modern-CSV .csv all
 ```
 
 - Apps by default? https://superuser.com/a/1092184/1308479
-
 
 
 R gcc stuff:
