@@ -1,14 +1,6 @@
-### Still TO DO:
+# Setting up a new macOS environment
 
-- Fix `.zshrc` mess in configfiles, and store aliases separately, [see this](https://superuser.com/questions/1271179/sourcing-an-alias-file-in-oh-my-zsh-custom-folder)
-- Install VS Codium
-- R gcc stuff, p4m, and apps by default
-- (Obviously: **transfer Files**)
-- Limit Catalog in Quicksilver (to only files and folders in ~?)
-
-## References
-
-- See [this guide](https://sourabhbajaj.com/mac-setup)
+This is my own guide to set up a new mac computer. It covers the basics for code development (shell, git, R, Latex, code editor, etc) and some other useful applications for academic research.
 
 ----
 ## Basics
@@ -99,8 +91,11 @@ cd
 git clone https://github.com/franvillamil/configfiles
 rm ~/.zshrc && ln -s ~/configfiles/.zshrc ~/.zshrc
 rm ~/.p10k.zsh && ln -s ~/configfiles/.p10k.zsh ~/.p10k.zsh
+ln -s ~/configfiles/.aliases ~/.oh-my-zsh/custom/aliases.zsh
 rm ~/.gitconfig && ln -s configfiles/.gitconfig  ~/.gitconfig
 ```
+
+**Note:** aliases go in a separate file (`.aliases`, pointed by a symlink in `.oh-my-zsh/custom/`), [see this thread](https://superuser.com/questions/1271179/sourcing-an-alias-file-in-oh-my-zsh-custom-folder).
 
 **Get p4merge (optional):**
 
@@ -146,6 +141,7 @@ brew install --cask skype
 brew install --cask zoom
 brew install --cask zotero
 brew install --cask calibre
+brew install --cask obsidian
 ```
 
 #### Quick configurations
@@ -180,70 +176,10 @@ ln -s ~/configfiles/.Rprofile ~/.Rprofile
 ln -s ~/configfiles/.Renviron ~/.Renviron
 ```
 
-#### Extra libraries to use in R
+#### `gcc` stuff for compilations in R (in case it's needed)
 
-- TODO
+**NOTE:** check [this post](https://stackoverflow.com/a/43527031/2319134) before. Looks like macOS Ventura comes with `gcc` and `g++` 14, maybe it is enough to point to their location (by default in `/usr/bin/`) in a new `Makevars` file? Instead to download it through Homebrew ([see also this post](https://github.com/bernhardu/dvbcut-deb/issues/13)). But if I do want to do that, follow:
 
-## Code editor (VS Codium)
-
-Install Atom/VSCodium and get its config from Github
-
-```shell
-brew install --cask vscodium
-```
-
-**NICE**: https://gist.github.com/the0neWhoKnocks/ba019a86e5d4a30e5076b5af05f1b04f
-
-- Create aliases:
-
-https://superuser.com/questions/1271179/sourcing-an-alias-file-in-oh-my-zsh-custom-folder
-
-```shell
-alias gitfs="git fetch; git status"
-alias zshconfig="open ~/.zshrc -a 'Atom'"
-alias gitconfig="open ~/.gitconfig -a 'Atom'"
-alias dp="cd ~/Documents/projects"
-alias lnbib="ln -s /Users/franvillamil/Documents/bib/REF.bib REF.bib"
-alias cpbib="cp /Users/franvillamil/Documents/bib/REF.bib ."
-alias joinallpdf="'/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py' -o new.pdf *.pdf"
-alias gitlf="git rev-list --objects --all |
-  git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' |
-  sed -n 's/^blob //p' |
-  sort --numeric-sort --key=2 |
-  cut -c 1-12,41-"
-```
-
-----
-## Latex
-
-brew install --cask mactex
-eval "$(/usr/libexec/path_helper)"
-
-- Although I'm not sure it's the best idea to install it through homebrew, [see this](https://tex.stackexchange.com/a/656177)
-
-
-----
-## Extra configurations
-
-#### File type defaults
-
-Maybe also `[duti](https://github.com/moretension/duti/)` and set up defaults for extensions:
-
-```
-brew install duti
-```
-
-And then (change Atom for VSCode):
-
-```
-duti -s com.github.atom .md all
-duti -s net.galliumdigital.Modern-CSV .csv all
-```
-
-- Apps by default? https://superuser.com/a/1092184/1308479
-
-
-R gcc stuff:
 ```brew install gcc```
 
 And then add this to `Makevars`, but first check version of `gcc` and directories etc (perhaps need to create it: ```cd && mkdir .R && touch .R/Makevars```):
@@ -253,3 +189,65 @@ CC = gcc-12
 CXX = g++-12
 FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew/lib/gcc/12 -lgfortran -lquadmath -lm
 ```
+
+#### Extra libraries to use in R
+
+- *TODO:* spatial analyses, etc
+
+## Code editor (Sublime Text)
+
+*TODO:*
+
+- Finish setting up for R, Latex (incl bib autosugg / Zotero plugin?)
+- List packages
+- Store settings somewhere
+
+----
+## Latex
+
+brew install --cask mactex
+eval "$(/usr/libexec/path_helper)"
+
+**NOTE:** I'm not sure it's the best idea to install it through homebrew, [see this post](https://tex.stackexchange.com/a/656177).
+
+
+----
+## Extra configurations
+
+#### File type defaults
+
+Install `[duti](https://github.com/moretension/duti/)`:
+
+```
+brew install duti
+```
+
+If you need to check the code for an application, assign it manually and then check the defaults with `duti`:
+
+```shell
+duti -x sh
+```
+
+And then change some defaults:
+
+- `csv` files with Modern CSV:
+
+    ```
+    duti -s net.galliumdigital.Modern-CSV .csv all
+    ```
+
+- All plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
+
+    ```
+    duti -s com.sublimetext.4 .txt all
+    duti -s com.sublimetext.4 .md all
+    duti -s com.sublimetext.4 .R all
+    duti -s com.sublimetext.4 .tex all
+    duti -s com.sublimetext.4 .sh all
+    duti -s com.sublimetext.4 .zsh all
+    ```
+
+----
+## Further references
+
+- See [this guide](https://sourabhbajaj.com/mac-setup)
