@@ -148,6 +148,7 @@ brew install --cask zoom
 brew install --cask zotero
 brew install --cask calibre
 brew install --cask obsidian
+brew install --cask google-drive
 ```
 
 #### Quick configurations
@@ -168,6 +169,11 @@ brew install --cask obsidian
 	- Quicksilver: <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
 	- Search in Finder: <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
 	- Spotlight: <kbd>⌃ ctrl</kbd> <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
+
+**Others:**
+
+- Log in to Google Drive and Dropbox
+- Install digital certificate
 
 ----
 ## R installation
