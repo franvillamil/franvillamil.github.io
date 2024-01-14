@@ -17,6 +17,12 @@ Install Homebrew, and follow instructions in installation:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+
+#### Annoying system settings
+
+- Disable automatic spelling correction, word capitalisation, and full stop with double-space, in `Keyboard` > `Spelling`
+- Enable 'Keyboard navigation' to move panels with `Tab`, in `Accessibility` > `Keyboard`
+
 ----
 ## Shell and iTerm2
 
