@@ -212,7 +212,10 @@ FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew
 
 - Other packages:
 	- https://packagecontrol.io/packages/AdvancedNewFile ([see also this](https://stackoverflow.com/questions/36559753/advancednewfile-plugin-in-sublime))
+	- [https://superuser.com/questions/467693/how-to-open-file-using-only-keyboard-in-sublime-text](https://superuser.com/questions/467693/how-to-open-file-using-only-keyboard-in-sublime-text)
+	- Maybe?: [https://packagecontrol.io/packages/File%20Navigator](https://packagecontrol.io/packages/File%20Navigator)
 - Finish setting up for R, Latex (incl bib autosugg / Zotero plugin?)
+- ST syncronization: [https://stackoverflow.com/a/38694182/2319134](https://stackoverflow.com/a/38694182/2319134)
 - List packages
 - Store settings somewhere
 
