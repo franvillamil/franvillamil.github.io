@@ -211,7 +211,7 @@ FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew
 *TODO:*
 
 - Other packages:
-	- https://packagecontrol.io/packages/AdvancedNewFile
+	- https://packagecontrol.io/packages/AdvancedNewFile ([see also this](https://stackoverflow.com/questions/36559753/advancednewfile-plugin-in-sublime))
 - Finish setting up for R, Latex (incl bib autosugg / Zotero plugin?)
 - List packages
 - Store settings somewhere
@@ -230,7 +230,7 @@ eval "$(/usr/libexec/path_helper)"
 
 #### File type defaults
 
-Install `[duti](https://github.com/moretension/duti/)`:
+Install [duti](https://github.com/moretension/duti/):
 
 ```
 brew install duti

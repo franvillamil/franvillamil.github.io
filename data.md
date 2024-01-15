@@ -34,6 +34,5 @@ It includes, among others, disaggregated data on civilian victimization during t
 
 ### Other writing / software
 
-- [Using R on a Google Cloud VM instance](./post_R_google_cloud.md)
-- [Setting up a new macOS environment](./post_setting_up_macos.md)
+- [Using R on a Google Cloud VM instance](./posts/R_google_vm.md)
 - [Setting up a new macOS environment](./posts/setup_macos.md)
