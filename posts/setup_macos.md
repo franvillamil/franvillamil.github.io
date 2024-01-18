@@ -2,6 +2,10 @@
 
 This is my own guide to set up a new mac computer. It covers the basics for code development (shell, git, R, Latex, code editor, etc) and some other useful applications for academic research.
 
+*TODO*:
+
+- Makevars and gcc stuff
+
 ----
 ## Basics
 
@@ -208,16 +212,70 @@ FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew
 
 ## Code editor (Sublime Text)
 
-*TODO:*
+I have the following packages installed:
 
-- Other packages:
-	- https://packagecontrol.io/packages/AdvancedNewFile ([see also this](https://stackoverflow.com/questions/36559753/advancednewfile-plugin-in-sublime))
-	- [https://superuser.com/questions/467693/how-to-open-file-using-only-keyboard-in-sublime-text](https://superuser.com/questions/467693/how-to-open-file-using-only-keyboard-in-sublime-text)
-	- Maybe?: [https://packagecontrol.io/packages/File%20Navigator](https://packagecontrol.io/packages/File%20Navigator)
-- Finish setting up for R, Latex (incl bib autosugg / Zotero plugin?)
-- ST syncronization: [https://stackoverflow.com/a/38694182/2319134](https://stackoverflow.com/a/38694182/2319134)
-- List packages
-- Store settings somewhere
+- `AutoFileName`
+- `BracketHighlighter`
+- `FileBrowser`
+- `iOpener`
+- `LaTeXSmartQuotes`
+- `LaTeXTools`
+- `Markdown Extended`
+- `MarkdownPreview`
+- `Package Control`
+- `R-IDE`
+- `SendCode`
+- `SideBarEnhancements`
+- `SublimeLinter-contrib-write-good`
+- `Sync Settings`
+- `Whitespace`
+- `WordingStatus`
+
+All my configuration is saved in a Github Gist using the `Sync Settings` package.
+
+My `Default (OSX).sublime-keymap`:
+
+```json
+[
+    { "keys": ["super+alt+b"],
+        "command": "build"
+    },
+    { "keys": ["super+b"], 
+        "command": "insert_snippet", 
+        "args": {"contents": "\\textbf{${0:$SELECTION}}"}
+    },
+    { "keys": ["super+i"], 
+        "command": "insert_snippet", 
+        "args": {"contents": "\\textit{${0:$SELECTION}}"}
+    },
+    { "keys": ["super+t"], 
+        "command": "insert_snippet", 
+        "args": {"contents": "\\texttt{${0:$SELECTION}}"}
+    },
+    { "keys": ["super+r"], 
+        "command": "insert_snippet", 
+        "args": {"contents": "\\color{red}{${0:$SELECTION}}"}
+    },
+    { "keys": ["super+y"], 
+        "command": "insert_snippet", 
+        "args": {"contents": "\\BGyellow{${0:$SELECTION}}"}
+    },
+]
+```
+
+`Preferences.sublime-settings` file:
+
+```json
+{
+    "font_size": 21,
+    "index_files": true,
+    "hot_exit": false,
+    "remember_open_files": false,
+    "ignored_packages": ["Vintage"],
+}
+```
+
+I also have these [Latex snippets](https://gist.github.com/franvillamil/36d3c3f53d0cf03467e2ccb10ab5a67a), and also modify `begin{}-end{}.sublime-snippet` [following this](https://forum.sublimetext.com/t/latex-begin-itemize-snippet/14390).
 
 ----
 ## Latex
