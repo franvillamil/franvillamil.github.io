@@ -289,11 +289,28 @@ eval "$(/usr/libexec/path_helper)"
 ----
 ## Extra configurations
 
+#### Add python to PATH
+
+Python3 should be installed by now in homebrew. Maybe check:
+
+```shell
+where python3
+```
+
+To check the versions installed, try `ls /opt/homebrew/opt/`. Also useful to check `brew info python`. ([See this](https://stackoverflow.com/a/52404561/2319134)).
+
+Now add it to the PATH (careful with version):
+
+```shell
+echo 'export PATH=/opt/homebrew/opt/python@3.11/libexec/bin:$PATH' >> ~/.zprofile
+source ~/.zprofile
+```
+
 #### File type defaults
 
 Install [duti](https://github.com/moretension/duti/):
 
-```
+```shell
 brew install duti
 ```
 
@@ -307,13 +324,13 @@ And then change some defaults:
 
 - `csv` files with Modern CSV:
 
-    ```
+    ```shell
     duti -s net.galliumdigital.Modern-CSV .csv all
     ```
 
 - All plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
 
-    ```
+    ```shell
     duti -s com.sublimetext.4 .txt all
     duti -s com.sublimetext.4 .md all
     duti -s com.sublimetext.4 .R all
