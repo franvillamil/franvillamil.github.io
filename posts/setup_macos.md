@@ -231,51 +231,17 @@ I have the following packages installed:
 - `Whitespace`
 - `WordingStatus`
 
-All my configuration is saved in a Github Gist using the `Sync Settings` package.
+Configuration is saved in a (private) [git repository](https://github.com/franvillamil/sublime_settings), which also enables syncing. In a new computer, just install `Package Control` and then clone the repository into the following folder, in a new folder called `User`:
 
-My `Default (OSX).sublime-keymap`:
-
-```json
-[
-    { "keys": ["super+alt+b"],
-        "command": "build"
-    },
-    { "keys": ["super+b"], 
-        "command": "insert_snippet", 
-        "args": {"contents": "\\textbf{${0:$SELECTION}}"}
-    },
-    { "keys": ["super+i"], 
-        "command": "insert_snippet", 
-        "args": {"contents": "\\textit{${0:$SELECTION}}"}
-    },
-    { "keys": ["super+t"], 
-        "command": "insert_snippet", 
-        "args": {"contents": "\\texttt{${0:$SELECTION}}"}
-    },
-    { "keys": ["super+r"], 
-        "command": "insert_snippet", 
-        "args": {"contents": "\\color{red}{${0:$SELECTION}}"}
-    },
-    { "keys": ["super+y"], 
-        "command": "insert_snippet", 
-        "args": {"contents": "\\BGyellow{${0:$SELECTION}}"}
-    },
-]
+```shell
+cd Library/Application\ Support/Sublime\ Text/Packages
 ```
 
-`Preferences.sublime-settings` file:
+Also, so the `subl` command works:
 
-```json
-{
-    "font_size": 21,
-    "index_files": true,
-    "hot_exit": false,
-    "remember_open_files": false,
-    "ignored_packages": ["Vintage"],
-}
+```shell
+sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
-
-I also have these [Latex snippets](https://gist.github.com/franvillamil/36d3c3f53d0cf03467e2ccb10ab5a67a), and also modify `begin{}-end{}.sublime-snippet` [following this](https://forum.sublimetext.com/t/latex-begin-itemize-snippet/14390).
 
 ----
 ## Latex
