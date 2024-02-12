@@ -153,6 +153,7 @@ brew install --cask zotero
 brew install --cask calibre
 brew install --cask obsidian
 brew install --cask google-drive
+brew install node
 ```
 
 #### Quick configurations
@@ -251,6 +252,12 @@ eval "$(/usr/libexec/path_helper)"
 
 **NOTE:** I'm not sure it's the best idea to install it through homebrew, [see this post](https://tex.stackexchange.com/a/656177).
 
+
+Also, install `bibtex-tidy` ([see this](https://github.com/FlamingTempura/bibtex-tidy)) (needs `npm`):
+
+```{shell}
+npm install -g bibtex-tidy
+```
 
 ----
 ## Extra configurations
