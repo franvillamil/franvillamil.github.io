@@ -154,6 +154,7 @@ brew install --cask calibre
 brew install --cask obsidian
 brew install --cask google-drive
 brew install node
+brew install --cask notunes
 ```
 
 #### Quick configurations
@@ -179,6 +180,7 @@ brew install node
 
 - Log in to Google Drive and Dropbox
 - Install digital certificate
+- Set noTunes [to launch at startup](https://github.com/tombonez/noTunes) (General > Login Items)
 
 ----
 ## R installation
