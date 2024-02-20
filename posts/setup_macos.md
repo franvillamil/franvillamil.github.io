@@ -246,6 +246,16 @@ Also, so the `subl` command works:
 sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
 
+**Note:** `SendCode` settings are not stored in `/Packages/User/` but directly in `Packages` (why?), so they do not sync. It's possible that for code to be sent to the right app, you need to change `SendCode (OSX).sublime-settings`, e.g.:
+
+```
+    "r" : {
+        "prog": "r",
+        // turn bracketed_paste_mode on if radian or readline 7.0 is in use
+        "bracketed_paste_mode": false
+    },
+```
+
 ----
 ## Latex
 
