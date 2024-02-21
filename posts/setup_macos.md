@@ -156,6 +156,7 @@ brew install --cask obsidian
 brew install --cask google-drive
 brew install node
 brew install --cask notunes
+brew install gpsbabel
 ```
 
 #### Quick configurations
