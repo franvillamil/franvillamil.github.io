@@ -5,6 +5,7 @@ This is my own guide to set up a new mac computer. It covers the basics for code
 *TODO*:
 
 - Makevars and gcc stuff
+- Spatial stuff, see [this](https://www.alexchubaty.com/post/2016-12-13-using-latest-gdal-macos/) and [this](https://www.alexchubaty.com/post/2020-01-08-using-latest-gdal-macos-redux/)
 
 ----
 ## Basics
