@@ -55,7 +55,7 @@ I have digitized these data ([download as CSV](https://github.com/franvillamil/f
 #### CNT
 
 Data on the presence of local unions affiliated to the anarchist *Confederación Nacional del Trabajo* (CNT) can be found in two published articles.
-Cuco Giner (1970, ['Contribución a un estudio cuantitativo de la C.N.T.'](https://dialnet.unirioja.es/servlet/articulo?codigo=3785901)) includes data on local affiliates in 1931, while Juan Pablo Calero (2009, ['Vísperas de la revolución. El congreso de la CNT (1936)'](https://dialnet.unirioja.es/servlet/articulo?codigo=3785901).) offers a list of affiliates in 1936. Both articles are available online.
+Cucó Giner (1970, ['Contribución a un estudio cuantitativo de la C.N.T.'](https://roderic.uv.es/items/cf0db144-f00b-421b-be27-3330d4f595d5)) includes data on local affiliates in 1931, while Juan Pablo Calero (2009, ['Vísperas de la revolución. El congreso de la CNT (1936)'](https://dialnet.unirioja.es/servlet/articulo?codigo=3785901).) offers a list of affiliates in 1936. Both articles are available online.
 
 ### Prewar elections
 
