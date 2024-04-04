@@ -157,6 +157,7 @@ brew install --cask google-drive
 brew install node
 brew install --cask notunes
 brew install gpsbabel
+brew install pdftk-java
 ```
 
 #### Quick configurations
