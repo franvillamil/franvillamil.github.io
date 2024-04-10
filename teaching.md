@@ -21,7 +21,7 @@ layout: default
   - [Course website](https://franvillamil.github.io/wp_polvio)
   - [Syllabus](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_war_peace_political_violence.pdf)
 
-#### Past courses
+### Past courses
 
 - Multidisciplinary seminar on International Studies. UC3M, undergraduate, 2020-21.
 - Security, peace, and conflict resolution. UC3M, undergraduate, 2020.

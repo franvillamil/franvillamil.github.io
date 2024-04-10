@@ -4,7 +4,7 @@ layout: default
 
 ## Op-eds / blog posts
 
-*Spanish*
+#### Spanish
 
 - [Las guerras de los otros: ¿cómo nos afectan políticamente?](https://www.eldiario.es/piedrasdepapel/guerras-afectan-politicamente_132_10640558.html) (*elDiario.es*, 10/2023)
 - [El ejército y la extrema derecha](https://www.eldiario.es/piedrasdepapel/ejercito-extrema-derecha_132_10493272.html) (*elDiario.es*, 09/2023)
@@ -13,7 +13,7 @@ layout: default
 - [Las consecuencias de cambiar el callejero franquista](https://www.eldiario.es/piedrasdepapel/justicia-transicional-memoria-historica_132_8453155.html) (*elDiario.es*, 11/2021)
 - [La privatización de la memoria histórica](https://www.elsaltodiario.com/laplaza/privatizacion-memoria-historica) (*El Salto*, 10/2019)
 
-*English*
+#### English
 
 - [The Impact of Distant Wars on Nationalism: Lessons from Spain](https://jop.blogs.uni-hamburg.de/the-impact-of-distant-wars-on-nationalism-lessons-from-spain/) (*The JOP Blog*, 10/2023)
 - [How political actors influence war legacies](https://www.civilwarpaths.org/2023/10/06/how-political-actors-influence-war-legacies/) (*Civil War Paths Blog*, 10/2023)
