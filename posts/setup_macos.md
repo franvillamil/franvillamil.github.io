@@ -160,6 +160,9 @@ brew install gpsbabel
 brew install pdftk-java
 ```
 
+- Also useful to install **Présentation.app**, `.pkg` available from their website: [iihm.imag.fr/blanch/software/osx-presentation/](http://iihm.imag.fr/blanch/software/osx-presentation/)
+    * Check also [this](http://iihm.imag.fr/blanch/software/osx-presentation/#cl) to use it from the command line
+
 #### Quick configurations
 
 **Spectacle:**
