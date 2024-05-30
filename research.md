@@ -12,8 +12,7 @@ layout: default
   <details>
     <summary>Abstract:</summary>
     Despite the importance of authoritarian and nationalist values in military culture, we know little about the link between the military and the far right. In this article we argue that there is an ideological affinity between the military and far-right parties, strengthened by occupational socialization. Moreover, the presence of military institutions also helps mobilizing far-right support among the surrounding population. We test this argument using data from Spain. We show both that military personnel are substantially more likely than civilians to support the far right and that the location of military facilities in Spain is linked to higher far-right support. We also discuss the generalizability of the results and provide tentative evidence that a similar link is likely to be observed in countries where the armed forces have been historically focused on controlling internal dissent and where national sovereignty has been threatened, by either internal or external challengers.
-  </details>
-<br>
+  </details><br />
 
 * Balcells, Laia, Juan F Tellez, and Francisco Villamil (2024) [The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism.](https://doi.org/10.1086/726939) *The Journal of Politics* 86(1): 352-357.
   - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Balcells_Tellez_Villamil_JOP.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Balcells_Tellez_Villamil_JOP.pdf) / [Replication](https://doi.org/10.7910/DVN/COS3BS)
