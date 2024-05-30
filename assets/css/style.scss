@@ -312,6 +312,6 @@ details[open] {
   }
 }
 
-details[close] {
-  margin: 0em 0em 5em 0;
+details:not([open]) {
+  margin: 0em 0em 50em 0;
 }
