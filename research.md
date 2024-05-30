@@ -27,7 +27,7 @@ layout: default
   <details>
     <summary>Abstract:</summary>
     Previous research shows that violence is an important factor driving ethnic identification and grievances, but most works that explore micro-level effects focus on specific cases and have limited external validity. This article looks at the individual-level consequences of civilian victimization in a large sample across Africa. Combining georeferenced survey data from several rounds of the Afrobarometer, victimization events from the UCDP-GED, and data on collective targeting from the ethnic one-sided violence dataset, it studies the effect of exposure to violence on ethnic identification and self-reported ethnic grievances. Results show that violence increases ethnic identification and ethnic grievances particularly when it is committed by state forces and among individuals who belong to an ethnic group that was collectively targeted in the past.
-  </details><br>
+  </details>
 
 * Villamil, Francisco (2022) [Violence, co-optation, and postwar voting in Guatemala.](https://doi.org/10.1177/07388942211066539) *Conflict Management and Peace Science* 39(6): 731-754.
   - [Preprint](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf) / [Replication](https://github.com/franvillamil/legacies_guatemala)
