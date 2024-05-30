@@ -12,7 +12,7 @@ layout: default
   <details>
     <summary>Abstract:</summary>
     Despite the importance of authoritarian and nationalist values in military culture, we know little about the link between the military and the far right. In this article we argue that there is an ideological affinity between the military and far-right parties, strengthened by occupational socialization. Moreover, the presence of military institutions also helps mobilizing far-right support among the surrounding population. We test this argument using data from Spain. We show both that military personnel are substantially more likely than civilians to support the far right and that the location of military facilities in Spain is linked to higher far-right support. We also discuss the generalizability of the results and provide tentative evidence that a similar link is likely to be observed in countries where the armed forces have been historically focused on controlling internal dissent and where national sovereignty has been threatened, by either internal or external challengers.
-  </details><br>
+  </details>
 
 * Balcells, Laia, Juan F Tellez, and Francisco Villamil (2024) [The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism.](https://doi.org/10.1086/726939) *The Journal of Politics* 86(1): 352-357.
   - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Balcells_Tellez_Villamil_JOP.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Balcells_Tellez_Villamil_JOP.pdf) / [Replication](https://doi.org/10.7910/DVN/COS3BS)
@@ -20,7 +20,7 @@ layout: default
   <details>
     <summary>Abstract:</summary>
     Wars can produce drastic changes in the attitudes and behavior of the citizens of the countries involved in the fighting. Yet such conflicts also have important security and economic implications for uninvolved, ‘third-party‘ states. How do the wars of others shape domestic public attitudes? We explore this question by analyzing the effect of the February 2022 Russian invasion of Ukraine on Spanish nationalism. Exploiting a natural experiment in Spain, we show that the Russian invasion caused a general increase in the salience of Spanish national identification, but not at the expense of regional or substate national identities. We also find an activation effect on electoral participation and increased support for taxation. Our study illuminates pathways through which international conflicts can impact domestic politics in third-party states.
-  </details><br>
+  </details>
 
 * Villamil, Francisco (2023) [Civilian victimization and ethnic attitudes in Africa.](https://doi.org/10.1017/S1755773923000097) *European Political Science Review* 15(4): 617-627.
   - [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/973528557583A9CB9A401109A6F15C20/S1755773923000097a.pdf/civilian-victimization-and-ethnic-attitudes-in-africa.pdf) / [Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1755773923000097/resource/name/S1755773923000097sup001.pdf) / [Replication](https://github.com/franvillamil/ethnicity_africa)
@@ -35,7 +35,7 @@ layout: default
   <details>
     <summary>Abstract:</summary>
     Wartime civilian victimization produces a counter-reaction against the perpetrator. However, this effect hinges on the creation of collective memories of wartime events. In many countries, former fighting actors and political elites try to redirect memories of wartime events through denial, propaganda, and co-optation. Previous works have ignored these aspects. I argue that the effect of violence is conditional on the capacity of local communities to build collective memories and bypass those efforts. I test this argument using local-level data from Guatemala. Results show that the effects of state violence on postwar voting depend on prewar exposure to political mobilization.
-  </details><br>
+  </details>
 
 * Villamil, Francisco and Laia Balcells (2021) [Do TJ policies cause backlash? Evidence from street name changes in Spain.](https://doi.org/10.1177/20531680211058550) *Research & Politics* 8(4).
   - [PDF](https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_Balcells_2021.pdf) / [Replication](https://github.com/franvillamil/streets_vox)
@@ -43,7 +43,7 @@ layout: default
   <details>
     <summary>Abstract:</summary>
     Memories of old conflicts often shape domestic politics long after these conflicts end. Contemporary debates about past civil wars and/or repressive regimes in different parts of the world suggest that these are sensitive topics that might increase political polarization, particularly when transitional justice policies are implemented and political parties mobilize discontentment with such policies. One such policy recently debated in Spain is removing public symbols linked to a past civil war and subsequent authoritarian regime (i.e., Francoism). However, the empirical evidence on its impact is still limited. This article attempts to fill this gap by examining the political consequences of street renaming. Using a difference-in-differences approach, we show that the removal of Francoist street names has contributed to an increase of electoral support for a new far-right party, Vox, mainly at the expense of a traditional right-wing conservative party, PP. Our results suggest that revisiting the past can cause a backlash among those ideologically aligned with the perpetrator, and that some political parties can capitalize on this.
-  </details><br>
+  </details>
 
 * Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research* 58(3): 399-416.
   - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_2020_JPR.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_2020_JPR.pdf) / [Replication](https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Villamil_2020_JPR.zip)

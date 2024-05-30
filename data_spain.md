@@ -5,6 +5,7 @@
 * [Civilian victimization during the civil war](#civilian-victimization)
 * [Trade union presence during the 1930s](#trade-unions)
 * [Prewar electoral results](#prewar-elections)
+<br />
 
 Most R scripts here, developed to clean and aggregate the raw data, use the [muniSpain R package](https://github.com/franvillamil/muniSpain).
 

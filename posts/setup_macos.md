@@ -6,6 +6,7 @@ This is my own guide to set up a new mac computer. It covers the basics for code
 
 - Makevars and gcc stuff
 - Spatial stuff, see [this](https://www.alexchubaty.com/post/2016-12-13-using-latest-gdal-macos/) and [this](https://www.alexchubaty.com/post/2020-01-08-using-latest-gdal-macos-redux/)
+<br />
 
 ----
 ## Basics
@@ -27,6 +28,7 @@ Install Homebrew, and follow instructions in installation:
 
 - Disable automatic spelling correction, word capitalisation, and full stop with double-space, in `Keyboard` > `Spelling`
 - Enable 'Keyboard navigation' to move panels with `Tab`, in `Accessibility` > `Keyboard`
+<br />
 
 ----
 ## Shell and iTerm2
@@ -53,6 +55,7 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 - In Settings > Profiles > Keys, change a couple things so you can move through words with <kbd>alt</kbd> and arrows:
 	- In <kbd>⌥</kbd><kbd>-></kbd>, change it to "Send Escape Sequence" and write "f" in Esc+
 	- In <kbd>⌥</kbd><kbd><-</kbd>, change it to "Send Escape Sequence" and write "b" in Esc+
+<br />
 
 ----
 ## Git
@@ -163,6 +166,7 @@ brew install --cask alt-tab
 
 - Also useful to install **Présentation.app**, `.pkg` available from their website: [iihm.imag.fr/blanch/software/osx-presentation/](http://iihm.imag.fr/blanch/software/osx-presentation/)
     * Check also [this](http://iihm.imag.fr/blanch/software/osx-presentation/#cl) to use it from the command line
+<br />
 
 #### Quick configurations
 
@@ -174,6 +178,7 @@ brew install --cask alt-tab
 	- Left half and right half: <kbd>⌃ ctrl</kbd> <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd><-</kbd> / <kbd>-></kbd>
 	- Next display: <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>P</kbd>
 	- Upper/lower right: <kbd>⌃ ctrl</kbd> <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>up arrow</kbd> / <kbd>down arrow</kbd>
+<br />
 
 **Quicksilver:**
 
@@ -182,12 +187,14 @@ brew install --cask alt-tab
 	- Quicksilver: <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
 	- Search in Finder: <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
 	- Spotlight: <kbd>⌃ ctrl</kbd> <kbd>⌥ alt</kbd> <kbd>⌘ cmd</kbd> + <kbd>Space</kbd>
+<br />
 
 **Others:**
 
 - Log in to Google Drive and Dropbox
 - Install digital certificate
 - Set noTunes [to launch at startup](https://github.com/tombonez/noTunes) (General > Login Items)
+<br />
 
 ----
 ## R installation
@@ -240,6 +247,7 @@ I have the following packages installed:
 - `Sync Settings`
 - `Whitespace`
 - `WordingStatus`
+<br />
 
 Configuration is saved in a (private) [git repository](https://github.com/franvillamil/sublime_settings), which also enables syncing. In a new computer, just install `Package Control` and then clone the repository into the following folder, in a new folder called `User`:
 
@@ -314,13 +322,13 @@ duti -x sh
 
 And then change some defaults:
 
-- `csv` files with Modern CSV:
+- `csv` files with Modern CSV:<br />
 
     ```shell
     duti -s net.galliumdigital.Modern-CSV .csv all
     ```
 
-- All plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
+- All plain text (txt, R, Markdown, shell, Latex) with Sublime Text:<br />
 
     ```shell
     duti -s com.sublimetext.4 .txt all
@@ -335,3 +343,4 @@ And then change some defaults:
 ## Further references
 
 - See [this guide](https://sourabhbajaj.com/mac-setup)
+<br />
