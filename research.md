@@ -6,6 +6,8 @@ layout: default
 
 ### Peer-reviewed articles
 
+<!-- * Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (ca) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Conditionally accepted, *Comparative Political Studies*. -->
+
 * Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) [Rally 'round the barrack: Far-right support and the military.](https://doi.org/10.1086/727598) Forthcoming at *The Journal of Politics*.
   - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_TurnbullDugarte_Rama_JOP.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_TurnbullDugarte_Rama_JOP.pdf) / [Replication](https://github.com/franvillamil/vox_military)
   - Media / outreach: [infoLibre](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html), [elDiario.es](https://www.eldiario.es/politica/ideologia-militares-restos-franquistas-tropa-mayoria-conservadora_1_10712728.html), [Bilbao Hiria](https://bilbaohiria.com/actualidad/auge-de-la-extrema-derecha-en-el-ejercito-espanol/), [Piedras de Papel](https://www.eldiario.es/piedrasdepapel/ejercito-extrema-derecha_132_10493272.html)
