@@ -6,7 +6,7 @@ layout: default
 
 ### Peer-reviewed articles
 
-<!-- * Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (ca) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Conditionally accepted, *Comparative Political Studies*. -->
+* Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (ca) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Conditionally accepted, *Comparative Political Studies*.
 
 * Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) [Rally 'round the barrack: Far-right support and the military.](https://doi.org/10.1086/727598) Forthcoming at *The Journal of Politics*.
   - [Preprint](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_TurnbullDugarte_Rama_JOP.pdf) / [Appendix](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_TurnbullDugarte_Rama_JOP.pdf) / [Replication](https://github.com/franvillamil/vox_military)
@@ -77,5 +77,4 @@ layout: default
 ### Working papers
 
 * [The legacies of authoritarian repression on civil society](https://doi.org/10.35188/UNU-WIDER/2023/309-3) (with Laia Balcells).
-* Mobilization capacity and local selective violence (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca). *R&R, Comparative Political Studies.*
 * [Measurement validity in historical conflict data: Comparing datasets from Spain.](https://osf.io/c6wgk/)
