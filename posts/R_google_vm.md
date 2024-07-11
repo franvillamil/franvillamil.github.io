@@ -7,6 +7,8 @@ For connecting, see Google helps pages:
 - [Connect to Linux VMs ](https://cloud.google.com/compute/docs/instances/connecting-to-instance)
 - [Connecting to Linux VMs using advanced methods](https://cloud.google.com/compute/docs/instances/connecting-advanced)
 
+<br />
+
 As of November 2021, instances in the Free Tier include `e2-micro` in `us-west1` (and some other regions). It might change, so check the [Google pricing page](https://cloud.google.com/free/docs/gcp-free-tier#free-tier-usage-limits).
 
 Instance details:

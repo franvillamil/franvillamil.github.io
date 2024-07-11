@@ -4,7 +4,8 @@ layout: default
 
 ## Data and resources
 
-- **[Github](https://github.com/franvillamil)** profile with replication datasets and code resources.
+- **[Github profile](https://github.com/franvillamil)** with replication datasets and code resources.
+
 <br />
 
 ### Code
@@ -37,4 +38,5 @@ It includes, among others, disaggregated data on civilian victimization during t
 
 - [Using R on a Google Cloud VM instance](./posts/R_google_vm.md)
 - [Setting up a new macOS environment](./posts/setup_macos.md)
+
 <br />
