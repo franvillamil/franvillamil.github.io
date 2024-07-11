@@ -9,7 +9,7 @@ layout: default
 * Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (2024) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Forthcoming at *Comparative Political Studies*.
   - [[Preprint]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Aguilar_et_al_2024.pdf) [[Appendix]](https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Aguilar_et_al_2024.pdf) [[Replication]](https://doi.org/10.7910/DVN/PNXFD6)
   <a class="button" href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Aguilar_et_al_2024.pdf" target="_blank" rel="noopener">
-    PDF
+    Preprint
   </a>
   <details>
     <summary>Abstract</summary>
