@@ -2,9 +2,13 @@
 
 **Francisco Villamil**
 
-*Journal of Peace Research* 58(3): 399-416.
+[*Journal of Peace Research*, 2021.](https://doi.org/10.1177/0022343320912816)
 
-DOI: [10.1177/0022343320912816](https://doi.org/10.1177/0022343320912816)
+**Citation:**
+
+```
+Villamil, Francisco (2021) Mobilizing memories: The social conditions of the long-term impact of victimization. Journal of Peace Research 58(3): 399-416.
+```
 
 **Abstract:**
 
