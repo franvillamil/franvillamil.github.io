@@ -5,7 +5,6 @@
 * *Committee: Laia Balcells (Georgetown University), Ignacio Sánchez-Cuenca (Universidad Carlos III Madrid)*
 * Available at [ETH Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/408847)
 * 2021 Juan Linz Price to the Best Doctoral Dissertation in Political Science, [CEPC](http://www.cepc.gob.es/investigacion/premiosalainvestigacion/premiojuanjlinz)
-<br />
 
 #### Abstract:
 

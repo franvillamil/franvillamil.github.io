@@ -13,8 +13,6 @@ layout: default
 - [Las consecuencias de cambiar el callejero franquista](https://www.eldiario.es/piedrasdepapel/justicia-transicional-memoria-historica_132_8453155.html) (*elDiario.es*, 11/2021)
 - [La privatización de la memoria histórica](https://www.elsaltodiario.com/laplaza/privatizacion-memoria-historica) (*El Salto*, 10/2019)
 
-<br />
-
 #### English
 
 - [The Impact of Distant Wars on Nationalism: Lessons from Spain](https://jop.blogs.uni-hamburg.de/the-impact-of-distant-wars-on-nationalism-lessons-from-spain/) (*The JOP Blog*, 10/2023)
