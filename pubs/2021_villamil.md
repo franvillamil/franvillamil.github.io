@@ -6,9 +6,7 @@
 
 **Citation:**
 
-```
-Villamil, Francisco (2021) Mobilizing memories: The social conditions of the long-term impact of victimization. Journal of Peace Research 58(3): 399-416.
-```
+> Villamil, Francisco (2021) Mobilizing memories: The social conditions of the long-term impact of victimization. Journal of Peace Research 58(3): 399-416.
 
 **Abstract:**
 

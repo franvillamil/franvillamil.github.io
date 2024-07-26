@@ -2,9 +2,7 @@
 
 **Francisco Villamil, Stuart Turnbull-Dugarte, and José Rama**
 
-Forthcoming at *The Journal of Politics*.
-
-**DOI:** [10.1086/727598](https://doi.org/10.1086/727598)
+[Forthcoming at *The Journal of Politics*.](https://doi.org/10.1086/727598)
 
 **Media/outreach:**
 
@@ -13,6 +11,10 @@ Forthcoming at *The Journal of Politics*.
   - [BilbaoHiria](https://bilbaohiria.com/actualidad/auge-de-la-extrema-derecha-en-el-ejercito-espanol/)
   - [Piedras de Papel (elDiario.es)](https://www.eldiario.es/piedrasdepapel/ejercito-extrema-derecha_132_10493272.html)
   - [The JOP Blog](https://jop.blogs.uni-hamburg.de/the-far-right-and-the-military/)
+
+**Citation:**
+
+> Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) Rally ‘round the barrack: Far-right support and the military. Forthcoming at The Journal of Politics.
 
 **Abstract:**
 

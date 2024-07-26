@@ -6,9 +6,7 @@
 
 **Citation:**
 
-```
-Balcells, Laia and Francisco Villamil (2020) The double logic of internal purges: New evidence from Francoist Spain. Nationalism and Ethnic Politics 26(3): 260-278.
-```
+> Balcells, Laia and Francisco Villamil (2020) The double logic of internal purges: New evidence from Francoist Spain. Nationalism and Ethnic Politics 26(3): 260-278.
 
 **Abstract:**
 

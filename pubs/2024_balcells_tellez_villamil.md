@@ -6,7 +6,7 @@
 
 **Citation:**
 
-```Balcells, Laia, Juan F Tellez, and Francisco Villamil (2024) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. The Journal of Politics 86(1): 352-357.```
+> Balcells, Laia, Juan F Tellez, and Francisco Villamil (2024) The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism. The Journal of Politics 86(1): 352-357.
 
 **Media / outreach:**
 

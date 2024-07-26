@@ -10,9 +10,7 @@
 
 **Citation:**
 
-```
-Villamil, Francisco and Laia Balcells (2021) Do TJ policies cause backlash? Evidence from street name changes in Spain. Research & Politics 8(4).
-```
+> Villamil, Francisco and Laia Balcells (2021) Do TJ policies cause backlash? Evidence from street name changes in Spain. Research & Politics 8(4).
 
 **Abstract:**
 

@@ -6,9 +6,7 @@
 
 **Citation:**
 
-```
-Villamil, Francisco (2022) Violence, co-optation, and postwar voting in Guatemala. Conflict Management and Peace Science 39(6): 731-754.
-```
+> Villamil, Francisco (2022) Violence, co-optation, and postwar voting in Guatemala. Conflict Management and Peace Science 39(6): 731-754.
 
 **Media/outreach:**
 

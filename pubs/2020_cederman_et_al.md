@@ -6,9 +6,7 @@
 
 **Citation:**
 
-```
-Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) Civilian victimization and ethnic civil war. Journal of Conflict Resolution 64(7-8): 1199-1225.
-```
+> Cederman, Lars-Erik, Simon Hug, Livia Schubiger, and Francisco Villamil (2020) Civilian victimization and ethnic civil war. Journal of Conflict Resolution 64(7-8): 1199-1225.
 
 **Abstract:**
 

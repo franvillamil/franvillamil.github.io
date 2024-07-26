@@ -8,7 +8,7 @@
 
 **Citation:**
 
-```Villamil, Francisco (2023) Civilian victimization and ethnic attitudes in Africa. European Political Science Review 15(4): 617-627. ```
+> Villamil, Francisco (2023) Civilian victimization and ethnic attitudes in Africa. European Political Science Review 15(4): 617-627.
 
 **Abstract:**
 
