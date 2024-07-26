@@ -12,18 +12,22 @@ layout: default
 <a href="https://doi.org/10.7910/DVN/PNXFD6" target="_blank"><button type="button button1">Replication</button></a>
   <details>
     <summary>Abstract</summary>
+    <p>
     Research on civilian victimization usually treats all civilians as a unitary group. But not all civilians are the same, nor are they killed for the same reasons. This study highlights a form of wartime civilian victimization that is little understood, even if pervasive across conflicts: violence against local leaders. We argue that this category of civilians are pre-emptively targeted because of their potential to mobilize support. Local leaders with greater mobilization capacity are more likely to be killed. We test this argument using original data on clergy killings during the Spanish Civil War. Results show that clerics were more likely to be killed in municipalities where their capacity for mobilizing people against the Republic was higher, making themselves a potential threat to local armed actors. This study highlights the need to disaggregate the category of civilians, which has suffered from conceptual and empirical overaggregation.
+    </p>
   </details>
 
 * Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) [Rally 'round the barrack: Far-right support and the military.](https://doi.org/10.1086/727598) Forthcoming at *The Journal of Politics*.
 <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_TurnbullDugarte_Rama_JOP.pdf" target="_blank"><button type="button button1">Preprint</button></a>
 <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_TurnbullDugarte_Rama_JOP.pdf" target="_blank"><button type="button button1">Appendix</button></a>
 <a href="https://github.com/franvillamil/vox_military" target="_blank"><button type="button button1">Replication</button></a>
-  - Media / outreach: [infoLibre](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html), [elDiario](https://www.eldiario.es/politica/ideologia-militares-restos-franquistas-tropa-mayoria-conservadora_1_10712728.html), [BilbaoHiria](https://bilbaohiria.com/actualidad/auge-de-la-extrema-derecha-en-el-ejercito-espanol/), [Piedras de Papel](https://www.eldiario.es/piedrasdepapel/ejercito-extrema-derecha_132_10493272.html), [The JOP Blog](https://jop.blogs.uni-hamburg.de/the-far-right-and-the-military/)
   <details>
     <summary>Abstract</summary>
+    <p>
     Despite the importance of authoritarian and nationalist values in military culture, we know little about the link between the military and the far right. In this article we argue that there is an ideological affinity between the military and far-right parties, strengthened by occupational socialization. Moreover, the presence of military institutions also helps mobilizing far-right support among the surrounding population. We test this argument using data from Spain. We show both that military personnel are substantially more likely than civilians to support the far right and that the location of military facilities in Spain is linked to higher far-right support. We also discuss the generalizability of the results and provide tentative evidence that a similar link is likely to be observed in countries where the armed forces have been historically focused on controlling internal dissent and where national sovereignty has been threatened, by either internal or external challengers.
+    </p>
   </details>
+  - Media / outreach: [infoLibre](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html), [elDiario](https://www.eldiario.es/politica/ideologia-militares-restos-franquistas-tropa-mayoria-conservadora_1_10712728.html), [BilbaoHiria](https://bilbaohiria.com/actualidad/auge-de-la-extrema-derecha-en-el-ejercito-espanol/), [Piedras de Papel](https://www.eldiario.es/piedrasdepapel/ejercito-extrema-derecha_132_10493272.html), [The JOP Blog](https://jop.blogs.uni-hamburg.de/the-far-right-and-the-military/)
 
 * Balcells, Laia, Juan F Tellez, and Francisco Villamil (2024) [The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism.](https://doi.org/10.1086/726939) *The Journal of Politics* 86(1): 352-357.
 <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Balcells_Tellez_Villamil_JOP.pdf" target="_blank"><button type="button button1">Preprint</button></a>
@@ -61,7 +65,9 @@ layout: default
   - Media / outreach: [Piedras de Papel (elDiario.es)](https://www.eldiario.es/piedrasdepapel/justicia-transicional-memoria-historica_132_8453155.html)
   <details>
     <summary>Abstract</summary>
+    <p>
     Memories of old conflicts often shape domestic politics long after these conflicts end. Contemporary debates about past civil wars and/or repressive regimes in different parts of the world suggest that these are sensitive topics that might increase political polarization, particularly when transitional justice policies are implemented and political parties mobilize discontentment with such policies. One such policy recently debated in Spain is removing public symbols linked to a past civil war and subsequent authoritarian regime (i.e., Francoism). However, the empirical evidence on its impact is still limited. This article attempts to fill this gap by examining the political consequences of street renaming. Using a difference-in-differences approach, we show that the removal of Francoist street names has contributed to an increase of electoral support for a new far-right party, Vox, mainly at the expense of a traditional right-wing conservative party, PP. Our results suggest that revisiting the past can cause a backlash among those ideologically aligned with the perpetrator, and that some political parties can capitalize on this.
+    </p>
   </details>
 
 * Villamil, Francisco (2021) [Mobilizing memories: The social conditions of the long-term impact of victimization.](https://doi.org/10.1177/0022343320912816) *Journal of Peace Research* 58(3): 399-416.
