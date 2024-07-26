@@ -85,6 +85,30 @@ h1 a:hover {
   margin:0 auto;
 }
 
+button {
+  border: none;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #004263;
+}
+
+.button1:hover {
+  background-color: #004263;
+  color: white;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -294,30 +318,6 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-
-.button {
-  border: none;
-  color: white;
-  padding: 4px 8px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #004263;
-}
-
-.button1:hover {
-  background-color: #004263;
-  color: white;
 }
 
 /* adapted from */
