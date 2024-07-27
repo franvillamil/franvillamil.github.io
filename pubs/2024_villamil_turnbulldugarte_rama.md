@@ -1,6 +1,6 @@
 ### Rally 'round the barrack: Far-right support and the military
 
-**Francisco Villamil, [Stuart Turnbull-Dugarte](https://turnbulldugarte.com/), and [José Rama](https://www.uam.es/Derecho/Rama-Caama%C3%B1o,-Jos%C3%A9/1446812856317.htm?language=es&pid=1234889452862&title=Rama%20Caama%C3%B1o%20Jos%C3%A9)**
+**Francisco Villamil**, [Stuart Turnbull-Dugarte](https://turnbulldugarte.com/), and [José Rama](https://www.uam.es/Derecho/Rama-Caama%C3%B1o,-Jos%C3%A9/1446812856317.htm?language=es&pid=1234889452862&title=Rama%20Caama%C3%B1o%20Jos%C3%A9)
 
 *The Journal of Politics*, 2024 ([doi/10.1086/727598](https://doi.org/10.1086/727598)).
 

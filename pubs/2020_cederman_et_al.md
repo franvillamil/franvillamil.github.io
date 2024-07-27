@@ -1,6 +1,6 @@
 ### Civilian victimization and ethnic civil war
 
-**Lars-Erik Cederman, Simon Hug, Livia Schubiger, and Francisco Villamil**
+[Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), [Simon Hug](https://www.unige.ch/cisa/center/members/hug-simon/), [Livia Schubiger](https://liviaschubiger.com/), and **Francisco Villamil**
 
 [*Journal of Conflict Resolution*, 2020](https://doi.org/10.1177/0022002719898873)
 
