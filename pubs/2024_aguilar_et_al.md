@@ -12,7 +12,10 @@ Research on civilian victimization usually treats all civilians as a unitary gro
 
 <!-- https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/pubs/img/mapa_anticlerical.jpg -->
 
-<img src="https://github.com/franvillamil/franvillamil.github.io/raw/master/pubs/img/mapa_anticlerical.jpg" style="width:100%">
+<figure>
+<img src="https://github.com/franvillamil/franvillamil.github.io/raw/master/pubs/img/mapa_anticlerical.jpg">
+<figcaption><b>Figure:</b> Anticlerical violence during Spanish civil war</figcaption>
+</figure>
 
 **Citation:**
 
