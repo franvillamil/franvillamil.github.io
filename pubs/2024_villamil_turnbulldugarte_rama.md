@@ -1,8 +1,8 @@
 ### Rally 'round the barrack: Far-right support and the military
 
-**Francisco Villamil, [Stuart Turnbull-Dugarte](https://turnbulldugarte.com/), and José Rama**
+**Francisco Villamil, [Stuart Turnbull-Dugarte](https://turnbulldugarte.com/), and [José Rama](https://www.uam.es/Derecho/Rama-Caama%C3%B1o,-Jos%C3%A9/1446812856317.htm?language=es&pid=1234889452862&title=Rama%20Caama%C3%B1o%20Jos%C3%A9)**
 
-[Forthcoming at *The Journal of Politics*.](https://doi.org/10.1086/727598)
+*The Journal of Politics*, 2024 ([doi/10.1086/727598](https://doi.org/10.1086/727598)).
 
 <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Villamil_TurnbullDugarte_Rama_JOP.pdf" target="_blank"><button type="button button1">Preprint</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_TurnbullDugarte_Rama_JOP.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/vox_military" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:Y0pCki6q_DkC"><button type="button button1">Google Scholar</button></a>
 
@@ -19,7 +19,7 @@
 
 Despite the importance of authoritarian and nationalist values in military culture, we know little about the link between the military and the far right. In this article we argue that there is an ideological affinity between the military and far-right parties, strengthened by occupational socialization. Moreover, the presence of military institutions also helps mobilizing far-right support among the surrounding population. We test this argument using data from Spain. We show both that military personnel are substantially more likely than civilians to support the far right and that the location of military facilities in Spain is linked to higher far-right support. We also discuss the generalizability of the results and provide tentative evidence that a similar link is likely to be observed in countries where the armed forces have been historically focused on controlling internal dissent and where national sovereignty has been threatened, by either internal or external challengers.
 
-![Civil-military gap in far-right support](https://nbviewer.org/github/franvillamil/vox_military/blob/master/survey_analyses/output/sim_mil_gap_ideo.pdf)
+![Civil-military gap in far-right support](./img/military_gap)
 
 **Citation:**
 
