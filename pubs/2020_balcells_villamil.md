@@ -1,6 +1,7 @@
 ### The double logic of internal purges: New evidence from Francoist Spain
 
-[Laia Balcells](https://www.laiabalcells.com/) and **Francisco Villamil**
+[Laia Balcells](https://www.laiabalcells.com/)<br>
+**Francisco Villamil**
 
 [*Nationalism and Ethnic Politics*, 2020](https://doi.org/10.1080/13537113.2020.1795451)
 

@@ -1,6 +1,7 @@
 ### Do TJ policies cause backlash? Evidence from street name changes in Spain
 
-**Francisco Villamil** and [Laia Balcells](https://www.laiabalcells.com/)
+**Francisco Villamil**<br>
+[Laia Balcells](https://www.laiabalcells.com/)
 
 *Research & Politics*, 2021 ([doi/10.1177/20531680211058550](https://doi.org/10.1177/20531680211058550)).
 

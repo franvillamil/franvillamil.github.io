@@ -1,6 +1,9 @@
 ### Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War
 
-[Paloma Aguilar](https://www.uned.es/universidad/docentes/en/politicas-sociologia/paloma-aguilar-fernandez.html)<br> [Fernando de la Cuesta](https://sites.google.com/view/fernandodelacuesta/)<br> [Ignacio Sánchez-Cuenca](https://ignaciosanchezcuenca.wordpress.com/)<br> **Francisco Villamil**
+[Paloma Aguilar](https://www.uned.es/universidad/docentes/en/politicas-sociologia/paloma-aguilar-fernandez.html)<br>
+[Fernando de la Cuesta](https://sites.google.com/view/fernandodelacuesta/)<br>
+[Ignacio Sánchez-Cuenca](https://ignaciosanchezcuenca.wordpress.com/)<br>
+**Francisco Villamil**
 
 *Comparative Political Studies*, 2024 (forthcoming).
 

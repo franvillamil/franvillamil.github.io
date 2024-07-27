@@ -1,6 +1,8 @@
 ### The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism
 
-[Laia Balcells](https://www.laiabalcells.com/), [Juan F Tellez](https://juanftellez.com/), and **Francisco Villamil**
+[Laia Balcells](https://www.laiabalcells.com/)<br>
+[Juan F Tellez](https://juanftellez.com/)<br>
+**Francisco Villamil**
 
 *The Journal of Politics*, 2024 ([doi/10.1086/726939](https://doi.org/10.1086/726939)).
 
