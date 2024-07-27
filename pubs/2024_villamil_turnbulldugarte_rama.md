@@ -19,10 +19,7 @@
 
 Despite the importance of authoritarian and nationalist values in military culture, we know little about the link between the military and the far right. In this article we argue that there is an ideological affinity between the military and far-right parties, strengthened by occupational socialization. Moreover, the presence of military institutions also helps mobilizing far-right support among the surrounding population. We test this argument using data from Spain. We show both that military personnel are substantially more likely than civilians to support the far right and that the location of military facilities in Spain is linked to higher far-right support. We also discuss the generalizability of the results and provide tentative evidence that a similar link is likely to be observed in countries where the armed forces have been historically focused on controlling internal dissent and where national sovereignty has been threatened, by either internal or external challengers.
 
-<figure>
-  <img src="https://nbviewer.org/github/franvillamil/vox_military/blob/master/survey_analyses/output/sim_mil_gap_ideo.pdf" style="width:70%">
-  <figcaption>Civil-military gap in far-right support</figcaption>
-</figure>
+<img src="https://github.com/franvillamil/franvillamil.github.io/raw/master/pubs/img/military_gap.jpg" style="width:100%">
 
 **Citation:**
 
