@@ -6,7 +6,7 @@ layout: default
 
 ### Peer-reviewed articles
 
-* Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (2024) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Forthcoming at *Comparative Political Studies*.
+* Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (2024) [Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War.](https://doi.org/10.1177/00104140241269894) Forthcoming at *Comparative Political Studies*.
   - <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Aguilar_et_al_2024.pdf" target="_blank"><button type="button button1">Preprint</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Aguilar_et_al_2024.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://doi.org/10.7910/DVN/PNXFD6" target="_blank"><button type="button button1">Replication</button></a> <a href="./pubs/2024_aguilar_et_al.html"><button type="button button1">Details</button></a>
 
 * Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) [Rally 'round the barrack: Far-right support and the military.](https://doi.org/10.1086/727598) Forthcoming at *The Journal of Politics*.
