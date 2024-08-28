@@ -163,6 +163,7 @@ brew install gpsbabel
 brew install pdftk-java
 brew install --cask alt-tab
 brew install --cask karabiner-elements
+brew install bluesnooze
 ```
 
 - Also useful to install **Présentation.app**, `.pkg` available from their website: [iihm.imag.fr/blanch/software/osx-presentation/](http://iihm.imag.fr/blanch/software/osx-presentation/)
