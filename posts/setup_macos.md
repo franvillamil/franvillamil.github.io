@@ -164,14 +164,22 @@ brew install pdftk-java
 brew install --cask alt-tab
 brew install --cask karabiner-elements
 brew install bluesnooze
+brew install fzf
+brew install autojump
 ```
 
 - Also useful to install **Présentation.app**, `.pkg` available from their website: [iihm.imag.fr/blanch/software/osx-presentation/](http://iihm.imag.fr/blanch/software/osx-presentation/)
     * Check also [this](http://iihm.imag.fr/blanch/software/osx-presentation/#cl) to use it from the command line
 
-Set ups:
+Set ups to consider:
 
-- Bluesnooze: open at login
+- Bluesnooze: open at login?
+- `fzf`: shell integration, add this to `.zshrc`:
+
+```
+# Set up fzf key bindings and fuzzy completion
+source <(fzf --zsh)
+```
 
 #### Quick configurations
 
