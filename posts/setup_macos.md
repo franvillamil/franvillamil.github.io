@@ -166,20 +166,34 @@ brew install --cask karabiner-elements
 brew install bluesnooze
 brew install fzf
 brew install autojump
+brew install fd
 ```
-
-- Also useful to install **Présentation.app**, `.pkg` available from their website: [iihm.imag.fr/blanch/software/osx-presentation/](http://iihm.imag.fr/blanch/software/osx-presentation/)
-    * Check also [this](http://iihm.imag.fr/blanch/software/osx-presentation/#cl) to use it from the command line
 
 Set ups to consider:
 
 - Bluesnooze: open at login?
-- `fzf`: shell integration, add this to `.zshrc`:
+- Set up `fzf`
 
-```
-# Set up fzf key bindings and fuzzy completion
-source <(fzf --zsh)
-```
+    * Add this to `.zshrc`:
+    ```
+    # Set up fzf key bindings and fuzzy completion
+    source <(fzf --zsh)
+
+    _fzf_compgen_path() {
+      command fd --hidden --follow --exclude .git --exclude node_modules . "$1"
+    }
+
+    _fzf_compgen_dir() {
+      command fd --type d --hidden --follow --exclude .git --exclude node_modules . "$1"
+    }
+    ```
+    * And run: `export FZF_DEFAULT_COMMAND='fd --type f'`
+
+**Other apps:**
+
+- Also useful to install **Présentation.app**, `.pkg` available from their website: [iihm.imag.fr/blanch/software/osx-presentation/](http://iihm.imag.fr/blanch/software/osx-presentation/)
+    * Check also [this](http://iihm.imag.fr/blanch/software/osx-presentation/#cl) to use it from the command line
+
 
 #### Quick configurations
 
