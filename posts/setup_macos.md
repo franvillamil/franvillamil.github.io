@@ -167,6 +167,7 @@ brew install bluesnooze
 brew install fzf
 brew install autojump
 brew install fd
+brew install tree
 ```
 
 Set ups to consider:
