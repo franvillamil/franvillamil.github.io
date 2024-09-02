@@ -170,6 +170,10 @@ brew install fd
 brew install tree
 ```
 
+- Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
+
+```brew install --cask rectangle```
+
 Set ups to consider:
 
 - Bluesnooze: open at login?
