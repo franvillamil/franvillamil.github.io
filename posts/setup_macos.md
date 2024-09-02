@@ -168,6 +168,7 @@ brew install fzf
 brew install autojump
 brew install fd
 brew install tree
+brew install ripgrep
 ```
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
