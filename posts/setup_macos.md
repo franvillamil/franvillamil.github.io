@@ -170,6 +170,7 @@ brew install fd
 brew install tree
 brew install ripgrep
 brew install rga
+brew install exa
 ```
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
