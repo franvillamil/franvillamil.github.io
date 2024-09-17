@@ -171,6 +171,7 @@ brew install tree
 brew install ripgrep
 brew install rga
 brew install lsd
+brew install bat
 ```
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
