@@ -182,7 +182,8 @@ Set ups to consider:
 - Set up `fzf`
 
     * Add this to `.zshrc`:
-    ```
+
+```
     # Set up fzf key bindings and fuzzy completion
     source <(fzf --zsh)
 
@@ -193,7 +194,8 @@ Set ups to consider:
     _fzf_compgen_dir() {
       command fd --type d --hidden --follow --exclude .git --exclude node_modules . "$1"
     }
-    ```
+```
+
     * And run: `export FZF_DEFAULT_COMMAND='fd --type f'`
 
 **Other apps:**
