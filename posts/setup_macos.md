@@ -208,6 +208,10 @@ Set ups to consider:
 
 #### Quick configurations
 
+**Zotero:**
+
+- Check this: [ikashnitsky.phd/2024/zotero7/](https://ikashnitsky.phd/2024/zotero7/)
+
 **Spectacle:**
 
 - Allow access to app in Accesibility
