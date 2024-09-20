@@ -237,8 +237,8 @@ Set ups to consider:
 ## Zotero configuration
 
 - Check [this post](https://ikashnitsky.phd/2024/zotero7/)
-- Using two plugins: [Better BibTex](https://retorque.re/zotero-better-bibtex/) and [Attanger](https://github.com/MuiseDestiny/zotero-attanger)
-
+- Using mainly two plugins: [Better BibTex](https://retorque.re/zotero-better-bibtex/) and [Attanger](https://github.com/MuiseDestiny/zotero-attanger)
+- Optionally a third one for tag management: [Zutilo](https://github.com/wshanks/Zutilo) 
 
 **General preferences**
 
