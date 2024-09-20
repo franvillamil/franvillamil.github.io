@@ -208,10 +208,6 @@ Set ups to consider:
 
 #### Quick configurations
 
-**Zotero:**
-
-- Check this: [ikashnitsky.phd/2024/zotero7/](https://ikashnitsky.phd/2024/zotero7/)
-
 **Spectacle:**
 
 - Allow access to app in Accesibility
@@ -236,6 +232,29 @@ Set ups to consider:
 - Log in to Google Drive and Dropbox
 - Install digital certificate
 - Set noTunes [to launch at startup](https://github.com/tombonez/noTunes) (General > Login Items)
+
+----
+## Zotero configuration
+
+- Check [this post](https://ikashnitsky.phd/2024/zotero7/)
+- Using two plugins: [Better BibTex](https://retorque.re/zotero-better-bibtex/) and [Attanger](https://github.com/MuiseDestiny/zotero-attanger)
+
+
+**General preferences**
+
+- `General`: Disable snapshots when importing from websites
+- `Sync`: Setup sync account
+- `Export`: Optional: style when exporting
+- `Advanced`: Setup file directory (`zotero_library` in iCloud) and metadata directory (do *not* sync this)
+
+**Better BibTex**
+
+```
+auth(0,1) + auth(0,2) + auth(0,3) + ":" + year
+```
+
+
+**Attanger**
 
 ----
 ## R installation
