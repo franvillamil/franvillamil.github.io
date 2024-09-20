@@ -242,19 +242,26 @@ Set ups to consider:
 
 **General preferences**
 
-- `General`: Disable snapshots when importing from websites
+- `General`: Disable snapshots when importing from websites, Item header (citation, Nature)
 - `Sync`: Setup sync account
 - `Export`: Optional: style when exporting
 - `Advanced`: Setup file directory (`zotero_library` in iCloud) and metadata directory (do *not* sync this)
 
 **Better BibTex**
 
-```
-auth(0,1) + auth(0,2) + auth(0,3) + ":" + year
-```
-
+- Citation key formula: ```auth(0,1) + auth(0,2) + auth(0,3) + ":" + year```
+- Field to omit from export: ```shorttitle,issn,urldate,abstract,langid,file,copyright,date-modified,date-added,doi,month```
+- Quick-copy latex citation (command: ```citep```)
+- Automatic export *on change*
+- Set Library (```~/Dropbox/REF.bib```)
 
 **Attanger**
+
+- Choose root directory (```~/Downloads```)
+- Destination path, subfolder: ```{{ authors max="1" case="lower" }}```
+- Filename ('Customize Filename Format...'):
+
+```{{ authors max="1" suffix="_" case="snake" }}{{ year suffix="_" }}{{ title truncate="100" case="snake"}}```
 
 ----
 ## R installation
