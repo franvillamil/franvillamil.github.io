@@ -258,10 +258,17 @@ Set ups to consider:
 **Attanger**
 
 - Choose root directory (```~/Downloads```)
-- Destination path, subfolder: ``` {{ authors max="1" case="lower" }} ```
+- Destination path, subfolder:
+
+```
+{{ authors max="1" case="lower" }}
+```
+
 - Filename ('Customize Filename Format...'):
 
-``` {{ authors max="1" suffix="_" case="snake" }}{{ year suffix="_" }}{{ title truncate="100" case="snake"}} ```
+```
+{{ authors max="1" suffix="_" case="snake" }}{{ year suffix="_" }}{{ title truncate="100" case="snake"}}
+```
 
 ----
 ## R installation
