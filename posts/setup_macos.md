@@ -2,11 +2,18 @@
 
 This is my own guide to set up a new mac computer. It covers the basics for code development (shell, git, R, Latex, code editor, etc) and some other useful applications for academic research.
 
-*TODO*:
+- [Basics](#basics)
+- [Shell and iTerm2](#shell-and-iterm2)
+- [Git](#git)
+- [R installation](#r-installation)
+- [Code editor (Sublime Text)](#code-editor-(sublime-text))
+- [Latex](#latex)
+- [Other software](#other-software)
+- [Zotero configuration](#zotero-configuration)
+- [Extras](#extras)
+- [References](#references)
 
-- Makevars and gcc stuff
-- Spatial stuff, see [this](https://www.alexchubaty.com/post/2016-12-13-using-latest-gdal-macos/) and [this](https://www.alexchubaty.com/post/2020-01-08-using-latest-gdal-macos-redux/)
-
+*Still TO-DO:* R stuff (gcc, spatial)
 
 ----
 ## Basics
@@ -133,7 +140,102 @@ The configuration for git should already be in `configfiles`, but just in case, 
  ```
 
 ----
-## Other useful software
+## R installation
+
+*Still TO-DO*:
+
+- Makevars and gcc
+- Spatial stuff, see [this](https://www.alexchubaty.com/post/2016-12-13-using-latest-gdal-macos/) and [this](https://www.alexchubaty.com/post/2020-01-08-using-latest-gdal-macos-redux/)
+
+- **Important:** Do **NOT** install R through homebrew
+- Use standard R installation, through [r-project.org](https://www.r-project.org)
+- Change appearance colors
+- Get configuration from `configfiles`:
+
+```shell
+ln -s ~/configfiles/.Rprofile ~/.Rprofile
+ln -s ~/configfiles/.Renviron ~/.Renviron
+```
+
+#### `gcc` stuff for compilations in R (in case it's needed)
+
+**NOTE:** check [this post](https://stackoverflow.com/a/43527031/2319134) before. Looks like macOS Ventura comes with `gcc` and `g++` 14, maybe it is enough to point to their location (by default in `/usr/bin/`) in a new `Makevars` file? Instead to download it through Homebrew ([see also this post](https://github.com/bernhardu/dvbcut-deb/issues/13)). But if I do want to do that, follow:
+
+```brew install gcc```
+
+And then add this to `Makevars`, but first check version of `gcc` and directories etc (perhaps need to create it: ```cd && mkdir .R && touch .R/Makevars```):
+
+```
+CC = gcc-12
+CXX = g++-12
+FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew/lib/gcc/12 -lgfortran -lquadmath -lm
+```
+
+#### Extra libraries to use in R
+
+- *TODO:* spatial analyses, etc
+
+## Code editor (Sublime Text)
+
+I have the following packages installed:
+
+- `AutoFileName`
+- `BracketHighlighter`
+- `FileBrowser`
+- `iOpener`
+- `LaTeXSmartQuotes`
+- `LaTeXTools`
+- `Markdown Extended`
+- `MarkdownPreview`
+- `Package Control`
+- `R-IDE`
+- `SendCode`
+- `SideBarEnhancements`
+- `SublimeLinter-contrib-write-good`
+- `Sync Settings`
+- `Whitespace`
+- `WordingStatus`
+
+
+Configuration is saved in a (private) [git repository](https://github.com/franvillamil/sublime_settings), which also enables syncing. In a new computer, just install `Package Control` and then clone the repository into the following folder, in a new folder called `User`:
+
+```shell
+cd Library/Application\ Support/Sublime\ Text/Packages
+```
+
+Also, so the `subl` command works:
+
+```shell
+sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+```
+
+**Note:** `SendCode` settings are not stored in `/Packages/User/` but directly in `Packages` (why?), so they do not sync. It's possible that for code to be sent to the right app, you need to change `SendCode (OSX).sublime-settings`, e.g.:
+
+```
+    "r" : {
+        "prog": "r",
+        // turn bracketed_paste_mode on if radian or readline 7.0 is in use
+        "bracketed_paste_mode": false
+    },
+```
+
+----
+## Latex
+
+brew install --cask mactex
+eval "$(/usr/libexec/path_helper)"
+
+**NOTE:** I'm not sure it's the best idea to install it through homebrew, [see this post](https://tex.stackexchange.com/a/656177).
+
+
+Also, install `bibtex-tidy` ([see this](https://github.com/FlamingTempura/bibtex-tidy)) (needs `npm`):
+
+```{shell}
+npm install -g bibtex-tidy
+```
+
+----
+## Other software
 
 ```
 brew install pandoc
@@ -261,107 +363,22 @@ Set ups to consider:
 - Destination path, subfolder:
 
 ```
+{% raw %}
 {{ authors max="1" case="lower" }}
+{% endraw %}
 ```
 
 - Filename ('Customize Filename Format...'):
 
 ```
-{{ authors max="1" suffix="_" case="snake" }}{{ year suffix="_" }}{{ title truncate="100" case="snake"}}
+{% raw %}
+{{ authors max="1" suffix="_" case="snake" }}{{ year suffix="_" }}{{ title truncate="100" case="snake" }}
+{% endraw %}
 ```
+
 
 ----
-## R installation
-
-- **Important:** Do **NOT** install R through homebrew
-- Use standard R installation, through [r-project.org](https://www.r-project.org)
-- Change appearance colors
-- Get configuration from `configfiles`:
-
-```shell
-ln -s ~/configfiles/.Rprofile ~/.Rprofile
-ln -s ~/configfiles/.Renviron ~/.Renviron
-```
-
-#### `gcc` stuff for compilations in R (in case it's needed)
-
-**NOTE:** check [this post](https://stackoverflow.com/a/43527031/2319134) before. Looks like macOS Ventura comes with `gcc` and `g++` 14, maybe it is enough to point to their location (by default in `/usr/bin/`) in a new `Makevars` file? Instead to download it through Homebrew ([see also this post](https://github.com/bernhardu/dvbcut-deb/issues/13)). But if I do want to do that, follow:
-
-```brew install gcc```
-
-And then add this to `Makevars`, but first check version of `gcc` and directories etc (perhaps need to create it: ```cd && mkdir .R && touch .R/Makevars```):
-
-```
-CC = gcc-12
-CXX = g++-12
-FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew/lib/gcc/12 -lgfortran -lquadmath -lm
-```
-
-#### Extra libraries to use in R
-
-- *TODO:* spatial analyses, etc
-
-## Code editor (Sublime Text)
-
-I have the following packages installed:
-
-- `AutoFileName`
-- `BracketHighlighter`
-- `FileBrowser`
-- `iOpener`
-- `LaTeXSmartQuotes`
-- `LaTeXTools`
-- `Markdown Extended`
-- `MarkdownPreview`
-- `Package Control`
-- `R-IDE`
-- `SendCode`
-- `SideBarEnhancements`
-- `SublimeLinter-contrib-write-good`
-- `Sync Settings`
-- `Whitespace`
-- `WordingStatus`
-
-
-Configuration is saved in a (private) [git repository](https://github.com/franvillamil/sublime_settings), which also enables syncing. In a new computer, just install `Package Control` and then clone the repository into the following folder, in a new folder called `User`:
-
-```shell
-cd Library/Application\ Support/Sublime\ Text/Packages
-```
-
-Also, so the `subl` command works:
-
-```shell
-sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
-```
-
-**Note:** `SendCode` settings are not stored in `/Packages/User/` but directly in `Packages` (why?), so they do not sync. It's possible that for code to be sent to the right app, you need to change `SendCode (OSX).sublime-settings`, e.g.:
-
-```
-    "r" : {
-        "prog": "r",
-        // turn bracketed_paste_mode on if radian or readline 7.0 is in use
-        "bracketed_paste_mode": false
-    },
-```
-
-----
-## Latex
-
-brew install --cask mactex
-eval "$(/usr/libexec/path_helper)"
-
-**NOTE:** I'm not sure it's the best idea to install it through homebrew, [see this post](https://tex.stackexchange.com/a/656177).
-
-
-Also, install `bibtex-tidy` ([see this](https://github.com/FlamingTempura/bibtex-tidy)) (needs `npm`):
-
-```{shell}
-npm install -g bibtex-tidy
-```
-
-----
-## Extra configurations
+## Extras
 
 #### Add python to PATH
 
@@ -412,7 +429,7 @@ Also all plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
     ```
 
 ----
-## Further references
+## References
 
 - See [this guide](https://sourabhbajaj.com/mac-setup)
 
