@@ -237,7 +237,7 @@ npm install -g bibtex-tidy
 ----
 ## Other software
 
-```
+```shell
 brew install pandoc
 brew install pandoc-crossref
 brew install --cask skim
@@ -278,7 +278,9 @@ brew install bat
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
 
-```brew install --cask rectangle```
+```shell
+brew install --cask rectangle
+```
 
 Set ups to consider:
 
@@ -287,7 +289,7 @@ Set ups to consider:
 
     * Add this to `.zshrc`:
 
-```
+```shell
     # Set up fzf key bindings and fuzzy completion
     source <(fzf --zsh)
 
@@ -413,20 +415,20 @@ duti -x sh
 
 And then change some defaults. First, `csv` files with Modern CSV:
 
-    ```shell
-    duti -s net.galliumdigital.Modern-CSV .csv all
-    ```
+```shell
+duti -s net.galliumdigital.Modern-CSV .csv all
+```
 
 Also all plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
 
-    ```shell
-    duti -s com.sublimetext.4 .txt all
-    duti -s com.sublimetext.4 .md all
-    duti -s com.sublimetext.4 .R all
-    duti -s com.sublimetext.4 .tex all
-    duti -s com.sublimetext.4 .sh all
-    duti -s com.sublimetext.4 .zsh all
-    ```
+```shell
+duti -s com.sublimetext.4 .txt all
+duti -s com.sublimetext.4 .md all
+duti -s com.sublimetext.4 .R all
+duti -s com.sublimetext.4 .tex all
+duti -s com.sublimetext.4 .sh all
+duti -s com.sublimetext.4 .zsh all
+```
 
 ----
 ## References
