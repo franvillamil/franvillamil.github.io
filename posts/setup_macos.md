@@ -6,7 +6,7 @@ This is my own guide to set up a new mac computer. It covers the basics for code
 - [Shell and iTerm2](#shell-and-iterm2)
 - [Git](#git)
 - [R installation](#r-installation)
-- [Code editor (Sublime Text)](#code-editor-(sublime-text))
+- [Code editor](#code-editor)
 - [Latex](#latex)
 - [Other software](#other-software)
 - [Zotero configuration](#zotero-configuration)
@@ -175,9 +175,9 @@ FLIBS = -L/opt/homebrew/lib/gcc/12/gcc/aarch64-apple-darwin20/12 -L/opt/homebrew
 
 - *TODO:* spatial analyses, etc
 
-## Code editor (Sublime Text)
+## Code editor
 
-I have the following packages installed:
+I use **Sublime Text** with the following packages installed:
 
 - `AutoFileName`
 - `BracketHighlighter`
@@ -203,7 +203,17 @@ Configuration is saved in a (private) [git repository](https://github.com/franvi
 cd Library/Application\ Support/Sublime\ Text/Packages
 ```
 
-Also, so the `subl` command works:
+I also have the following aliases defined in `.zshrc`, to manage the settings folder (access, update, and upload) and open both files and current directories with Sublime Text:
+
+```shell
+alias stfolder="cd ~/Library/Application\ Support/Sublime\ Text/Packages/User"
+alias updatest="cd ~/Library/Application\ Support/Sublime\ Text/Packages/User && gitfs && git pull"
+alias uploadst="cd ~/Library/Application\ Support/Sublime\ Text/Packages/User && gitfs && gitacp"
+alias subl='open -a "Sublime Text" "$@"'
+alias openfs='open ${PWD} -a "Sublime Text"'
+```
+
+Alternatively, to make the `subl` command work:
 
 ```shell
 sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
