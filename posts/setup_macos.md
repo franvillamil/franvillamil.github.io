@@ -446,6 +446,13 @@ duti -s com.sublimetext.4 .sh all
 duti -s com.sublimetext.4 .zsh all
 ```
 
+#### Keyboard shortcuts
+
+<figure>
+<img src="https://github.com/franvillamil/franvillamil.github.io/raw/master/posts/shortcuts.png">
+<!-- <figcaption><b>Figure:</b> Keyboard application shortcuts</figcaption> -->
+</figure>
+
 ----
 ## References
 
