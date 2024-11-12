@@ -429,7 +429,13 @@ And then change some defaults. First, `csv` files with Modern CSV:
 duti -s net.galliumdigital.Modern-CSV .csv all
 ```
 
-Also all plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
+Skim for `pdf`:
+
+```shell
+duti -s net.sourceforge.skim-app.skim .pdf all
+```
+
+All plain text (txt, R, Markdown, shell, Latex) with Sublime Text:
 
 ```shell
 duti -s com.sublimetext.4 .txt all
