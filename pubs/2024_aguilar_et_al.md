@@ -7,7 +7,7 @@
 
 *Comparative Political Studies*, 2024 ([doi/10.1177/00104140241269894](https://doi.org/10.1177/00104140241269894)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2024_Aguilar_etal_preprint.pdf" target="_blank"><button type="button button1">PDF</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2024_Aguilar_etal_appendix.pdf" target="_blank"><button type="button button1">APPENDIX</button></a> <a href="https://doi.org/10.7910/DVN/PNXFD6" target="_blank"><button type="button button1">REPLICATION</button></a>
+<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2024_Aguilar_etal_preprint.pdf" target="_blank"><button type="button button1">PDF</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2024_Aguilar_etal_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://doi.org/10.7910/DVN/PNXFD6" target="_blank"><button type="button button1">Replication</button></a>
 
 **Abstract:**
 
