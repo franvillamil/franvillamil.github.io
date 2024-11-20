@@ -282,6 +282,7 @@ brew install fd
 brew install tree
 brew install ripgrep
 brew install rga
+brew install poppler ffmpeg
 brew install lsd
 brew install bat
 ```
