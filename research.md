@@ -18,9 +18,9 @@ layout: default
 
 ### Book chapters
 
-* **Violence and memory** (with Paloma Aguilar). In [*The Palgrave Encyclopedia of Memory Studies*](https://doi.org/10.1007/978-3-030-93789-8_49-1) (eds. LM Bietti and M Pogacar), Palgrave Macmillan, 2024.
-* **Civil Wars**. In [*Encyclopedia of Political Sociology*](https://doi.org/10.4337/9781803921235.00020) (eds. MT Grasso and M Giugni), Edward Elgar, 2023.
-* **Descomponiendo a la derecha radical europea: el perfil de sus votantes** (with José Rama and Stuart Turnbull-Dugarte). In [*En los márgenes de la democracia liberal: Populismo, nacionalismo y radicalismo ideológico en Europa*](https://www.comares.com/libro/en-los-margenes-de-la-democracia-liberal_143816/) (eds. Á Valencia and B Fernández-García), Comares, 2022.
+* **Violence and memory** (with Paloma Aguilar). In [*The Palgrave Encyclopedia of Memory Studies*](https://doi.org/10.1007/978-3-030-93789-8_49-1), Palgrave Macmillan, 2024.
+* **Civil Wars**. In [*Encyclopedia of Political Sociology*](https://doi.org/10.4337/9781803921235.00020), Edward Elgar, 2023.
+* **Descomponiendo a la derecha radical europea: el perfil de sus votantes** (with José Rama and Stuart Turnbull-Dugarte). In [*En los márgenes de la democracia liberal: Populismo, nacionalismo y radicalismo ideológico en Europa*](https://www.comares.com/libro/en-los-margenes-de-la-democracia-liberal_143816/), Comares, 2022.
 
 ### Working papers
 
