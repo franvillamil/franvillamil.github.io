@@ -29,7 +29,7 @@ Despite the importance of authoritarian and nationalist values in military cultu
 
 **Citation:**
 
-> Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) Rally ‘round the barrack: Far-right support and the military. Forthcoming at The Journal of Politics.
+> Villamil, Francisco, Stuart Turnbull-Dugarte, and José Rama (2024) Rally ‘round the barrack: Far-right support and the military. The Journal of Politics 86(4): 1524-1540.
 
 ```
  @article{villamilturnbullrama2024,
@@ -37,8 +37,8 @@ Despite the importance of authoritarian and nationalist values in military cultu
    author={Villamil, Francisco and Turnbull-Dugarte, Stuart J and Rama, Jos{\'e}},
    journal={The Journal of Politics},
    year={2024},
-   volume={forthcoming},
-   number={},
-   pages={}
+   volume={86},
+   number={4},
+   pages={1524--1540}
  }
 ```
