@@ -2,9 +2,9 @@
 
 **Francisco Villamil**
 
-*Journal of Peace Research*, 2021 [doi/10.1177/0022343320912816](https://doi.org/10.1177/0022343320912816).
+*Journal of Peace Research*, 2021 ([doi/10.1177/0022343320912816](https://doi.org/10.1177/0022343320912816)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2021_Villamil_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2021_Villamil_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Villamil_2020_JPR.zip" target="_blank"><button type="button button1">Replication</button></a>
+<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2021_Villamil_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2021_Villamil_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Villamil_2020_JPR.zip" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:9yKSN-GCB0IC"><button type="button button1">Google Scholar</button></a>
 
 **Abstract:**
 
