@@ -1,4 +1,3 @@
-
 ### Rally 'round the barrack: Far-right support and the military
 
 **Francisco Villamil**<br>
