@@ -7,7 +7,7 @@
 
 *Journal of Conflict Resolution*, 2020 ([doi/10.1177/0022002719898873](https://doi.org/10.1177/0022002719898873)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/Cederman_et_al_2020_JCR.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://journals.sagepub.com/doi/suppl/10.1177/0022002719898873/suppl_file/appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_cederman_et_al_2020.zip" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:u-x6o8ySG0sC"><button type="button button1">Google Scholar</button></a>
+<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2020_Cederman_etal_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://journals.sagepub.com/doi/suppl/10.1177/0022002719898873/suppl_file/appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_cederman_et_al_2020.zip" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:u-x6o8ySG0sC"><button type="button button1">Google Scholar</button></a>
 
 **Abstract:**
 

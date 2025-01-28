@@ -5,7 +5,7 @@
 
 *Nationalism and Ethnic Politics*, 2020 ([doi/10.1080/13537113.2020.1795451](https://doi.org/10.1080/13537113.2020.1795451)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/preprint_Balcells_Villamil_2020_NEPS.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Balcells_Villamil_2020_NEPS.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Balcells_Villamil_2020_NEPS.zip" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:2osOgNQ5qMEC"><button type="button button1">Google Scholar</button></a>
+<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2020_Balcells_Villamil_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2020_Balcells_Villamil_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/franvillamil.github.io/raw/master/files/pubs/replication_Balcells_Villamil_2020_NEPS.zip" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:2osOgNQ5qMEC"><button type="button button1">Google Scholar</button></a>
 
 **Abstract:**
 

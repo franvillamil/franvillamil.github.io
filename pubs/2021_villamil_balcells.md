@@ -5,7 +5,7 @@
 
 *Research & Politics*, 2021 ([doi/10.1177/20531680211058550](https://doi.org/10.1177/20531680211058550)).
 
-<a href="https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550" target="_blank"><button type="button button1">PDF</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/appendix_Villamil_Balcells_2021.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/streets_vox" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:qjMakFHDy7sC" target="_blank"><button type="button button1">Google Scholar</button></a>
+<a href="https://journals.sagepub.com/doi/pdf/10.1177/20531680211058550" target="_blank"><button type="button button1">PDF</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2021_Villamil_Balcells_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/streets_vox" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:qjMakFHDy7sC" target="_blank"><button type="button button1">Google Scholar</button></a>
 
 **Media/outreach:**
 
