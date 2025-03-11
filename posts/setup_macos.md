@@ -250,6 +250,7 @@ npm install -g bibtex-tidy
 ```shell
 brew install pandoc
 brew install pandoc-crossref
+brew install rar
 brew install --cask skim
 brew install --cask brave-browser
 brew install --cask dropbox
