@@ -253,7 +253,6 @@ brew install pandoc-crossref
 brew install rar
 brew install --cask skim
 brew install --cask brave-browser
-brew install --cask dropbox
 brew install --cask quicksilver
 brew install --cask spectacle
 brew install --cask modern-csv
@@ -269,7 +268,9 @@ brew install --cask zoom
 brew install --cask zotero
 brew install --cask calibre
 brew install --cask obsidian
+brew install --cask dropbox
 brew install --cask google-drive
+brew install --cask proton-drive
 brew install node
 brew install --cask notunes
 brew install gpsbabel
