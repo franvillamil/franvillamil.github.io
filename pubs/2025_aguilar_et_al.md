@@ -5,9 +5,9 @@
 [Ignacio Sánchez-Cuenca](https://ignaciosanchezcuenca.wordpress.com/)<br>
 **Francisco Villamil**
 
-*Comparative Political Studies*, 2024 ([doi/10.1177/00104140241269894](https://doi.org/10.1177/00104140241269894)).
+*Comparative Political Studies*, 2025 ([doi/10.1177/00104140241269894](https://doi.org/10.1177/00104140241269894)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2024_Aguilar_etal_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2024_Aguilar_etal_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://doi.org/10.7910/DVN/PNXFD6" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:ULOm3_A8WrAC"><button type="button button1">Google Scholar</button></a>
+<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2025_Aguilar_etal_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a>  <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2025_Aguilar_etal_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://doi.org/10.7910/DVN/PNXFD6" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:ULOm3_A8WrAC"><button type="button button1">Google Scholar</button></a>
 
 **Media/outreach:**
 
@@ -25,4 +25,4 @@ Research on civilian victimization usually treats all civilians as a unitary gro
 
 **Citation:**
 
-> Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (2024) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Forthcoming at Comparative Political Studies.
+> Aguilar, Paloma, Fernando de la Cuesta, Ignacio Sánchez-Cuenca, and Francisco Villamil (2025) Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War. Comparative Political Studies 58(7): 1319-1351.
