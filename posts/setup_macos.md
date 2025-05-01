@@ -287,6 +287,7 @@ brew install rga
 brew install poppler ffmpeg
 brew install lsd
 brew install bat
+brew install graphviz
 brew install --cask aldente
 brew install --cask coconutbattery
 ```
