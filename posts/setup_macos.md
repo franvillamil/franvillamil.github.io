@@ -273,6 +273,7 @@ brew install --cask google-drive
 brew install --cask proton-drive
 brew install node
 brew install --cask notunes
+brew install --cask betterdisplay
 brew install gpsbabel
 brew install pdftk-java
 brew install --cask alt-tab
