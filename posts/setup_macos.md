@@ -291,6 +291,7 @@ brew install bat
 brew install graphviz
 brew install --cask aldente
 brew install --cask coconutbattery
+brew install gnumeric
 ```
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
