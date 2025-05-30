@@ -292,6 +292,7 @@ brew install graphviz
 brew install --cask aldente
 brew install --cask coconutbattery
 brew install gnumeric
+pip install xlsx2csv
 ```
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
