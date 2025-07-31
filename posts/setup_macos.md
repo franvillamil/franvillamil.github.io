@@ -291,6 +291,7 @@ brew install bat
 brew install graphviz
 brew install --cask aldente
 brew install --cask coconutbattery
+brew install --cask vlc
 brew install gnumeric
 pip install xlsx2csv
 brew install httpie
@@ -455,6 +456,7 @@ duti -s com.sublimetext.4 .R all
 duti -s com.sublimetext.4 .tex all
 duti -s com.sublimetext.4 .sh all
 duti -s com.sublimetext.4 .zsh all
+duti -s org.videolan.vlc .mp3 all
 ```
 
 #### Keyboard shortcuts
