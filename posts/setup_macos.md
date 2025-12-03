@@ -467,6 +467,24 @@ duti -s org.videolan.vlc .mp3 all
 </figure>
 
 ----
+## LLM stuff?
+
+Open WebUI
+
+```shell
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+And open by ```DATA_DIR=~/.open-webui uvx --python 3.11 open-webui@latest serve``` or adding an alias
+
+Embedding models etc
+
+```shell
+brew install ollama
+ollama pull snowflake-arctic-embed2
+```
+
+----
 ## References
 
 - See [this guide](https://sourabhbajaj.com/mac-setup)
