@@ -436,7 +436,6 @@ echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zsh
 echo 'eval "$(pyenv init - zsh)"' >> ~/.zshrc
 ```
 
-
 #### File type defaults
 
 Install [duti](https://github.com/moretension/duti/):
@@ -483,22 +482,39 @@ duti -s org.videolan.vlc .mp3 all
 </figure>
 
 ----
-## LLM stuff?
+## LLM stuff
 
-Open WebUI
+### Install Ollama
+
+```shell
+brew install ollama
+```
+
+Remember to run the Ollama server so it runs, by `ollama serve`.
+
+Install a light LLM and an embedding model:
+
+```
+ollama pull phi4-mini
+ollama pull snowflake-arctic-embed2
+```
+
+### Install Open WebUI
 
 ```shell
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-And open by ```DATA_DIR=~/.open-webui uvx --python 3.11 open-webui@latest serve``` or adding an alias
+And open by ```DATA_DIR=~/.open-webui uvx --python 3.11 open-webui@latest serve``` or adding an alias (already in [`configfiles/.aliases`](https://github.com/franvillamil/configfiles/blob/master/.aliases#L53)).
 
-Embedding models etc
+Check these references:
 
-```shell
-brew install ollama
-ollama pull snowflake-arctic-embed2
-```
+- [Open WebUI Docs - ]
+- [Build your local AI](https://pahautelman.github.io/pahautelman-blog/tutorials/build-your-local-ai/build-your-local-ai/)
+- [Supercharge Your Local AI with RAG and Custom Knowledge Bases](https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-rag/open-webui-rag/)
+- [Beyond Text](https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-action-tools/open-webui-action-tools/)
+- [YouTube: How to connect a LLM to Zotero for a private, local research assistant](https://www.youtube.com/watch?v=b2BSZfOtD_w)
+
 
 ----
 ## References
