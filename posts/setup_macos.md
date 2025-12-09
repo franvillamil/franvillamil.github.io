@@ -421,6 +421,22 @@ echo 'export PATH=/opt/homebrew/opt/python@3.11/libexec/bin:$PATH' >> ~/.zprofil
 source ~/.zprofile
 ```
 
+Maybe it is useful to install a version manager, such as [`pyenv`](https://github.com/pyenv/pyenv):
+
+```shell
+brew update
+brew install pyenv
+```
+
+And then:
+
+```shell
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(pyenv init - zsh)"' >> ~/.zshrc
+```
+
+
 #### File type defaults
 
 Install [duti](https://github.com/moretension/duti/):
