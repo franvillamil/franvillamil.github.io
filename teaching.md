@@ -24,6 +24,6 @@ layout: default
 ### Past courses
 
 - [International Relations](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_IR.pdf). Graduate seminar, 2022-2025.
-- [War, peace, and political violence](https://franvillamil.github.io/wp_polvio). Undergraduate, 2020-2025.
+- [War, peace, and political violence](https://franvillamil.github.io/wp_polvio). Undergraduate, 2020-2024.
 - Multidisciplinary seminar on International Studies. Undergraduate, 2020-2021.
 - Security, peace, and conflict resolution. Undergraduate, 2020.
