@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## [**Publications**](./research.html)
+<!-- ## [**Publications**](./research.html) -->
+## <a href="https://franvillamil.github.io/research.html" style="font-size: 115%"><b>Publications</b></a><br />
 
 ### Peer-reviewed articles
 
