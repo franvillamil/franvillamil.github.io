@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Data and resources
+## [**Data and resources**](./data.html)
 
 - **[Github profile](https://github.com/franvillamil)** with replication datasets and code resources.
 

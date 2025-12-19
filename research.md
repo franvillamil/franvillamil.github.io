@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Publications](./)
+## [**Publications**](./research.html)
 
 ### Peer-reviewed articles
 

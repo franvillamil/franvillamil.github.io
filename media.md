@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Op-eds / blog posts
+## [**Op-eds / blog posts**](./media.html)
 
 #### Spanish
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Book project
+## [**Book project**](./book.html)
 
 ### Mobilizing memories: How violence leaves long-term legacies
 
