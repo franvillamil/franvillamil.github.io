@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [**Teaching**](./teaching.html)
+## Teaching
 
 ### Graduate
 
