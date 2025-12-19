@@ -1,4 +1,3 @@
-
 ### The wars of others: The effect of the Russian invasion of Ukraine on Spanish nationalism
 
 [Laia Balcells](https://www.laiabalcells.com/)<br>
