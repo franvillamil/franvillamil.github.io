@@ -271,6 +271,7 @@ brew install --cask obsidian
 brew install --cask dropbox
 brew install --cask google-drive
 brew install --cask proton-drive
+brew install --cask docker
 brew install node
 brew install --cask notunes
 brew install --cask betterdisplay
