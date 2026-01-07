@@ -10,6 +10,7 @@
 
 **Media/outreach:**
 
+  - [Así es como la universidad moldea tu ideología: "Si hubiera estudiado en otra facultad, pensaría de otra manera"](https://www.elconfidencial.com/espana/2026-01-07/como-universidad-moldea-ideologia_4276584/) (El Confidencial)
   - [Vox ya ha triunfado en los cuarteles: un estudio acredita la expansión de la extrema derecha en el Ejército](https://www.infolibre.es/politica/triunfo-vox-cuarteles-estudio-acredita-expansion-extrema-derecha-ejercito_1_1560872.html) (infoLibre)
   - [La ideología de los militares: algunos restos franquistas en una tropa de mayoría conservadora](https://www.eldiario.es/politica/ideologia-militares-restos-franquistas-tropa-mayoria-conservadora_1_10712728.html) (elDiario.es)
   - [Auge de la extrema derecha en el ejército español](https://bilbaohiria.com/actualidad/auge-de-la-extrema-derecha-en-el-ejercito-espanol/) (BilbaoHiria)
