@@ -17,9 +17,9 @@ layout: default
 
 ### Undergraduate
 
-- **World politics.** (Spring term, 2026-).
-  - [Course website]()
-  - [Syllabus]()
+- **Política mundial.** (Spring term, 2026-).
+  - [Course website](https://franvillamil.github.io/wp_polvio)
+  - [Syllabus](https://raw.githack.com/franvillamil/syllabi/master/current/syllabus_politica_mundial.pdf)
 
 ### Past courses
 
