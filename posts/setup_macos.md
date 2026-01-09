@@ -237,6 +237,8 @@ eval "$(/usr/libexec/path_helper)"
 
 **NOTE:** I'm not sure it's the best idea to install it through homebrew, [see this post](https://tex.stackexchange.com/a/656177).
 
+Probably **better to go directly to**: [MacTeX site](https://www.tug.org/mactex/mactex-download.html)
+
 
 Also, install `bibtex-tidy` ([see this](https://github.com/FlamingTempura/bibtex-tidy)) (needs `npm`):
 
