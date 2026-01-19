@@ -9,8 +9,9 @@ This is my own guide to set up a new mac computer. It covers the basics for code
 - [Code editor](#code-editor)
 - [Latex](#latex)
 - [Other software](#other-software)
-- [Zotero configuration](#zotero-configuration)
+- [Zotero](#zotero)
 - [Extras](#extras)
+- [LLM/AI Stuff](#llm/ai-stuff)
 - [References](#references)
 
 *Still TO-DO:* R stuff (gcc, spatial)
@@ -363,7 +364,7 @@ Set ups to consider:
 - Set noTunes [to launch at startup](https://github.com/tombonez/noTunes) (General > Login Items)
 
 ----
-## Zotero configuration
+## Zotero
 
 - Check [this post](https://ikashnitsky.phd/2024/zotero7/)
 - Using mainly two plugins: [Better BibTex](https://retorque.re/zotero-better-bibtex/) and [Attanger](https://github.com/MuiseDestiny/zotero-attanger)
@@ -405,7 +406,7 @@ Set ups to consider:
 
 
 ----
-## Extras
+##
 
 #### Add python to PATH
 
@@ -485,7 +486,7 @@ duti -s org.videolan.vlc .mp3 all
 </figure>
 
 ----
-## LLM stuff
+## LLM/AI
 
 ### Install Ollama
 
@@ -502,7 +503,7 @@ ollama pull phi4-mini
 ollama pull snowflake-arctic-embed2
 ```
 
-### Install Open WebUI
+### Open WebUI
 
 ```shell
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -518,6 +519,8 @@ Check these references:
 - [Beyond Text](https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-action-tools/open-webui-action-tools/)
 - [YouTube: How to connect a LLM to Zotero for a private, local research assistant](https://www.youtube.com/watch?v=b2BSZfOtD_w)
 
+
+### Claude Code
 
 ----
 ## References
