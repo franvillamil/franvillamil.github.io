@@ -518,6 +518,32 @@ Check these references:
 - [Beyond Text](https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-action-tools/open-webui-action-tools/)
 - [YouTube: How to connect a LLM to Zotero for a private, local research assistant](https://www.youtube.com/watch?v=b2BSZfOtD_w)
 
+----
+## Claude Code
+
+Add `settings.json` to `~/.claude/`, and write:
+
+```json
+{
+  "permissions": {
+    "deny": [
+      "Bash(git commit*)",
+      "Bash(git push*)"
+    ]
+  },
+```
+
+
+Install a couple plugins from [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools):
+
+```shell
+claude plugin marketplace add pchalasani/claude-code-tools
+claude plugin install "safety-hooks@cctools-plugins"
+claude plugin install "workflow@cctools-plugins"
+```
+
+These are the [safety hooks](https://github.com/pchalasani/claude-code-tools/blob/main/plugins/safety-hooks/README.md) and some [workflow tools](https://github.com/pchalasani/claude-code-tools/blob/main/plugins/workflow/README.md).
+
 
 ----
 ## References
