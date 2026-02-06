@@ -11,7 +11,7 @@ This is my own guide to set up a new mac computer. It covers the basics for code
 - [Other software](#other-software)
 - [Zotero](#zotero)
 - [Extras](#extras)
-- [LLM/AI Stuff](#llm/ai-stuff)
+- [LLM/AI Stuff](#llm/ai)
 - [References](#references)
 
 *Still TO-DO:* R stuff (gcc, spatial)
@@ -488,7 +488,7 @@ duti -s org.videolan.vlc .mp3 all
 ----
 ## LLM/AI
 
-### Install Ollama
+### Ollama
 
 ```shell
 brew install ollama
@@ -519,8 +519,7 @@ Check these references:
 - [Beyond Text](https://pahautelman.github.io/pahautelman-blog/tutorials/open-webui-action-tools/open-webui-action-tools/)
 - [YouTube: How to connect a LLM to Zotero for a private, local research assistant](https://www.youtube.com/watch?v=b2BSZfOtD_w)
 
-----
-## Claude Code
+### Claude Code
 
 Add `settings.json` to `~/.claude/`, and write:
 
@@ -544,9 +543,6 @@ claude plugin install "workflow@cctools-plugins"
 ```
 
 These are the [safety hooks](https://github.com/pchalasani/claude-code-tools/blob/main/plugins/safety-hooks/README.md) and some [workflow tools](https://github.com/pchalasani/claude-code-tools/blob/main/plugins/workflow/README.md).
-
-
-### Claude Code
 
 ----
 ## References
