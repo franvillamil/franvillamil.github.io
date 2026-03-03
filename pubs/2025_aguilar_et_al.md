@@ -12,6 +12,7 @@
 **Media/outreach:**
 
 - [Anatomía del horror: las razones ocultas de las matanzas de clérigos de 1936](https://elpais.com/ideas/2024-12-14/anatomia-del-horror-las-razones-ocultas-de-la-matanza-de-clerigos-de-1936.html) (El País)
+- [¿El regreso de la violencia?](https://www.publico.es/opinion/columnas/regreso-violencia.html) (Público)
 
 **Abstract:**
 
