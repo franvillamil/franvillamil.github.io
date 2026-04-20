@@ -4,7 +4,7 @@
 
 *European Political Science Review*, 2023 ([doi/10.1017/S1755773923000097](https://doi.org/10.1017/S1755773923000097)).
 
-<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/973528557583A9CB9A401109A6F15C20/S1755773923000097a.pdf/civilian-victimization-and-ethnic-attitudes-in-africa.pdf" target="_blank"><button type="button button1">PDF</button></a> <a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1755773923000097/resource/name/S1755773923000097sup001.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/ethnicity_africa" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:WF5omc3nYNoC"><button type="button button1">Google Scholar</button></a>
+<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/973528557583A9CB9A401109A6F15C20/S1755773923000097a.pdf/civilian-victimization-and-ethnic-attitudes-in-africa.pdf" target="_blank"><button type="button button1">PDF</button></a> <a href="https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1755773923000097/resource/name/S1755773923000097sup001.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/ethnicity_africa" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&citation_for_view=G10YqfQAAAAJ:WF5omc3nYNoC"><button type="button button1">Google Scholar</button></a>
 
 
 **Abstract:**

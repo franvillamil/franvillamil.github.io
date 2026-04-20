@@ -4,7 +4,7 @@
 
 *Conflict Management and Peace Science*, 2022 ([doi/10.1177/07388942211066539](https://doi.org/10.1177/07388942211066539)).
 
-<a href="https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/legacies_guatemala" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&hl=en&user=G10YqfQAAAAJ&citation_for_view=G10YqfQAAAAJ:Tyk-4Ss8FVUC"><button type="button button1">Google Scholar</button></a>
+<a href="https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/legacies_guatemala" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&citation_for_view=G10YqfQAAAAJ:Tyk-4Ss8FVUC"><button type="button button1">Google Scholar</button></a>
 
 **Media/outreach:**
 
