@@ -6,6 +6,7 @@ layout: default
 
 #### Spanish
 
+- - [La huella de la dictadura franquista en la sociedad civil: un análisis generacional](https://www.eldiario.es/piedrasdepapel/huella-dictadura-franquista-sociedad-civil-analisis-generacional_132_13164921.html) (Piedras de Papel, elDiario.es) (*elDiario.es*, 04/2026)
 - [Las guerras de los otros: ¿cómo nos afectan políticamente?](https://www.eldiario.es/piedrasdepapel/guerras-afectan-politicamente_132_10640558.html) (*elDiario.es*, 10/2023)
 - [El ejército y la extrema derecha](https://www.eldiario.es/piedrasdepapel/ejercito-extrema-derecha_132_10493272.html) (*elDiario.es*, 09/2023)
 - [Los nuevos años veinte](https://ctxt.es/es/20230301/Firmas/42393/francisco-villamil-decada-de-los-veinte-orden-internacional-geopolitica-guerra.htm) (*CTXT*, 03/2023)
