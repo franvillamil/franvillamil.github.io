@@ -405,6 +405,12 @@ Set ups to consider:
 ```
 
 
+**Two more notes:**
+
+- Maybe some of these setups changes when migrating to Zotero 9 or later
+- Enable the API (in `Prefs > Advanced > Allow other applications...`)
+
+
 ----
 ##
 
@@ -543,6 +549,11 @@ claude plugin install "workflow@cctools-plugins"
 ```
 
 These are the [safety hooks](https://github.com/pchalasani/claude-code-tools/blob/main/plugins/safety-hooks/README.md) and some [workflow tools](https://github.com/pchalasani/claude-code-tools/blob/main/plugins/workflow/README.md).
+
+
+**Note** (need to update this):
+
+- MCP: filesystem (especially for Obsidian vault) and Zotero
 
 ----
 ## References
