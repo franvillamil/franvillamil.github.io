@@ -196,7 +196,8 @@ I use **Sublime Text** with the following packages installed:
 - `Sync Settings`
 - `Whitespace`
 - `WordingStatus`
-
+- `CiteBibtex`
+- *and maybe others, which are keep in the configuration files*
 
 Configuration is saved in a (private) [git repository](https://github.com/franvillamil/sublime_settings), which also enables syncing. In a new computer, just install `Package Control` and then clone the repository into the following folder, in a new folder called `User`:
 
@@ -214,13 +215,15 @@ alias subl='open -a "Sublime Text" "$@"'
 alias openfs='open ${PWD} -a "Sublime Text"'
 ```
 
+
+
 Alternatively, to make the `subl` command work:
 
 ```shell
 sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
 
-**Note:** `SendCode` settings are not stored in `/Packages/User/` but directly in `Packages` (why?), so they do not sync. It's possible that for code to be sent to the right app, you need to change `SendCode (OSX).sublime-settings`, e.g.:
+**Note (Sendcode):** `SendCode` settings are not stored in `/Packages/User/` but directly in `Packages` (why?), so they do not sync. It's possible that for code to be sent to the right app, you need to change `SendCode (OSX).sublime-settings`, e.g.:
 
 ```
     "r" : {
