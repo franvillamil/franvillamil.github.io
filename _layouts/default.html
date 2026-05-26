@@ -1,61 +1,65 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../css/social-circles.min.css">
-    <!-- <link rel="stylesheet" href="../css/academicons.min.css"/>-->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-
-  {% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  {% include analytics.html %}
+    {% include analytics.html %}
   </head>
 
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="https://franvillamil.github.io/"><b>Francisco Villamil</b></a></h1>
+    {% assign is_home = false %}
+    {% if page.url == "/" or page.url == "/index.html" %}{% assign is_home = true %}{% endif %}
+    {% assign cv_url = "https://www.dropbox.com/scl/fi/d86xp4q4pgpuc6pohzen8/villamil-cv.pdf?rlkey=esf0krce4pexnjtclubs0x8r7&st=x0jaqf0h&dl=0" %}
 
-        <p></p>
-        <p>
-          Ramón y Cajal Associate Professor<br />
-          Department of Social Sciences<br />
-          Universidad Carlos III de Madrid<br />
-          <a href="mailto:francisco.villamil@uc3m.es">francisco.villamil@uc3m.es</a><br />
-        </p>
-        <p></p>
-        <p>
-        <a class="icon-github ai-2x" href="https://github.com/franvillamil" target="_blank" style="color: #3d3d3d;"></a>&nbsp;&nbsp;&nbsp;
-        <a class="ai ai-google-scholar ai-2x" href="https://scholar.google.com/citations?user=G10YqfQAAAAJ&hl=en" target="_blank" style="color: #3d3d3d;"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://bsky.app/profile/franvillamil.bsky.social" target="_blank"><svg width="25px" viewBox="-50 -50 430 390" aria-hidden="true"><path fill="#3d3d3d" d="M180 141.964C163.699 110.262 119.308 51.1817 78.0347 22.044C38.4971 -5.86834 23.414 -1.03207 13.526 3.43594C2.08093 8.60755 0 26.1785 0 36.5164C0 46.8542 5.66748 121.272 9.36416 133.694C21.5786 174.738 65.0603 188.607 105.104 184.156C107.151 183.852 109.227 183.572 111.329 183.312C109.267 183.642 107.19 183.924 105.104 184.156C46.4204 192.847 -5.69621 214.233 62.6582 290.33C137.848 368.18 165.705 273.637 180 225.702C194.295 273.637 210.76 364.771 295.995 290.33C360 225.702 313.58 192.85 254.896 184.158C252.81 183.926 250.733 183.645 248.671 183.315C250.773 183.574 252.849 183.855 254.896 184.158C294.94 188.61 338.421 174.74 350.636 133.697C354.333 121.275 360 46.8568 360 36.519C360 26.1811 357.919 8.61012 346.474 3.43851C336.586 -1.02949 321.503 -5.86576 281.965 22.0466C240.692 51.1843 196.301 110.262 180 141.964Z"></path></svg></a>&nbsp;&nbsp;&nbsp;
-        <a class="ai ai-clarivate-square ai-2x" href="https://www.webofscience.com/wos/author/rid/AAO-7373-2021" target="_blank" style="color: #3d3d3d;"></a>&nbsp;&nbsp;&nbsp;
-        <a class="ai ai-cv ai-2x" href="https://www.dropbox.com/scl/fi/d86xp4q4pgpuc6pohzen8/villamil-cv.pdf?rlkey=esf0krce4pexnjtclubs0x8r7&st=x0jaqf0h&dl=0" target="_blank" style="color: #3d3d3d;"></a><br />
-        </p>
-        <p></p>
-        <p>
-          <a href="https://franvillamil.github.io/index.html" style="font-size: 115%"><b>About</b></a><br />
-          <a href="https://franvillamil.github.io/research.html" style="font-size: 115%"><b>Publications</b></a><br />
-          <a href="https://franvillamil.github.io/book.html" style="font-size: 115%"><b>Book Project</b></a><br />
-          <a href="https://franvillamil.github.io/teaching.html" style="font-size: 115%"><b>Teaching</b></a><br />
-          <a href="https://franvillamil.github.io/data.html" style="font-size: 115%"><b>Data & Code</b></a><br />
-          <a href="https://franvillamil.github.io/media.html" style="font-size: 115%"><b>Media</b></a><br />
-        </p>
+    <main class="page">
+      <header class="site-header">
+        <div class="identity-minimal">
+          <a class="name" href="{{ "/" | relative_url }}">Francisco Villamil</a>
+          <div class="affil">
+            Department of Social Sciences<br/>
+            Universidad Carlos III de Madrid<br/>
+            <a href="mailto:francisco.villamil@uc3m.es">francisco.villamil@uc3m.es</a>
+          </div>
+        </div>
+        <nav class="site-nav">
+          <a href="{{ "/" | relative_url }}"            {% if is_home %}aria-current="page"{% endif %}>About</a>
+          <a href="{{ "/research.html" | relative_url }}" {% if page.url contains "/research" %}aria-current="page"{% endif %}>Publications</a>
+          <a href="{{ "/book.html" | relative_url }}"     {% if page.url contains "/book" %}aria-current="page"{% endif %}>Book Project</a>
+          <a href="{{ "/teaching.html" | relative_url }}" {% if page.url contains "/teaching" %}aria-current="page"{% endif %}>Teaching</a>
+          <a href="{{ "/data.html" | relative_url }}"     {% if page.url contains "/data" %}aria-current="page"{% endif %}>Data &amp; Code</a>
+          <a href="{{ "/media.html" | relative_url }}"    {% if page.url contains "/media" %}aria-current="page"{% endif %}>Media</a>
+          <a href="{{ cv_url }}" target="_blank" rel="noopener">CV</a>
+        </nav>
       </header>
-      <section>
 
-      {{ content }}
+      <article>
+        {% if is_home %}
+        <div class="about-contact">
+          <div class="social">
+            <a href="https://github.com/franvillamil" target="_blank" rel="noopener" aria-label="GitHub">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.55v-1.93c-3.2.7-3.87-1.54-3.87-1.54-.52-1.33-1.27-1.68-1.27-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.24 3.34.95.1-.74.4-1.24.72-1.53-2.55-.29-5.23-1.28-5.23-5.68 0-1.26.45-2.28 1.18-3.09-.12-.29-.51-1.46.11-3.04 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.79 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.58.23 2.75.12 3.04.74.81 1.18 1.84 1.18 3.09 0 4.42-2.69 5.39-5.25 5.67.41.36.78 1.06.78 2.14v3.17c0 .31.21.66.8.55C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/></svg>
+            </a>
+            <a href="https://scholar.google.com/citations?user=G10YqfQAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5s-5.548 1.749-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>
+            </a>
+            <a href="https://bsky.app/profile/franvillamil.bsky.social" target="_blank" rel="noopener" aria-label="Bluesky">
+              <svg viewBox="-50 -50 430 390" aria-hidden="true"><path d="M180 141.964C163.699 110.262 119.308 51.1817 78.0347 22.044C38.4971 -5.86834 23.414 -1.03207 13.526 3.43594C2.08093 8.60755 0 26.1785 0 36.5164C0 46.8542 5.66748 121.272 9.36416 133.694C21.5786 174.738 65.0603 188.607 105.104 184.156C107.151 183.852 109.227 183.572 111.329 183.312C109.267 183.642 107.19 183.924 105.104 184.156C46.4204 192.847 -5.69621 214.233 62.6582 290.33C137.848 368.18 165.705 273.637 180 225.702C194.295 273.637 210.76 364.771 295.995 290.33C360 225.702 313.58 192.85 254.896 184.158C252.81 183.926 250.733 183.645 248.671 183.315C250.773 183.574 252.849 183.855 254.896 184.158C294.94 188.61 338.421 174.74 350.636 133.697C354.333 121.275 360 46.8568 360 36.519C360 26.1811 357.919 8.61012 346.474 3.43851C336.586 -1.02949 321.503 -5.86576 281.965 22.0466C240.692 51.1843 196.301 110.262 180 141.964Z"/></svg>
+            </a>
+            <a href="https://www.webofscience.com/wos/author/rid/AAO-7373-2021" target="_blank" rel="noopener" aria-label="Web of Science">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h8v8H3zM13 3h8v8h-8zM3 13h8v8H3zM13 13h8v8h-8z"/></svg>
+            </a>
+          </div>
+        </div>
 
-      </section>
-      <footer>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+        <img class="about-photo" src="{{ "/files/photo.JPG" | relative_url }}" alt="Francisco Villamil" />
+        {% endif %}
+
+        {{ content }}
+      </article>
+    </main>
   </body>
 </html>
