@@ -118,14 +118,14 @@ body {
 .identity-minimal .name {
   font-family: var(--serif);
   font-weight: 600;
-  font-size: 21px;
-  letter-spacing: -0.012em;
+  font-size: 26px;
+  letter-spacing: -0.018em;
   color: var(--ink);
   text-decoration: none;
-  line-height: 1.15;
+  line-height: 1.1;
   display: flex;
   align-items: center;
-  padding-right: 18px;
+  padding-right: 20px;
   border-right: 1px solid var(--rule);
   white-space: nowrap;
 }
@@ -202,7 +202,7 @@ body {
 /* social icons */
 .social {
   display: flex;
-  gap: 16px;
+  gap: 18px;
   align-items: center;
   margin-bottom: 24px;
 }
@@ -211,14 +211,18 @@ body {
   color: var(--muted);
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  line-height: 1;
+  text-decoration: none;
   transition: color 0.15s ease;
 }
 
 .social a:hover { color: var(--accent); }
 
 .social svg {
-  width: 18px;
-  height: 18px;
+  width: 22px;
+  height: 22px;
   display: block;
   fill: currentColor;
 }
