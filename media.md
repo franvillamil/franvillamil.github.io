@@ -19,4 +19,4 @@ layout: default
 - [The far-right and the military](https://jop.blogs.uni-hamburg.de/the-far-right-and-the-military/) (*The JOP Blog*, 07/2024)
 - [The Impact of Distant Wars on Nationalism: Lessons from Spain](https://jop.blogs.uni-hamburg.de/the-impact-of-distant-wars-on-nationalism-lessons-from-spain/) (*The JOP Blog*, 10/2023)
 - [How political actors influence war legacies](https://www.civilwarpaths.org/2023/10/06/how-political-actors-influence-war-legacies/) (*Civil War Paths Blog*, 10/2023)
-- [The two roads ahead for the Catalan independence movement](https://roarmag.org/essays/two-roads-catalan-independence-movement/) (*ROAR Magazine*, 11/2019)
+- [The two roads ahead for the Catalan independence movement](https://web.archive.org/web/20191111180220/https://roarmag.org/essays/two-roads-catalan-independence-movement/) (*ROAR Magazine*, 11/2019)
