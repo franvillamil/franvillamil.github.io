@@ -30,12 +30,12 @@
         </div>
         <nav class="site-nav">
           <a href="{{ "/" | relative_url }}"            {% if is_home %}aria-current="page"{% endif %}>About</a>
+          <a href="{{ cv_url }}" target="_blank" rel="noopener">CV</a>
           <a href="{{ "/research.html" | relative_url }}" {% if page.url contains "/research" %}aria-current="page"{% endif %}>Publications</a>
           <a href="{{ "/book.html" | relative_url }}"     {% if page.url contains "/book" %}aria-current="page"{% endif %}>Book Project</a>
           <a href="{{ "/teaching.html" | relative_url }}" {% if page.url contains "/teaching" %}aria-current="page"{% endif %}>Teaching</a>
           <a href="{{ "/data.html" | relative_url }}"     {% if page.url contains "/data" %}aria-current="page"{% endif %}>Data &amp; Code</a>
           <a href="{{ "/media.html" | relative_url }}"    {% if page.url contains "/media" %}aria-current="page"{% endif %}>Media</a>
-          <a href="{{ cv_url }}" target="_blank" rel="noopener">CV</a>
         </nav>
       </header>
 
