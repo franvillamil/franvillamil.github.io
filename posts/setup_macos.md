@@ -303,6 +303,7 @@ brew install gnumeric
 pip install xlsx2csv
 brew install httpie
 brew install jq
+brew install poppler # for pdf to txt
 ```
 
 - Probably want to switch from Spectacle to [Rectangle](https://github.com/rxhanson/Rectangle):
