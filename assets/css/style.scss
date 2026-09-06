@@ -294,10 +294,18 @@ article ol {
 }
 
 article li {
-  margin-bottom: 14px;
+  margin-bottom: 6px;
 }
 
-article li p { margin-bottom: 8px; }
+/* nested sub-bullets: no block gap, just the item spacing */
+article li > ul,
+article li > ol {
+  margin: 6px 0 0;
+}
+
+/* loose lists (blank line between markdown items) wrap text in <p> */
+article li > p { margin-bottom: 6px; }
+article li > p:last-child { margin-bottom: 0; }
 
 article a {
   color: var(--accent);
