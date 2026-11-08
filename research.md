@@ -6,6 +6,8 @@ layout: default
 
 ### Peer-reviewed articles
 
+* **Media, public opinion, and polarization over historical memory** (with laia Bacells and Juan F Tellez). *European Political Science Review*, forthcoming.
+<br/><a href="./pubs/2027_balcells_tellez_villamil.html"><button type="button button1">details</button></a>
 * **Generational legacies of authoritarianism: Evidence from Spain** (with Laia Balcells). [*European Journal of Political Research*, 2026](https://doi.org/10.1017/S1475676526101042).
 <br/><a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E689D5140DC9877D46BCDE1F58A10508/S1475676526101042a.pdf/generational-legacies-of-authoritarianism-evidence-from-spain.pdf" target="_blank"><button type="button button1">PDF</button></a> <a href="./pubs/2026_balcells_villamil.html"><button type="button button1">details</button></a>
 * **Mobilization capacity and violence against local leaders: Anticlerical violence during the Spanish Civil War** (with Paloma Aguilar, Fernando de la Cuesta, and Ignacio Sánchez-Cuenca). [*Comparative Political Studies*, 2025](https://doi.org/10.1177/00104140241269894). <br/><a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2025_Aguilar_etal_preprint.pdf" target="_blank"><button type="button button1">PDF</button></a> <a href="./pubs/2025_aguilar_et_al.html"><button type="button button1">details</button></a>
