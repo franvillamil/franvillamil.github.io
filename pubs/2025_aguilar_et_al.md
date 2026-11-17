@@ -13,6 +13,8 @@
 
 - [Anatomía del horror: las razones ocultas de las matanzas de clérigos de 1936](https://elpais.com/ideas/2024-12-14/anatomia-del-horror-las-razones-ocultas-de-la-matanza-de-clerigos-de-1936.html) (El País)
 - [¿El regreso de la violencia?](https://www.publico.es/opinion/columnas/regreso-violencia.html) (Público)
+- [Una cuestión de arraigo...](https://www.larazon.es/cultura/historia/una-cuestion-de-arraigo_2025011568234f85f7f20a10d03c2f56.html) (La Razón)
+- [Las matanzas de clérigos fueron estratégicas](https://www.vozpopuli.com/opinion/matanzas-clerigos-fueron-estrategicas.html) (Vozpópuli)
 
 **Abstract:**
 
