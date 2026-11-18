@@ -31,7 +31,7 @@ body {
 }
 
 .page {
-  max-width: 640px;
+  max-width: 680px;
   margin: 0 auto;
   padding: 56px 28px 80px;
 }
@@ -78,7 +78,7 @@ body {
 
 .identity-text p {
   margin: 0;
-  font-size: 14px;
+  font-size: 15px;
   color: var(--muted);
   line-height: 1.5;
 }
@@ -133,7 +133,7 @@ body {
 .identity-minimal .name:hover { color: var(--accent); }
 
 .identity-minimal .affil {
-  font-size: 13px;
+  font-size: 14px;
   color: var(--muted);
   line-height: 1.55;
   display: flex;
@@ -164,7 +164,7 @@ body {
 .about-contact .social { margin-bottom: 0; }
 
 .about-contact .email {
-  font-size: 14px;
+  font-size: 15px;
   color: var(--muted);
 }
 
@@ -233,7 +233,7 @@ body {
   flex-wrap: wrap;
   gap: 4px 22px;
   padding-top: 12px;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .site-nav a {
@@ -248,14 +248,14 @@ body {
 
 /* ---------- article ---------- */
 article {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.7;
 }
 
 article h2 {
   font-family: var(--serif);
   font-weight: 600;
-  font-size: 24px;
+  font-size: 26px;
   letter-spacing: -0.012em;
   margin: 0 0 28px;
   color: var(--ink);
@@ -265,7 +265,7 @@ article h2 {
 article h3 {
   font-family: var(--serif);
   font-weight: 600;
-  font-size: 18px;
+  font-size: 20px;
   margin: 44px 0 14px;
   color: var(--ink);
   letter-spacing: -0.005em;
@@ -275,7 +275,7 @@ article h3 {
 article h4 {
   font-family: var(--sans);
   font-weight: 600;
-  font-size: 12px;
+  font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--muted);
@@ -376,7 +376,7 @@ article button[type^="button"],
 .pubbtn {
   display: inline-block;
   font-family: var(--sans);
-  font-size: 11.5px;
+  font-size: 12.5px;
   font-weight: 500;
   letter-spacing: 0.02em;
   padding: 2px 9px;
@@ -403,7 +403,7 @@ article a:hover button[type^="button"],
   margin-top: 72px;
   padding-top: 24px;
   border-top: 1px solid var(--rule);
-  font-size: 13px;
+  font-size: 14px;
   color: var(--muted);
 }
 
