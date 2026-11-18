@@ -6,7 +6,7 @@
 
 *The Journal of Politics*, 2024 ([doi/10.1086/726939](https://doi.org/10.1086/726939)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Balcells_Tellez_Villamil_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Balcells_Tellez_Villamil_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://doi.org/10.7910/DVN/COS3BS" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=G10YqfQAAAAJ:_FxGoFyzp5QC"><button type="button button1">Google Scholar</button></a>
+<a class="publink" href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Balcells_Tellez_Villamil_preprint.pdf" target="_blank">PDF (Preprint)</a> <a class="publink" href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Balcells_Tellez_Villamil_appendix.pdf" target="_blank">Appendix</a> <a class="publink" href="https://doi.org/10.7910/DVN/COS3BS" target="_blank">Replication</a> <a class="publink" href="https://scholar.google.com/citations?view_op=view_citation&citation_for_view=G10YqfQAAAAJ:_FxGoFyzp5QC">Google Scholar</a>
 
 **Media/outreach:**
 

@@ -3,15 +3,16 @@
 
 /* ---------- design tokens ---------- */
 :root {
-  --bg: #f5f5f5;
+  --bg: #fbfaf7;
   --ink: #222222;
   --muted: #6a6a6a;
-  --rule: #e0e0e0;
+  --rule: #e6e3dc;
   --accent: #2e4a6b;
   --accent-hover: #1a3654;
-  --serif: Charter, "Iowan Old Style", "Iowa Old Style", "Apple Garamond", Baskerville, Georgia, "Times New Roman", Times, serif;
+  --serif: "Source Serif 4", Charter, "Iowan Old Style", "Iowa Old Style", "Apple Garamond", Baskerville, Georgia, "Times New Roman", Times, serif;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif;
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --tint: #f0ede6;
 }
 
 * { box-sizing: border-box; }
@@ -56,7 +57,7 @@ body {
   border-radius: 3px;
   object-fit: cover;
   flex-shrink: 0;
-  background: #e8e8e8;
+  background: var(--tint);
 }
 
 .identity-text { min-width: 0; }
@@ -93,10 +94,6 @@ body {
 .identity-text p a:hover { color: var(--accent); }
 
 /* minimal header (non-home pages) */
-.identity-minimal {
-  margin-bottom: 22px;
-}
-
 .identity-minimal a {
   font-family: var(--serif);
   font-weight: 600;
@@ -108,8 +105,8 @@ body {
 
 .identity-minimal a:hover { color: var(--accent); }
 
-/* minimal header refinements */
 .identity-minimal {
+  margin-bottom: 22px;
   display: flex;
   align-items: stretch;
   gap: 18px;
@@ -294,7 +291,7 @@ article ol {
 }
 
 article li {
-  margin-bottom: 10px;
+  margin-bottom: 16px;
 }
 
 article li p { margin-bottom: 8px; }
@@ -349,7 +346,7 @@ article blockquote {
 article code {
   font-family: var(--mono);
   font-size: 0.88em;
-  background: #eaeaea;
+  background: var(--tint);
   padding: 1px 5px;
   border-radius: 3px;
 }
@@ -357,7 +354,7 @@ article code {
 article pre {
   font-family: var(--mono);
   font-size: 0.88em;
-  background: #eaeaea;
+  background: var(--tint);
   padding: 14px 16px;
   border-radius: 4px;
   overflow-x: auto;
@@ -369,33 +366,19 @@ article pre code {
   padding: 0;
 }
 
-/* publication "PDF" / "details" pill buttons.
-   The existing markdown uses <button type="button button1">PDF</button> inside an <a>;
-   we style both that legacy button and a new .pubbtn class. */
-article button[type^="button"],
-.pubbtn {
+/* publication links (PDF, details, Appendix, ...) */
+article a.publink {
   display: inline-block;
-  font-family: var(--sans);
-  font-size: 12.5px;
+  font-size: 14px;
   font-weight: 500;
-  letter-spacing: 0.02em;
-  padding: 2px 9px;
-  border: 1px solid var(--accent);
-  color: var(--accent);
-  background: transparent;
+  letter-spacing: 0.01em;
+  margin: 2px 14px 0 0;
   text-decoration: none;
-  border-radius: 3px;
-  margin: 0 4px 0 0;
-  transition: background 0.15s ease, color 0.15s ease;
-  cursor: pointer;
-  vertical-align: 1px;
-  line-height: 1.4;
 }
 
-article a:hover button[type^="button"],
-.pubbtn:hover {
-  background: var(--accent);
-  color: var(--bg);
+article a.publink:hover {
+  text-decoration: underline;
+  text-decoration-color: currentColor;
 }
 
 /* footer */
@@ -451,9 +434,8 @@ article a:hover button[type^="button"],
 details[open] {
   margin: 2em 0;
   padding: 0.1em 1em 1em;
-  background-color: #eaeaea;
+  background-color: var(--tint);
   border-radius: 3px;
-  font-style: italic;
 }
 
 details:not([open]) {

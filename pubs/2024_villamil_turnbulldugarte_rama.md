@@ -6,7 +6,7 @@
 
 *The Journal of Politics*, 2024 ([doi/10.1086/727598](https://doi.org/10.1086/727598)).
 
-<a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Villamil_TurnbullDugarte_Rama_preprint.pdf" target="_blank"><button type="button button1">PDF (Preprint)</button></a> <a href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Villamil_TurnbullDugarte_Rama_appendix.pdf" target="_blank"><button type="button button1">Appendix</button></a> <a href="https://github.com/franvillamil/vox_military" target="_blank"><button type="button button1">Replication</button></a> <a href="https://scholar.google.es/citations?view_op=view_citation&citation_for_view=G10YqfQAAAAJ:Y0pCki6q_DkC"><button type="button button1">Google Scholar</button></a>
+<a class="publink" href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Villamil_TurnbullDugarte_Rama_preprint.pdf" target="_blank">PDF (Preprint)</a> <a class="publink" href="https://nbviewer.org/github/franvillamil/franvillamil.github.io/blob/master/files/pubs/2023_Villamil_TurnbullDugarte_Rama_appendix.pdf" target="_blank">Appendix</a> <a class="publink" href="https://github.com/franvillamil/vox_military" target="_blank">Replication</a> <a class="publink" href="https://scholar.google.es/citations?view_op=view_citation&citation_for_view=G10YqfQAAAAJ:Y0pCki6q_DkC">Google Scholar</a>
 
 **Media/outreach:**
 
